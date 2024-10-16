@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "audio-jack")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/audio-jack/audio-jack.pretty")(options "")(descr ""))
+)
