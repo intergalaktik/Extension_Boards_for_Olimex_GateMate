@@ -1,4 +1,9 @@
 (fp_lib_table
   (version 7)
   (lib (name "audio-jack")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/audio-jack/audio-jack.pretty")(options "")(descr ""))
+  (lib (name "radiona")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/radiona.pretty")(options "")(descr ""))
+  (lib (name "intergalaktik")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/intergalaktik")(options "")(descr ""))
+  (lib (name "ChiliChips")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/ChiliChips")(options "")(descr ""))
+  (lib (name "nlnet")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/nlnet.pretty")(options "")(descr ""))
+  (lib (name "Cologne")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/Cologne")(options "")(descr ""))
 )

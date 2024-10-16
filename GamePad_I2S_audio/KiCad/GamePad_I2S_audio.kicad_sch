@@ -4275,7 +4275,7 @@
 	)
 	(polyline
 		(pts
-			(xy 25.4 54.61) (xy 25.4 67.31)
+			(xy 24.13 49.53) (xy 24.13 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4315,7 +4315,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 46.99) (xy 88.9 46.99)
+			(xy 85.09 55.88) (xy 88.9 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4425,7 +4425,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 57.15) (xy 67.31 57.15)
+			(xy 50.8 52.07) (xy 66.04 52.07)
 		)
 		(stroke
 			(width 0)
@@ -4435,7 +4435,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 67.31) (xy 67.31 67.31)
+			(xy 50.8 62.23) (xy 66.04 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4485,7 +4485,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 31.75) (xy 113.03 31.75)
+			(xy 109.22 40.64) (xy 113.03 40.64)
 		)
 		(stroke
 			(width 0)
@@ -4535,7 +4535,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 46.99) (xy 39.37 46.99)
+			(xy 25.4 41.91) (xy 38.1 41.91)
 		)
 		(stroke
 			(width 0)
@@ -4575,7 +4575,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 64.77) (xy 67.31 64.77)
+			(xy 50.8 59.69) (xy 66.04 59.69)
 		)
 		(stroke
 			(width 0)
@@ -4585,7 +4585,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 46.99) (xy 101.6 46.99)
+			(xy 96.52 55.88) (xy 101.6 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4595,7 +4595,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 52.07) (xy 62.23 52.07)
+			(xy 50.8 46.99) (xy 60.96 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4625,7 +4625,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 52.07) (xy 113.03 52.07)
+			(xy 109.22 60.96) (xy 113.03 60.96)
 		)
 		(stroke
 			(width 0)
@@ -4685,7 +4685,7 @@
 	)
 	(polyline
 		(pts
-			(xy 68.58 57.15) (xy 68.58 69.85)
+			(xy 67.31 52.07) (xy 67.31 64.77)
 		)
 		(stroke
 			(width 0)
@@ -4766,7 +4766,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 41.91) (xy 39.37 41.91)
+			(xy 25.4 36.83) (xy 38.1 36.83)
 		)
 		(stroke
 			(width 0)
@@ -4846,7 +4846,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 49.53) (xy 62.23 49.53)
+			(xy 50.8 44.45) (xy 60.96 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4876,7 +4876,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 39.37) (xy 39.37 39.37)
+			(xy 25.4 34.29) (xy 38.1 34.29)
 		)
 		(stroke
 			(width 0)
@@ -4916,7 +4916,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 72.39) (xy 64.77 72.39)
+			(xy 60.96 67.31) (xy 63.5 67.31)
 		)
 		(stroke
 			(width 0)
@@ -4956,7 +4956,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 54.61) (xy 39.37 54.61)
+			(xy 25.4 49.53) (xy 38.1 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4976,7 +4976,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 69.85) (xy 39.37 69.85)
+			(xy 22.86 64.77) (xy 38.1 64.77)
 		)
 		(stroke
 			(width 0)
@@ -5026,7 +5026,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 26.67) (xy 101.6 26.67)
+			(xy 96.52 35.56) (xy 101.6 35.56)
 		)
 		(stroke
 			(width 0)
@@ -5076,7 +5076,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 57.15) (xy 113.03 57.15)
+			(xy 109.22 66.04) (xy 113.03 66.04)
 		)
 		(stroke
 			(width 0)
@@ -5086,7 +5086,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 62.23) (xy 39.37 62.23)
+			(xy 25.4 57.15) (xy 38.1 57.15)
 		)
 		(stroke
 			(width 0)
@@ -5106,7 +5106,7 @@
 	)
 	(polyline
 		(pts
-			(xy 63.5 36.83) (xy 63.5 54.61)
+			(xy 62.23 31.75) (xy 62.23 49.53)
 		)
 		(stroke
 			(width 0)
@@ -5146,7 +5146,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 41.91) (xy 88.9 41.91)
+			(xy 85.09 50.8) (xy 88.9 50.8)
 		)
 		(stroke
 			(width 0)
@@ -5176,7 +5176,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 74.93) (xy 64.77 74.93)
+			(xy 50.8 69.85) (xy 63.5 69.85)
 		)
 		(stroke
 			(width 0)
@@ -5246,7 +5246,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 21.59) (xy 101.6 21.59)
+			(xy 96.52 30.48) (xy 101.6 30.48)
 		)
 		(stroke
 			(width 0)
@@ -5296,7 +5296,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 57.15) (xy 101.6 57.15)
+			(xy 96.52 66.04) (xy 101.6 66.04)
 		)
 		(stroke
 			(width 0)
@@ -5316,7 +5316,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 21.59) (xy 88.9 21.59)
+			(xy 85.09 30.48) (xy 88.9 30.48)
 		)
 		(stroke
 			(width 0)
@@ -5326,7 +5326,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 44.45) (xy 39.37 44.45)
+			(xy 25.4 39.37) (xy 38.1 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5436,7 +5436,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 52.07) (xy 39.37 52.07)
+			(xy 25.4 46.99) (xy 38.1 46.99)
 		)
 		(stroke
 			(width 0)
@@ -5446,7 +5446,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 36.83) (xy 88.9 36.83)
+			(xy 85.09 45.72) (xy 88.9 45.72)
 		)
 		(stroke
 			(width 0)
@@ -5476,7 +5476,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 64.77) (xy 39.37 64.77)
+			(xy 25.4 59.69) (xy 38.1 59.69)
 		)
 		(stroke
 			(width 0)
@@ -5516,7 +5516,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 59.69) (xy 39.37 59.69)
+			(xy 25.4 54.61) (xy 38.1 54.61)
 		)
 		(stroke
 			(width 0)
@@ -5726,7 +5726,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 34.29) (xy 52.07 34.29)
+			(xy 63.5 29.21) (xy 50.8 29.21)
 		)
 		(stroke
 			(width 0)
@@ -5736,7 +5736,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 26.67) (xy 88.9 26.67)
+			(xy 85.09 35.56) (xy 88.9 35.56)
 		)
 		(stroke
 			(width 0)
@@ -5746,7 +5746,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 72.39) (xy 29.21 72.39)
+			(xy 20.32 67.31) (xy 27.94 67.31)
 		)
 		(stroke
 			(width 0)
@@ -5756,7 +5756,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 44.45) (xy 62.23 44.45)
+			(xy 50.8 39.37) (xy 60.96 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5836,7 +5836,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 52.07) (xy 101.6 52.07)
+			(xy 96.52 60.96) (xy 101.6 60.96)
 		)
 		(stroke
 			(width 0)
@@ -5876,7 +5876,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 46.99) (xy 113.03 46.99)
+			(xy 109.22 55.88) (xy 113.03 55.88)
 		)
 		(stroke
 			(width 0)
@@ -5916,7 +5916,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 59.69) (xy 67.31 59.69)
+			(xy 50.8 54.61) (xy 66.04 54.61)
 		)
 		(stroke
 			(width 0)
@@ -5936,7 +5936,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 39.37) (xy 62.23 39.37)
+			(xy 50.8 34.29) (xy 60.96 34.29)
 		)
 		(stroke
 			(width 0)
@@ -5956,7 +5956,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 67.31) (xy 39.37 67.31)
+			(xy 25.4 62.23) (xy 38.1 62.23)
 		)
 		(stroke
 			(width 0)
@@ -6046,7 +6046,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 72.39) (xy 36.83 72.39)
+			(xy 38.1 67.31) (xy 35.56 67.31)
 		)
 		(stroke
 			(width 0)
@@ -6086,7 +6086,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 49.53) (xy 39.37 49.53)
+			(xy 25.4 44.45) (xy 38.1 44.45)
 		)
 		(stroke
 			(width 0)
@@ -6166,7 +6166,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 36.83) (xy 62.23 36.83)
+			(xy 50.8 31.75) (xy 60.96 31.75)
 		)
 		(stroke
 			(width 0)
@@ -6196,7 +6196,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 31.75) (xy 101.6 31.75)
+			(xy 96.52 40.64) (xy 101.6 40.64)
 		)
 		(stroke
 			(width 0)
@@ -6236,7 +6236,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 54.61) (xy 62.23 54.61)
+			(xy 50.8 49.53) (xy 60.96 49.53)
 		)
 		(stroke
 			(width 0)
@@ -6336,7 +6336,7 @@
 	)
 	(polyline
 		(pts
-			(xy 25.4 39.37) (xy 25.4 52.07)
+			(xy 24.13 34.29) (xy 24.13 46.99)
 		)
 		(stroke
 			(width 0)
@@ -6426,7 +6426,7 @@
 	)
 	(polyline
 		(pts
-			(xy 120.015 19.05) (xy 120.015 36.83)
+			(xy 120.015 27.94) (xy 120.015 45.72)
 		)
 		(stroke
 			(width 0)
@@ -6466,7 +6466,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 74.93) (xy 26.67 74.93)
+			(xy 38.1 69.85) (xy 25.4 69.85)
 		)
 		(stroke
 			(width 0)
@@ -6476,7 +6476,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 36.83) (xy 39.37 36.83)
+			(xy 25.4 31.75) (xy 38.1 31.75)
 		)
 		(stroke
 			(width 0)
@@ -6596,7 +6596,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 36.83) (xy 101.6 36.83)
+			(xy 96.52 45.72) (xy 101.6 45.72)
 		)
 		(stroke
 			(width 0)
@@ -6606,7 +6606,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 21.59) (xy 113.03 21.59)
+			(xy 109.22 30.48) (xy 113.03 30.48)
 		)
 		(stroke
 			(width 0)
@@ -6696,7 +6696,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 41.91) (xy 113.03 41.91)
+			(xy 109.22 50.8) (xy 113.03 50.8)
 		)
 		(stroke
 			(width 0)
@@ -6806,7 +6806,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 57.15) (xy 88.9 57.15)
+			(xy 85.09 66.04) (xy 88.9 66.04)
 		)
 		(stroke
 			(width 0)
@@ -6816,7 +6816,7 @@
 	)
 	(polyline
 		(pts
-			(xy 120.015 40.64) (xy 120.015 58.42)
+			(xy 120.015 49.53) (xy 120.015 67.31)
 		)
 		(stroke
 			(width 0)
@@ -6826,7 +6826,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 57.15) (xy 39.37 57.15)
+			(xy 25.4 52.07) (xy 38.1 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6846,7 +6846,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 46.99) (xy 62.23 46.99)
+			(xy 50.8 41.91) (xy 60.96 41.91)
 		)
 		(stroke
 			(width 0)
@@ -6886,7 +6886,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 31.75) (xy 88.9 31.75)
+			(xy 85.09 40.64) (xy 88.9 40.64)
 		)
 		(stroke
 			(width 0)
@@ -6906,7 +6906,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 41.91) (xy 101.6 41.91)
+			(xy 96.52 50.8) (xy 101.6 50.8)
 		)
 		(stroke
 			(width 0)
@@ -6926,7 +6926,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 72.39) (xy 52.07 72.39)
+			(xy 53.34 67.31) (xy 50.8 67.31)
 		)
 		(stroke
 			(width 0)
@@ -6956,7 +6956,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 52.07) (xy 88.9 52.07)
+			(xy 85.09 60.96) (xy 88.9 60.96)
 		)
 		(stroke
 			(width 0)
@@ -6996,7 +6996,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 62.23) (xy 67.31 62.23)
+			(xy 50.8 57.15) (xy 66.04 57.15)
 		)
 		(stroke
 			(width 0)
@@ -7016,7 +7016,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 36.83) (xy 113.03 36.83)
+			(xy 109.22 45.72) (xy 113.03 45.72)
 		)
 		(stroke
 			(width 0)
@@ -7026,7 +7026,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 34.29) (xy 39.37 34.29)
+			(xy 25.4 29.21) (xy 38.1 29.21)
 		)
 		(stroke
 			(width 0)
@@ -7066,7 +7066,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 41.91) (xy 62.23 41.91)
+			(xy 50.8 36.83) (xy 60.96 36.83)
 		)
 		(stroke
 			(width 0)
@@ -7076,7 +7076,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 69.85) (xy 67.31 69.85)
+			(xy 50.8 64.77) (xy 66.04 64.77)
 		)
 		(stroke
 			(width 0)
@@ -7086,7 +7086,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 26.67) (xy 113.03 26.67)
+			(xy 109.22 35.56) (xy 113.03 35.56)
 		)
 		(stroke
 			(width 0)
@@ -7250,6 +7250,19 @@
 		(uuid 700e0907-64e7-4cf8-83b6-d0fec196594d)
 	)
 	(rectangle
+		(start 132.08 160.02)
+		(end 173.99 195.58)
+		(stroke
+			(width 0.127)
+			(type dash)
+		)
+		(fill
+			(type color)
+			(color 255 41 17 0.48)
+		)
+		(uuid 92d36043-d711-4cc5-964d-4d73af7da937)
+	)
+	(rectangle
 		(start 127 16.51)
 		(end 203.2 78.74)
 		(stroke
@@ -7277,7 +7290,7 @@
 	)
 	(text "2V5 Levels"
 		(exclude_from_sim no)
-		(at 24.892 65.024 90)
+		(at 23.622 59.944 90)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -7289,7 +7302,7 @@
 	)
 	(text "1V8 Levels"
 		(exclude_from_sim no)
-		(at 121.92 53.34 90)
+		(at 121.92 62.23 90)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -7309,6 +7322,18 @@
 			)
 		)
 		(uuid "1853fd37-d9ed-41a1-b160-3e7d1a5aef27")
+	)
+	(text "Audio connections"
+		(exclude_from_sim no)
+		(at 150.114 160.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(bold yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "63124686-c9e3-42e8-8d1d-c495156d233c")
 	)
 	(text "Audio DAC"
 		(exclude_from_sim no)
@@ -7347,7 +7372,7 @@
 	)
 	(text "BTNs"
 		(exclude_from_sim no)
-		(at 23.114 45.212 90)
+		(at 21.844 40.132 90)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -7426,7 +7451,7 @@
 	)
 	(text "1V8 Levels"
 		(exclude_from_sim no)
-		(at 65.405 49.53 90)
+		(at 64.135 44.45 90)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -7438,7 +7463,7 @@
 	)
 	(text "2V5 Levels"
 		(exclude_from_sim no)
-		(at 24.765 47.625 90)
+		(at 23.495 42.545 90)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -7461,7 +7486,7 @@
 	)
 	(text "LVDS Diff. Pairs\nZdiff=100 Ohms!"
 		(exclude_from_sim no)
-		(at 72.39 69.85 90)
+		(at 71.12 64.77 90)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -7496,7 +7521,7 @@
 	)
 	(text "Audio"
 		(exclude_from_sim no)
-		(at 23.114 61.976 90)
+		(at 21.844 56.896 90)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -7533,7 +7558,7 @@
 	)
 	(text "1V8 Levels"
 		(exclude_from_sim no)
-		(at 121.92 31.75 90)
+		(at 121.92 40.64 90)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -7545,7 +7570,7 @@
 	)
 	(text "LEDs"
 		(exclude_from_sim no)
-		(at 67.31 46.99 90)
+		(at 66.04 41.91 90)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -7566,9 +7591,9 @@
 		)
 		(uuid "fbcf57a8-fac1-465b-97ff-b5f4907ce1e6")
 	)
-	(text "Decoupling"
+	(text "Decoupling DAC"
 		(exclude_from_sim no)
-		(at 214.376 16.256 0)
+		(at 216.916 16.256 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7579,7 +7604,7 @@
 		(uuid "fc2e9294-7ef6-4c5a-8d70-5dfab0b502d3")
 	)
 	(label "WC_B2"
-		(at 54.61 41.91 0)
+		(at 53.34 36.83 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7601,7 +7626,7 @@
 		(uuid "0716496e-f661-4cbc-bad1-c40d48994002")
 	)
 	(label "SER_RX_P"
-		(at 54.61 69.85 0)
+		(at 53.34 64.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7614,7 +7639,7 @@
 		(uuid "07616033-1037-4c08-be9d-fcc2ff9dfba3")
 	)
 	(label "WC_A3"
-		(at 113.03 26.67 0)
+		(at 113.03 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7636,7 +7661,7 @@
 		(uuid "110a334b-d6b7-4de8-9bf7-f6acca5b72b8")
 	)
 	(label "SB_A2"
-		(at 29.21 57.15 0)
+		(at 27.94 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7647,7 +7672,7 @@
 		(uuid "1447bf4f-5372-4dee-9b81-494c2a9f3d15")
 	)
 	(label "SB_B1"
-		(at 29.21 59.69 0)
+		(at 27.94 54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7658,7 +7683,7 @@
 		(uuid "183c901c-d3fb-4ec3-aee9-fcf0ef10b385")
 	)
 	(label "SER_CLK_N"
-		(at 54.61 57.15 0)
+		(at 53.34 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7693,7 +7718,7 @@
 		(uuid "26e99906-37f7-4d7e-a3f8-70a40bcc418d")
 	)
 	(label "EA_B8"
-		(at 29.21 41.91 0)
+		(at 27.94 36.83 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7726,7 +7751,7 @@
 		(uuid "39f099d5-ccb3-4579-876a-b81f2f5c187b")
 	)
 	(label "WC_B0"
-		(at 113.03 52.07 0)
+		(at 113.03 60.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7737,7 +7762,7 @@
 		(uuid "3a125f30-f040-4d55-a0a1-e8401e5e8e4e")
 	)
 	(label "SER_RX_N"
-		(at 54.61 67.31 0)
+		(at 53.34 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7761,7 +7786,7 @@
 		(uuid "3fa43755-168e-4965-8ac0-ee7821d26bb1")
 	)
 	(label "WC_A2"
-		(at 54.61 44.45 0)
+		(at 53.34 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7772,7 +7797,7 @@
 		(uuid "40ab5a4d-5a30-456c-82f8-ebc8cf8a8913")
 	)
 	(label "WC_B1"
-		(at 113.03 41.91 0)
+		(at 113.03 50.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7794,7 +7819,7 @@
 		(uuid "45dd13cc-286a-48d1-a137-b75f0733139e")
 	)
 	(label "SB_B0"
-		(at 29.21 64.77 0)
+		(at 27.94 59.69 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7827,7 +7852,7 @@
 		(uuid "5482c7b3-9975-4ba4-a735-bef51dd23d0b")
 	)
 	(label "SB_A3"
-		(at 29.21 52.07 0)
+		(at 27.94 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7838,7 +7863,7 @@
 		(uuid "55ee78bf-3dea-47d6-ae75-0a7f2583c483")
 	)
 	(label "WC_A0"
-		(at 54.61 54.61 0)
+		(at 53.34 49.53 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7871,7 +7896,7 @@
 		(uuid "5f46c549-e417-49eb-b21c-d370a198b7a1")
 	)
 	(label "EA_A8"
-		(at 29.21 39.37 0)
+		(at 27.94 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7904,7 +7929,7 @@
 		(uuid "70b4f983-2e35-4110-b0b3-fa92ba0d5512")
 	)
 	(label "FPGA_RESET_IN"
-		(at 26.67 69.85 0)
+		(at 25.4 64.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7917,7 +7942,7 @@
 		(uuid "75d5a34d-1c86-4d06-a8cc-ce638a446570")
 	)
 	(label "SB_A0"
-		(at 29.21 67.31 0)
+		(at 27.94 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7939,7 +7964,7 @@
 		(uuid "7984f8a5-5c15-44b5-8416-112da9aa71de")
 	)
 	(label "SER_TX_N"
-		(at 54.61 64.77 0)
+		(at 53.34 59.69 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7952,7 +7977,7 @@
 		(uuid "7ed2216b-90fa-425a-b96e-93646d10e3a2")
 	)
 	(label "WC_B1"
-		(at 54.61 46.99 0)
+		(at 53.34 41.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7963,7 +7988,7 @@
 		(uuid "7f1f8f1d-a582-4c3a-85bc-b213412edf08")
 	)
 	(label "WB_B8"
-		(at 29.21 46.99 0)
+		(at 27.94 41.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8018,7 +8043,7 @@
 		(uuid "8caafdd7-c47d-473d-a1d8-5bc49e1d0b97")
 	)
 	(label "WC_A3"
-		(at 54.61 39.37 0)
+		(at 53.34 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8040,7 +8065,7 @@
 		(uuid "93940ae6-3e5d-46ca-8b3c-c1ea73cdd944")
 	)
 	(label "WB_A8"
-		(at 29.21 44.45 0)
+		(at 27.94 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8073,7 +8098,7 @@
 		(uuid "9fb3633e-9612-4c4d-b488-f53feec12de3")
 	)
 	(label "SB_B3"
-		(at 29.21 49.53 0)
+		(at 27.94 44.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8117,7 +8142,7 @@
 		(uuid "a659e6a9-3257-48fc-ae85-da8f4a7fcee8")
 	)
 	(label "SER_TX_P"
-		(at 54.61 62.23 0)
+		(at 53.34 57.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8152,7 +8177,7 @@
 		(uuid "b125dd08-ec00-422b-a474-74574a7b95a9")
 	)
 	(label "SER_CLK_P"
-		(at 54.61 59.69 0)
+		(at 53.34 54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8165,7 +8190,7 @@
 		(uuid "b23e3398-ca75-47d4-b81b-0fe3c833682c")
 	)
 	(label "FPGA_SPI_FWD"
-		(at 26.67 36.83 0)
+		(at 25.4 31.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8178,7 +8203,7 @@
 		(uuid "b2ab3999-721b-4f92-8dbc-3c7652130c95")
 	)
 	(label "WC_A1"
-		(at 54.61 49.53 0)
+		(at 53.34 44.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8200,7 +8225,7 @@
 		(uuid "b8ab29d3-d3b8-456b-bff2-c9c1b8e57d53")
 	)
 	(label "WC_A0"
-		(at 113.03 57.15 0)
+		(at 113.03 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8211,7 +8236,7 @@
 		(uuid "ba34953e-39f4-4b6c-b16d-e154594b0d76")
 	)
 	(label "SB_A1"
-		(at 29.21 62.23 0)
+		(at 27.94 57.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8288,7 +8313,7 @@
 		(uuid "c6b78d23-3681-48c3-83cb-4e41ff38c36d")
 	)
 	(label "WC_A1"
-		(at 113.03 46.99 0)
+		(at 113.03 55.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8299,7 +8324,7 @@
 		(uuid "c984af49-ac76-45f7-a1d9-b4f83656f2cd")
 	)
 	(label "CLK0"
-		(at 21.59 72.39 0)
+		(at 20.32 67.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8312,7 +8337,7 @@
 		(uuid "caa42937-a737-43a4-a82d-79faec201177")
 	)
 	(label "WC_B3"
-		(at 54.61 36.83 0)
+		(at 53.34 31.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8345,7 +8370,7 @@
 		(uuid "d52caffc-463d-4d77-a87d-ea04bde97515")
 	)
 	(label "SB_B2"
-		(at 29.21 54.61 0)
+		(at 27.94 49.53 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8356,7 +8381,7 @@
 		(uuid "d664e183-d656-4c69-b311-18715716a39f")
 	)
 	(label "WC_B3"
-		(at 113.03 21.59 0)
+		(at 113.03 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8367,7 +8392,7 @@
 		(uuid "d7c09de5-708d-4432-9c3c-944b0377a21b")
 	)
 	(label "WC_B2"
-		(at 113.03 31.75 0)
+		(at 113.03 40.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8378,7 +8403,7 @@
 		(uuid "db72e2e9-7abf-486e-acf6-fc528640f9c8")
 	)
 	(label "WC_B0"
-		(at 54.61 52.07 0)
+		(at 53.34 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8389,7 +8414,7 @@
 		(uuid "e3bcf987-1f78-4f07-8d21-c62dbebbc831")
 	)
 	(label "WC_A2"
-		(at 113.03 36.83 0)
+		(at 113.03 45.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8400,7 +8425,7 @@
 		(uuid "e49249d1-b607-48c3-8736-2d6a04bd6157")
 	)
 	(label "CLK3"
-		(at 64.77 72.39 0)
+		(at 63.5 67.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8722,7 +8747,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_RCL:R")
-		(at 105.41 36.83 0)
+		(at 105.41 45.72 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -8730,7 +8755,7 @@
 		(dnp no)
 		(uuid "056a784c-b727-4fce-bd2b-40df776a8c62")
 		(property "Reference" "R3"
-			(at 110.49 35.56 0)
+			(at 110.49 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8738,15 +8763,15 @@
 			)
 		)
 		(property "Value" "2.2K/R0402"
-			(at 105.41 38.735 0)
+			(at 105.41 47.625 0)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 38.608 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 105.41 47.498 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -8755,7 +8780,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 36.83 90)
+			(at 105.41 45.72 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -8763,7 +8788,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 36.83 0)
+			(at 105.41 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8855,7 +8880,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 57.15 180)
+		(at 92.71 66.04 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8863,7 +8888,7 @@
 		(dnp no)
 		(uuid "085e6a1f-38ca-4e89-8400-b4931e2d49b9")
 		(property "Reference" "LED7"
-			(at 88.646 58.42 0)
+			(at 88.646 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8871,7 +8896,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 58.42 0)
+			(at 96.012 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8879,7 +8904,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 57.15 0)
+			(at 92.71 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8888,7 +8913,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 57.15 0)
+			(at 92.71 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8897,7 +8922,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 57.15 0)
+			(at 92.71 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8922,7 +8947,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:+2V5")
-		(at 26.67 34.29 90)
+		(at 25.4 29.21 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8930,7 +8955,7 @@
 		(dnp no)
 		(uuid "09388789-a471-4da6-b0ec-19843261c68d")
 		(property "Reference" "#PWR01"
-			(at 30.48 34.29 0)
+			(at 29.21 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8939,7 +8964,7 @@
 			)
 		)
 		(property "Value" "+2V5"
-			(at 21.59 34.29 90)
+			(at 20.32 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8947,7 +8972,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 34.29 0)
+			(at 25.4 29.21 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -8955,7 +8980,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 34.29 0)
+			(at 25.4 29.21 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -8963,7 +8988,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 26.67 34.29 0)
+			(at 25.4 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9075,7 +9100,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 130.81 124.46 0)
 			(effects
 				(font
@@ -9315,7 +9340,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_RCL:R")
-		(at 105.41 21.59 0)
+		(at 105.41 30.48 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -9323,7 +9348,7 @@
 		(dnp no)
 		(uuid "11bbb7ad-c072-467d-85d2-002f00c35530")
 		(property "Reference" "R0"
-			(at 110.49 20.32 0)
+			(at 110.49 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9331,15 +9356,15 @@
 			)
 		)
 		(property "Value" "2.2K/R0402"
-			(at 105.41 23.495 0)
+			(at 105.41 32.385 0)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 23.368 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 105.41 32.258 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -9348,7 +9373,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 21.59 90)
+			(at 105.41 30.48 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -9356,7 +9381,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 21.59 0)
+			(at 105.41 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9406,7 +9431,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 238.76 46.99 0)
 			(effects
 				(font
@@ -9796,7 +9821,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 49.53 95.25 0)
 			(effects
 				(font
@@ -9969,7 +9994,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:+1V8")
-		(at 85.09 36.83 90)
+		(at 85.09 45.72 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9977,7 +10002,7 @@
 		(dnp no)
 		(uuid "21aacdf5-d6b1-4a88-8aa9-586c629c6897")
 		(property "Reference" "#PWR07"
-			(at 88.9 36.83 0)
+			(at 88.9 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9986,7 +10011,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 80.01 36.83 90)
+			(at 80.01 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9994,7 +10019,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 36.83 0)
+			(at 85.09 45.72 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -10002,7 +10027,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 36.83 0)
+			(at 85.09 45.72 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -10010,7 +10035,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 36.83 0)
+			(at 85.09 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10163,7 +10188,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 21.59 180)
+		(at 92.71 30.48 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10171,7 +10196,7 @@
 		(dnp no)
 		(uuid "27c0a255-f68a-4134-98dd-0b9a812a66f5")
 		(property "Reference" "LED0"
-			(at 88.392 23.114 0)
+			(at 88.392 32.004 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10179,7 +10204,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 22.86 0)
+			(at 96.012 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10187,7 +10212,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 21.59 0)
+			(at 92.71 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10196,7 +10221,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 21.59 0)
+			(at 92.71 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10205,7 +10230,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 21.59 0)
+			(at 92.71 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10449,7 +10474,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 83.82 181.61 0)
 			(effects
 				(font
@@ -10646,7 +10671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 31.75 147.828 0)
 			(effects
 				(font
@@ -11064,7 +11089,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:+1V8")
-		(at 85.09 57.15 90)
+		(at 85.09 66.04 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11072,7 +11097,7 @@
 		(dnp no)
 		(uuid "452870b9-54b3-488c-a3c7-336c0a64a6a8")
 		(property "Reference" "#PWR011"
-			(at 88.9 57.15 0)
+			(at 88.9 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11081,7 +11106,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 80.01 57.15 90)
+			(at 80.01 66.04 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11089,7 +11114,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 57.15 0)
+			(at 85.09 66.04 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -11097,7 +11122,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 57.15 0)
+			(at 85.09 66.04 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -11105,7 +11130,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 57.15 0)
+			(at 85.09 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11317,7 +11342,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:GND")
-		(at 64.77 74.93 90)
+		(at 63.5 69.85 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11325,7 +11350,7 @@
 		(dnp no)
 		(uuid "4a544d26-b957-4437-babc-7fe134d6f4b6")
 		(property "Reference" "#PWR04"
-			(at 71.12 74.93 0)
+			(at 69.85 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11334,7 +11359,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 67.31 74.93 90)
+			(at 66.04 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11343,7 +11368,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 74.93 0)
+			(at 63.5 69.85 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -11351,7 +11376,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 74.93 0)
+			(at 63.5 69.85 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -11359,7 +11384,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 64.77 74.93 0)
+			(at 63.5 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11446,7 +11471,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x17_Odd_Even")
-		(at 44.45 54.61 0)
+		(at 43.18 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11455,7 +11480,7 @@
 		(fields_autoplaced yes)
 		(uuid "4c93c0b8-33dc-43b7-9bf1-9f90e4bc0308")
 		(property "Reference" "J1"
-			(at 45.72 27.94 0)
+			(at 44.45 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11463,7 +11488,7 @@
 			)
 		)
 		(property "Value" "Conn_02x17_Odd_Even"
-			(at 45.72 30.48 0)
+			(at 44.45 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11471,7 +11496,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x17_P2.54mm_Vertical_SMD"
-			(at 44.45 54.61 0)
+			(at 43.18 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11480,7 +11505,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 54.61 0)
+			(at 43.18 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11489,7 +11514,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x17, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 44.45 54.61 0)
+			(at 43.18 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11761,7 +11786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 49.53 86.868 0)
 			(effects
 				(font
@@ -11829,7 +11854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 243.84 46.99 0)
 			(effects
 				(font
@@ -11898,7 +11923,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 218.44 46.99 0)
 			(effects
 				(font
@@ -11942,7 +11967,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_RCL:R")
-		(at 105.41 26.67 0)
+		(at 105.41 35.56 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -11950,7 +11975,7 @@
 		(dnp no)
 		(uuid "52fdb19b-2f6c-40e1-a30c-c9b38dfe33e9")
 		(property "Reference" "R1"
-			(at 110.49 25.4 0)
+			(at 110.49 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11958,15 +11983,15 @@
 			)
 		)
 		(property "Value" "2.2K/R0402"
-			(at 105.41 28.575 0)
+			(at 105.41 37.465 0)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 28.448 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 105.41 37.338 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -11975,7 +12000,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 26.67 90)
+			(at 105.41 35.56 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -11983,7 +12008,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 26.67 0)
+			(at 105.41 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12289,7 +12314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 48.26 142.748 0)
 			(effects
 				(font
@@ -12529,7 +12554,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:+1V8")
-		(at 85.09 31.75 90)
+		(at 85.09 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12537,7 +12562,7 @@
 		(dnp no)
 		(uuid "5fdee6a0-ba23-4b92-865a-aa368e0da27f")
 		(property "Reference" "#PWR06"
-			(at 88.9 31.75 0)
+			(at 88.9 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12546,7 +12571,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 80.01 31.75 90)
+			(at 80.01 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12554,7 +12579,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 31.75 0)
+			(at 85.09 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -12562,7 +12587,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 31.75 0)
+			(at 85.09 40.64 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -12570,7 +12595,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 31.75 0)
+			(at 85.09 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12878,7 +12903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 31.75 184.658 0)
 			(effects
 				(font
@@ -13143,7 +13168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 48.26 133.35 0)
 			(effects
 				(font
@@ -13279,7 +13304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 196.85 127 0)
 			(effects
 				(font
@@ -13519,7 +13544,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 41.91 180)
+		(at 92.71 50.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13527,7 +13552,7 @@
 		(dnp no)
 		(uuid "837cd7cd-aa97-4715-b0e8-89c4aa0cb01d")
 		(property "Reference" "LED4"
-			(at 88.646 43.18 0)
+			(at 88.646 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13535,7 +13560,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 43.18 0)
+			(at 96.012 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13543,7 +13568,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 41.91 0)
+			(at 92.71 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13552,7 +13577,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 41.91 0)
+			(at 92.71 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13561,7 +13586,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 41.91 0)
+			(at 92.71 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13586,7 +13611,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_RCL:R")
-		(at 105.41 57.15 0)
+		(at 105.41 66.04 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -13594,7 +13619,7 @@
 		(dnp no)
 		(uuid "84bee93a-e5d8-467e-a2a1-70c5e7917b09")
 		(property "Reference" "R7"
-			(at 110.49 55.88 0)
+			(at 110.49 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13602,15 +13627,15 @@
 			)
 		)
 		(property "Value" "2.2K/R0402"
-			(at 105.41 59.055 0)
+			(at 105.41 67.945 0)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 58.928 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 105.41 67.818 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -13619,7 +13644,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 57.15 90)
+			(at 105.41 66.04 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -13627,7 +13652,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 57.15 0)
+			(at 105.41 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13738,7 +13763,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 48.26 161.798 0)
 			(effects
 				(font
@@ -13871,7 +13896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 48.26 170.18 0)
 			(effects
 				(font
@@ -13940,7 +13965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 191.77 127 0)
 			(effects
 				(font
@@ -14047,7 +14072,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 31.75 180)
+		(at 92.71 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14055,7 +14080,7 @@
 		(dnp no)
 		(uuid "9bd4156f-bd17-4eb3-a339-7c630344c823")
 		(property "Reference" "LED2"
-			(at 88.646 33.02 0)
+			(at 88.646 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14063,7 +14088,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 33.02 0)
+			(at 96.012 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14071,7 +14096,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 31.75 0)
+			(at 92.71 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14080,7 +14105,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 31.75 0)
+			(at 92.71 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14089,7 +14114,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 31.75 0)
+			(at 92.71 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14114,7 +14139,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_RCL:R")
-		(at 105.41 46.99 0)
+		(at 105.41 55.88 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -14122,7 +14147,7 @@
 		(dnp no)
 		(uuid "9ce412ec-579e-4829-98fd-61fbfae49efc")
 		(property "Reference" "R5"
-			(at 110.49 45.72 0)
+			(at 110.49 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14130,15 +14155,15 @@
 			)
 		)
 		(property "Value" "2.2K/R0402"
-			(at 105.41 48.895 0)
+			(at 105.41 57.785 0)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 48.768 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 105.41 57.658 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -14147,7 +14172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 46.99 90)
+			(at 105.41 55.88 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -14155,7 +14180,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 46.99 0)
+			(at 105.41 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14205,7 +14230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 119.38 184.15 0)
 			(effects
 				(font
@@ -14249,7 +14274,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_RCL:R")
-		(at 105.41 52.07 0)
+		(at 105.41 60.96 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -14257,7 +14282,7 @@
 		(dnp no)
 		(uuid "9e77cf45-3f49-4a4b-a2f9-d3f502315d56")
 		(property "Reference" "R6"
-			(at 110.49 50.8 0)
+			(at 110.49 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14265,15 +14290,15 @@
 			)
 		)
 		(property "Value" "2.2K/R0402"
-			(at 105.41 53.975 0)
+			(at 105.41 62.865 0)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 53.848 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 105.41 62.738 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -14282,7 +14307,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 52.07 90)
+			(at 105.41 60.96 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -14290,7 +14315,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 52.07 0)
+			(at 105.41 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14338,7 +14363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 91.948 182.88 0)
 			(effects
 				(font
@@ -14445,7 +14470,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:+1V8")
-		(at 85.09 26.67 90)
+		(at 85.09 35.56 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14453,7 +14478,7 @@
 		(dnp no)
 		(uuid "a1376ef3-26d8-4754-a26a-141676ca632a")
 		(property "Reference" "#PWR05"
-			(at 88.9 26.67 0)
+			(at 88.9 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14462,7 +14487,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 80.01 26.67 90)
+			(at 80.01 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14470,7 +14495,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 26.67 0)
+			(at 85.09 35.56 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -14478,7 +14503,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 26.67 0)
+			(at 85.09 35.56 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -14486,7 +14511,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 26.67 0)
+			(at 85.09 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14598,7 +14623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 48.26 124.968 0)
 			(effects
 				(font
@@ -14664,7 +14689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 31.75 91.948 0)
 			(effects
 				(font
@@ -14908,7 +14933,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_RCL:R")
-		(at 105.41 31.75 0)
+		(at 105.41 40.64 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -14916,7 +14941,7 @@
 		(dnp no)
 		(uuid "a9835e29-8173-487f-ac25-7ab7e29e4eca")
 		(property "Reference" "R2"
-			(at 110.49 30.48 0)
+			(at 110.49 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14924,15 +14949,15 @@
 			)
 		)
 		(property "Value" "2.2K/R0402"
-			(at 105.41 33.655 0)
+			(at 105.41 42.545 0)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 33.528 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 105.41 42.418 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -14941,7 +14966,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 31.75 90)
+			(at 105.41 40.64 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -14949,7 +14974,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 31.75 0)
+			(at 105.41 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15041,7 +15066,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:+1V8")
-		(at 85.09 41.91 90)
+		(at 85.09 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15049,7 +15074,7 @@
 		(dnp no)
 		(uuid "b3ffc7dc-a566-4e52-902e-671f0805082c")
 		(property "Reference" "#PWR08"
-			(at 88.9 41.91 0)
+			(at 88.9 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15058,7 +15083,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 80.01 41.91 90)
+			(at 80.01 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15066,7 +15091,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 41.91 0)
+			(at 85.09 50.8 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -15074,7 +15099,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 41.91 0)
+			(at 85.09 50.8 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -15082,7 +15107,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 41.91 0)
+			(at 85.09 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15324,7 +15349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 49.53 105.918 0)
 			(effects
 				(font
@@ -15367,7 +15392,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:+1V8")
-		(at 85.09 52.07 90)
+		(at 85.09 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15375,7 +15400,7 @@
 		(dnp no)
 		(uuid "b74d4a37-ae5a-43ed-bb66-33ea1050bb9a")
 		(property "Reference" "#PWR010"
-			(at 88.9 52.07 0)
+			(at 88.9 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15384,7 +15409,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 80.01 52.07 90)
+			(at 80.01 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15392,7 +15417,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 52.07 0)
+			(at 85.09 60.96 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -15400,7 +15425,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 52.07 0)
+			(at 85.09 60.96 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -15408,7 +15433,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 52.07 0)
+			(at 85.09 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15455,7 +15480,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 257.81 46.99 0)
 			(effects
 				(font
@@ -15499,7 +15524,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_RCL:R")
-		(at 58.42 72.39 0)
+		(at 57.15 67.31 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -15507,7 +15532,7 @@
 		(dnp no)
 		(uuid "ba76b8fe-c253-4b8d-bf30-e046e745d0ea")
 		(property "Reference" "R112"
-			(at 53.34 71.12 0)
+			(at 52.07 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15515,15 +15540,15 @@
 			)
 		)
 		(property "Value" "100R/R0402"
-			(at 58.42 74.295 0)
+			(at 57.15 69.215 0)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 58.42 74.168 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 57.15 69.088 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -15532,7 +15557,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 72.39 90)
+			(at 57.15 67.31 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -15540,7 +15565,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 72.39 0)
+			(at 57.15 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15784,7 +15809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 48.26 187.96 0)
 			(effects
 				(font
@@ -15916,7 +15941,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 223.52 46.99 0)
 			(effects
 				(font
@@ -15960,7 +15985,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 52.07 180)
+		(at 92.71 60.96 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15968,7 +15993,7 @@
 		(dnp no)
 		(uuid "c6cb2177-6366-4cf3-8ed0-fb5af85420b7")
 		(property "Reference" "LED6"
-			(at 88.646 53.34 0)
+			(at 88.646 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15976,7 +16001,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 53.34 0)
+			(at 96.012 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15984,7 +16009,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 52.07 0)
+			(at 92.71 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15993,7 +16018,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 52.07 0)
+			(at 92.71 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16002,7 +16027,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 52.07 0)
+			(at 92.71 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16159,7 +16184,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:+1V8")
-		(at 85.09 21.59 90)
+		(at 85.09 30.48 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16167,7 +16192,7 @@
 		(dnp no)
 		(uuid "ca2a64ca-7074-47ca-9d08-a5e7efb32037")
 		(property "Reference" "#PWR026"
-			(at 88.9 21.59 0)
+			(at 88.9 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16176,7 +16201,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 80.01 21.59 90)
+			(at 80.01 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16184,7 +16209,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 21.59 0)
+			(at 85.09 30.48 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16192,7 +16217,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 21.59 0)
+			(at 85.09 30.48 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -16200,7 +16225,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 21.59 0)
+			(at 85.09 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16308,7 +16333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 31.75 166.878 0)
 			(effects
 				(font
@@ -16374,7 +16399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 48.26 179.578 0)
 			(effects
 				(font
@@ -16440,7 +16465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 31.75 130.048 0)
 			(effects
 				(font
@@ -16770,7 +16795,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 49.53 114.3 0)
 			(effects
 				(font
@@ -16814,7 +16839,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 46.99 180)
+		(at 92.71 55.88 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16822,7 +16847,7 @@
 		(dnp no)
 		(uuid "e171ac69-ec2b-4d0b-9ae6-8ed6a010cf75")
 		(property "Reference" "LED5"
-			(at 88.646 48.26 0)
+			(at 88.646 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16830,7 +16855,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 48.26 0)
+			(at 96.012 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16838,7 +16863,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 46.99 0)
+			(at 92.71 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16847,7 +16872,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 46.99 0)
+			(at 92.71 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16856,7 +16881,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 46.99 0)
+			(at 92.71 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17009,7 +17034,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_RCL:R")
-		(at 33.02 72.39 0)
+		(at 31.75 67.31 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -17017,7 +17042,7 @@
 		(dnp no)
 		(uuid "e409dfe6-c00f-484d-8ff2-0e79045b2891")
 		(property "Reference" "R111"
-			(at 38.1 71.12 0)
+			(at 36.83 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17025,15 +17050,15 @@
 			)
 		)
 		(property "Value" "100R/R0402"
-			(at 33.02 74.295 0)
+			(at 31.75 69.215 0)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 33.02 74.168 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 31.75 69.088 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -17042,7 +17067,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 72.39 90)
+			(at 31.75 67.31 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -17050,7 +17075,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.02 72.39 0)
+			(at 31.75 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17142,7 +17167,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:GND")
-		(at 26.67 74.93 270)
+		(at 25.4 69.85 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17150,7 +17175,7 @@
 		(dnp no)
 		(uuid "e78f9d8c-49df-4106-a9d7-1a283a2ee4d2")
 		(property "Reference" "#PWR02"
-			(at 20.32 74.93 0)
+			(at 19.05 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17159,7 +17184,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 24.13 74.93 90)
+			(at 22.86 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17168,7 +17193,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 74.93 0)
+			(at 25.4 69.85 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -17176,7 +17201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 74.93 0)
+			(at 25.4 69.85 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -17184,7 +17209,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 26.67 74.93 0)
+			(at 25.4 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17298,7 +17323,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 262.89 46.99 0)
 			(effects
 				(font
@@ -17342,7 +17367,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:+1V8")
-		(at 64.77 34.29 270)
+		(at 63.5 29.21 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17350,7 +17375,7 @@
 		(dnp no)
 		(uuid "e900733e-169d-4f52-b6cd-af0c54202b2b")
 		(property "Reference" "#PWR03"
-			(at 60.96 34.29 0)
+			(at 59.69 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17359,7 +17384,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 69.85 34.29 90)
+			(at 68.58 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17367,7 +17392,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 64.77 34.29 0)
+			(at 63.5 29.21 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -17375,7 +17400,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 34.29 0)
+			(at 63.5 29.21 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -17383,7 +17408,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 64.77 34.29 0)
+			(at 63.5 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17497,7 +17522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 48.26 151.13 0)
 			(effects
 				(font
@@ -17541,7 +17566,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_RCL:R")
-		(at 105.41 41.91 0)
+		(at 105.41 50.8 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom yes)
@@ -17549,7 +17574,7 @@
 		(dnp no)
 		(uuid "ee472fd5-c7da-42d7-8fb3-aba40b067c65")
 		(property "Reference" "R4"
-			(at 110.49 40.64 0)
+			(at 110.49 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17557,15 +17582,15 @@
 			)
 		)
 		(property "Value" "2.2K/R0402"
-			(at 105.41 43.815 0)
+			(at 105.41 52.705 0)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 43.688 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 105.41 52.578 0)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -17574,7 +17599,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 41.91 90)
+			(at 105.41 50.8 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -17582,7 +17607,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 105.41 41.91 0)
+			(at 105.41 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17671,7 +17696,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 26.67 180)
+		(at 92.71 35.56 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17679,7 +17704,7 @@
 		(dnp no)
 		(uuid "f41d4469-e36d-4d9b-b40f-3e3e7e4524c6")
 		(property "Reference" "LED1"
-			(at 88.646 27.94 0)
+			(at 88.646 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17687,7 +17712,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 27.94 0)
+			(at 96.012 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17695,7 +17720,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 26.67 0)
+			(at 92.71 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17704,7 +17729,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 26.67 0)
+			(at 92.71 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17713,7 +17738,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 26.67 0)
+			(at 92.71 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17738,7 +17763,7 @@
 	)
 	(symbol
 		(lib_id "OLIMEX_Power:+1V8")
-		(at 85.09 46.99 90)
+		(at 85.09 55.88 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17746,7 +17771,7 @@
 		(dnp no)
 		(uuid "fc122b9b-c430-4dc8-a0a7-b27c2fcd80ad")
 		(property "Reference" "#PWR09"
-			(at 88.9 46.99 0)
+			(at 88.9 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17755,7 +17780,7 @@
 			)
 		)
 		(property "Value" "+1V8"
-			(at 80.01 46.99 90)
+			(at 80.01 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17763,7 +17788,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 46.99 0)
+			(at 85.09 55.88 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -17771,7 +17796,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 46.99 0)
+			(at 85.09 55.88 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -17779,7 +17804,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.09 46.99 0)
+			(at 85.09 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17824,7 +17849,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 31.75 110.998 0)
 			(effects
 				(font
@@ -17934,7 +17959,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 36.83 180)
+		(at 92.71 45.72 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17942,7 +17967,7 @@
 		(dnp no)
 		(uuid "ff9df9c4-22cd-4b17-91b8-023273e83c3e")
 		(property "Reference" "LED3"
-			(at 88.646 38.1 0)
+			(at 88.646 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17950,7 +17975,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 38.1 0)
+			(at 96.012 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17958,7 +17983,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 36.83 0)
+			(at 92.71 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17967,7 +17992,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 36.83 0)
+			(at 92.71 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17976,7 +18001,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 36.83 0)
+			(at 92.71 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
