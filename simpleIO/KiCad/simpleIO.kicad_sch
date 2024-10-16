@@ -6370,7 +6370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Audio:Jack_3.5mm_PJ311_Horizontal"
+		(property "Footprint" "audio-jack:CUI_SJ-43516-SMT"
 			(at 107.95 114.3 0)
 			(effects
 				(font
