@@ -2494,6 +2494,88 @@
 				)
 			)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
 		(symbol "OLIMEX_Power:+1V8"
 			(power)
 			(pin_names
@@ -9143,7 +9225,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 66.04 180)
+		(at 92.71 30.48 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9151,7 +9233,7 @@
 		(dnp no)
 		(uuid "085e6a1f-38ca-4e89-8400-b4931e2d49b9")
 		(property "Reference" "LED7"
-			(at 88.646 67.31 0)
+			(at 88.646 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9159,7 +9241,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 67.31 0)
+			(at 96.012 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9167,7 +9249,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 66.04 0)
+			(at 92.71 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9176,7 +9258,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 66.04 0)
+			(at 92.71 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9185,7 +9267,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 66.04 0)
+			(at 92.71 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9554,7 +9636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GNDA"
+		(property "Value" "GND"
 			(at 191.897 118.6942 0)
 			(effects
 				(font
@@ -10387,7 +10469,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 30.48 180)
+		(at 92.71 66.04 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10395,7 +10477,7 @@
 		(dnp no)
 		(uuid "27c0a255-f68a-4134-98dd-0b9a812a66f5")
 		(property "Reference" "LED0"
-			(at 88.392 32.004 0)
+			(at 88.392 67.564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10403,7 +10485,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 31.75 0)
+			(at 96.012 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10411,7 +10493,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 30.48 0)
+			(at 92.71 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10420,7 +10502,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 30.48 0)
+			(at 92.71 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10429,7 +10511,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 30.48 0)
+			(at 92.71 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10929,7 +11011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GNDA"
+		(property "Value" "GND"
 			(at 232.9942 54.737 90)
 			(effects
 				(font
@@ -11060,7 +11142,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GNDA"
+		(property "Value" "GND"
 			(at 212.6742 54.737 90)
 			(effects
 				(font
@@ -12899,7 +12981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GNDA"
+		(property "Value" "GND"
 			(at 132.6642 58.547 90)
 			(effects
 				(font
@@ -13675,7 +13757,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 50.8 180)
+		(at 92.71 45.72 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13683,7 +13765,7 @@
 		(dnp no)
 		(uuid "837cd7cd-aa97-4715-b0e8-89c4aa0cb01d")
 		(property "Reference" "LED4"
-			(at 88.646 52.07 0)
+			(at 88.646 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13691,7 +13773,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 52.07 0)
+			(at 96.012 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13699,7 +13781,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 50.8 0)
+			(at 92.71 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13708,7 +13790,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 50.8 0)
+			(at 92.71 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13717,7 +13799,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 50.8 0)
+			(at 92.71 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14345,7 +14427,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 40.64 180)
+		(at 92.71 55.88 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14353,7 +14435,7 @@
 		(dnp no)
 		(uuid "9bd4156f-bd17-4eb3-a339-7c630344c823")
 		(property "Reference" "LED2"
-			(at 88.646 41.91 0)
+			(at 88.646 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14361,7 +14443,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 41.91 0)
+			(at 96.012 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14369,7 +14451,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 40.64 0)
+			(at 92.71 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14378,7 +14460,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 40.64 0)
+			(at 92.71 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14387,7 +14469,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 40.64 0)
+			(at 92.71 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16130,7 +16212,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 60.96 180)
+		(at 92.71 35.56 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16138,7 +16220,7 @@
 		(dnp no)
 		(uuid "c6cb2177-6366-4cf3-8ed0-fb5af85420b7")
 		(property "Reference" "LED6"
-			(at 88.646 62.23 0)
+			(at 88.646 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16146,7 +16228,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 62.23 0)
+			(at 96.012 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16154,7 +16236,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 60.96 0)
+			(at 92.71 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16163,7 +16245,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 60.96 0)
+			(at 92.71 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16172,7 +16254,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 60.96 0)
+			(at 92.71 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16344,7 +16426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GNDA"
+		(property "Value" "GND"
 			(at 166.497 141.5542 0)
 			(effects
 				(font
@@ -17115,7 +17197,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 55.88 180)
+		(at 92.71 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17123,7 +17205,7 @@
 		(dnp no)
 		(uuid "e171ac69-ec2b-4d0b-9ae6-8ed6a010cf75")
 		(property "Reference" "LED5"
-			(at 88.646 57.15 0)
+			(at 88.646 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17131,7 +17213,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 57.15 0)
+			(at 96.012 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17139,7 +17221,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 55.88 0)
+			(at 92.71 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17148,7 +17230,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 55.88 0)
+			(at 92.71 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17157,7 +17239,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 55.88 0)
+			(at 92.71 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17973,7 +18055,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 35.56 180)
+		(at 92.71 60.96 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17981,7 +18063,7 @@
 		(dnp no)
 		(uuid "f41d4469-e36d-4d9b-b40f-3e3e7e4524c6")
 		(property "Reference" "LED1"
-			(at 88.646 36.83 0)
+			(at 88.646 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17989,7 +18071,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 36.83 0)
+			(at 96.012 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17997,7 +18079,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 35.56 0)
+			(at 92.71 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18006,7 +18088,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 35.56 0)
+			(at 92.71 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18015,7 +18097,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 35.56 0)
+			(at 92.71 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18033,6 +18115,70 @@
 			(project "GamePad_I2S_audio"
 				(path "/0dd9b205-0a74-496f-82ec-852763bdf394"
 					(reference "LED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 248.92 161.29 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9c32650-4d07-4845-99e0-13235c86b2fb")
+		(property "Reference" "H1"
+			(at 251.46 160.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 251.46 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2mm"
+			(at 248.92 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 248.92 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 248.92 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/0dd9b205-0a74-496f-82ec-852763bdf394"
+					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -18236,7 +18382,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 92.71 45.72 180)
+		(at 92.71 50.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18244,7 +18390,7 @@
 		(dnp no)
 		(uuid "ff9df9c4-22cd-4b17-91b8-023273e83c3e")
 		(property "Reference" "LED3"
-			(at 88.646 46.99 0)
+			(at 88.646 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18252,7 +18398,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 96.012 46.99 0)
+			(at 96.012 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18260,7 +18406,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 92.71 45.72 0)
+			(at 92.71 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18269,7 +18415,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 45.72 0)
+			(at 92.71 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18278,7 +18424,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 92.71 45.72 0)
+			(at 92.71 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
