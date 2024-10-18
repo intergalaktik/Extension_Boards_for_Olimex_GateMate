@@ -6,10 +6,13 @@
 		(thickness 1.6)
 		(legacy_teardrops no)
 	)
-	(paper "A4")
+	(paper "A5")
 	(title_block
-		(date "2024-07-18")
+		(title "GamePad I2S Audio")
+		(date "2024-10-18")
+		(rev "v1.0")
 		(company "Intergalaktik d.o.o.")
+		(comment 1 "CERN-OHL-S v2")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -231,7 +234,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "LED7"
-			(at -3.141667 0.090001 360)
+			(at -3.141667 0.090001 0)
 			(layer "F.SilkS")
 			(uuid "25114773-51fd-48a5-ac35-76b76ae56454")
 			(effects
@@ -242,7 +245,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "19a50a7f-5dec-4ab5-aa4f-4bf0911f2003")
@@ -418,7 +421,7 @@
 			(uuid "376a0109-b633-47d7-8d5c-5d5f44e36558")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "40ec5c36-6b2b-4164-a30f-14d22eb77024")
 			(effects
@@ -771,7 +774,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "LED0"
-			(at -3.141667 -0.119999 360)
+			(at -3.141667 -0.119999 0)
 			(layer "F.SilkS")
 			(uuid "7dabccf3-2218-452a-8afd-bbaef8f9f462")
 			(effects
@@ -782,7 +785,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f9883ba7-37ee-4089-84fb-3238a07e23a5")
@@ -958,7 +961,7 @@
 			(uuid "d32702ac-d1fe-49dc-a805-b827b5688873")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "dc47e974-9317-44c8-8edd-f8612cd5e6e8")
 			(effects
@@ -3731,7 +3734,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "LED2"
-			(at -3.141667 -0.009999 360)
+			(at -3.141667 -0.009999 0)
 			(layer "F.SilkS")
 			(uuid "4a684c4a-9258-4e6d-973c-6c81daca6a0e")
 			(effects
@@ -3742,7 +3745,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3df202f3-9b67-4fc4-86be-3fcc4a5c2552")
@@ -3956,7 +3959,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "LED3"
-			(at -3.141667 -0.109999 360)
+			(at -3.141667 -0.109999 0)
 			(layer "F.SilkS")
 			(uuid "3e9fa1c3-e565-4dd1-88d5-89980dd7b467")
 			(effects
@@ -3967,7 +3970,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0bdec9a8-a000-419d-a558-b1ae0fa988a5")
@@ -4143,7 +4146,7 @@
 			(uuid "732ac3ea-f9d5-4204-a01d-7e9d2641a46c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "237bd111-3591-4aee-990d-25290ad401e4")
 			(effects
@@ -4750,7 +4753,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "LED6"
-			(at -3.141667 -0.109999 360)
+			(at -3.141667 -0.109999 0)
 			(layer "F.SilkS")
 			(uuid "93bfff7a-10d5-4e94-a384-b29ecfe54af9")
 			(effects
@@ -4761,7 +4764,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "77ffb965-0e22-40f0-8703-f4a5b3844c18")
@@ -4937,7 +4940,7 @@
 			(uuid "8c7cdadd-343f-4dc7-a60d-d5b46681bda3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "92a1c510-d507-4136-8baf-03ce19bb9542")
 			(effects
@@ -4986,7 +4989,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "LED1"
-			(at -3.141667 -0.009999 360)
+			(at -3.141667 -0.009999 0)
 			(layer "F.SilkS")
 			(uuid "086801c7-e6aa-4683-9ae2-e2e1955424a6")
 			(effects
@@ -4997,7 +5000,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a665c917-d313-4eca-9c88-033e833fb0da")
@@ -5173,7 +5176,7 @@
 			(uuid "3cbafb52-3fdc-4412-a6d8-e6f9484e627d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "70612496-a0e0-4271-b163-85331fcf9b68")
 			(effects
@@ -5713,7 +5716,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "LED5"
-			(at -3.141667 -0.009999 360)
+			(at -3.141667 -0.009999 0)
 			(layer "F.SilkS")
 			(uuid "350e4cc8-3d8c-49cf-aa0a-fe301b7f3898")
 			(effects
@@ -5724,7 +5727,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ca5e483-8953-4d7b-8918-d8ed544b0599")
@@ -5900,7 +5903,7 @@
 			(uuid "dcf73f3c-ccf7-43e9-b50c-09c3fb886ac9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "6b4b717f-8f63-4685-82ce-b9c2eda2bbf4")
 			(effects
@@ -5949,7 +5952,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "LED4"
-			(at -3.141667 -0.009999 360)
+			(at -3.141667 -0.009999 0)
 			(layer "F.SilkS")
 			(uuid "83bbb9bb-8996-484a-8bea-1b28fe19a36f")
 			(effects
@@ -5960,7 +5963,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d08712cd-0785-4294-95e4-553440a25604")
@@ -6136,7 +6139,7 @@
 			(uuid "e727adcd-f079-4c3d-951d-1fc93ffb3593")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8f7a87b6-fe8f-464b-ad0d-f4dee145e46f")
 			(effects
@@ -24232,6 +24235,108 @@
 			)
 			(justify left bottom)
 		)
+	)
+	(gr_text "PCB_TL_GamePad with I2S Audio v1.0"
+		(at 111.29 53.55 0)
+		(layer "Dwgs.User")
+		(uuid "04c3c3ae-3cb1-435c-a477-4c5cbeaaa469")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "PCB_BR_GamePad with I2S Audio v1.0"
+		(at 158.59 87.17 0)
+		(layer "Dwgs.User")
+		(uuid "2e173d47-8948-4016-ae8a-5655593ad323")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "For Blender export all parts need to be WRL"
+		(at 111.42 50.76 0)
+		(layer "Dwgs.User")
+		(uuid "b5d00313-c3be-4e28-98f8-0a565bc6e519")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(dimension
+		(type aligned)
+		(layer "Cmts.User")
+		(uuid "377fcdd2-a436-4d5d-8e98-36fb4c095326")
+		(pts
+			(xy 112.433562 53.610634) (xy 112.420634 87.136388)
+		)
+		(height 3.747363)
+		(gr_text "33.5258 mm"
+			(at 107.529735 70.371623 89.97790595)
+			(layer "Cmts.User")
+			(uuid "377fcdd2-a436-4d5d-8e98-36fb4c095326")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Cmts.User")
+		(uuid "6a9db05b-ff8b-4327-a4fa-dbfe9a9dd1ea")
+		(pts
+			(xy 111.430634 86.136438) (xy 158.526388 86.149366)
+		)
+		(height 4.855568)
+		(gr_text "47.0958 mm"
+			(at 134.977494 89.84847 359.984272)
+			(layer "Cmts.User")
+			(uuid "6a9db05b-ff8b-4327-a4fa-dbfe9a9dd1ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start 145.13 85.44)
