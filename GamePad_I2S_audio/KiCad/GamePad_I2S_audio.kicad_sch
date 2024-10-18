@@ -4154,6 +4154,12 @@
 		(uuid "65387093-fa8d-4f11-ad69-78df8bfd9833")
 	)
 	(junction
+		(at 137.16 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f3285d2-5bbd-46ff-bd5b-25444365a7eb")
+	)
+	(junction
 		(at 196.85 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5046,6 +5052,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 62.23) (xy 133.35 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "474c527b-599c-447d-b027-d0f267f18551")
+	)
+	(wire
+		(pts
 			(xy 119.38 177.8) (xy 119.38 181.61)
 		)
 		(stroke
@@ -5826,7 +5842,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 58.42) (xy 134.62 58.42)
+			(xy 137.16 58.42) (xy 135.89 58.42)
 		)
 		(stroke
 			(width 0)
@@ -6983,6 +6999,16 @@
 			(type default)
 		)
 		(uuid "ec0a89df-02dd-440e-80c5-4d77d8828c6d")
+	)
+	(wire
+		(pts
+			(xy 133.35 60.96) (xy 137.16 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec6c6cf5-e20f-4f4a-9047-bbe04974a93a")
 	)
 	(wire
 		(pts
@@ -8424,6 +8450,17 @@
 		)
 		(uuid "e49249d1-b607-48c3-8736-2d6a04bd6157")
 	)
+	(label "+3V3"
+		(at 262.89 36.83 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e9fd3734-bf23-49e9-b348-b11cb8fd0b9f")
+	)
 	(label "CLK3"
 		(at 63.5 67.31 0)
 		(fields_autoplaced yes)
@@ -8569,28 +8606,6 @@
 			)
 		)
 	)
-	(global_label "+3V3A"
-		(shape input)
-		(at 223.52 36.83 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3c011df3-6be0-463e-a73c-0a41e856d418")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.52 27.6762 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "I2S1_TX_WS"
 		(shape input)
 		(at 148.59 101.6 180)
@@ -8675,50 +8690,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "+3V3"
-		(shape input)
-		(at 262.89 36.83 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b3bf6845-673d-4d5a-9447-f3338bac8b5b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 262.89 28.7648 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "+3V3A"
-		(shape input)
-		(at 243.84 36.83 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cdfcd7d4-b236-4206-bda9-26b28430f66f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 243.84 27.6762 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -9865,7 +9836,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 134.62 58.42 270)
+		(at 133.35 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9873,7 +9844,7 @@
 		(dnp no)
 		(uuid "1f8cab96-69a5-4daf-908c-8fa9017c1a9b")
 		(property "Reference" "#PWR036"
-			(at 128.27 58.42 0)
+			(at 133.35 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9882,7 +9853,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 130.2258 58.547 0)
+			(at 133.477 74.2442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9890,7 +9861,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 58.42 0)
+			(at 133.35 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9899,7 +9870,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 58.42 0)
+			(at 133.35 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9908,7 +9879,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 58.42 0)
+			(at 133.35 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10448,6 +10419,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDA")
+		(at 135.89 58.42 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "35bcae52-53f4-4e98-98ed-3bda97adfb89")
+		(property "Reference" "#PWR055"
+			(at 129.54 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 132.6642 58.547 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 135.89 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 135.89 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3e588805-b423-4ef5-bbed-f6cab526c46d")
+		)
+		(instances
+			(project "GamePad_I2S_audio"
+				(path "/0dd9b205-0a74-496f-82ec-852763bdf394"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:CP_Small")
 		(at 83.82 181.61 0)
 		(unit 1)
@@ -10904,6 +10941,72 @@
 			(project "GamePad_I2S_audio"
 				(path "/0dd9b205-0a74-496f-82ec-852763bdf394"
 					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "OLIMEX_RCL:R")
+		(at 133.35 66.04 90)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "411a9a88-b5b5-4c6f-a4ab-45fa74c15268")
+		(property "Reference" "R21"
+			(at 131.064 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R"
+			(at 133.604 66.04 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 135.128 66.04 0)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 66.04 90)
+			(effects
+				(font
+					(size 0.762 0.762)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 133.35 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "464b107f-3100-46e9-bcdb-8cd9592b6ba7")
+		)
+		(pin "2"
+			(uuid "ba3cbe8e-657f-4b9d-8c53-ef2a7fa2978a")
+		)
+		(instances
+			(project "GamePad_I2S_audio"
+				(path "/0dd9b205-0a74-496f-82ec-852763bdf394"
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -14389,6 +14492,78 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "P1.10KHCT-ND"
+			(at 273.05 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Koncar" "FR002"
+			(at 273.05 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C269415"
+			(at 273.05 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MNF1_URL" "www.yageo.com"
+			(at 273.05 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 273.05 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouse_r2" "603-AC0603FR-071K1L"
+			(at 273.05 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 273.05 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Newark" "65T8314"
+			(at 273.05 273.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c451052d-dcc9-477f-ae4c-381b695ad9a8")
 		)
@@ -17762,6 +17937,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5VA")
+		(at 243.84 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f4277907-fa11-45ec-8534-e1dcde794ad7")
+		(property "Reference" "#PWR057"
+			(at 243.84 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3A"
+			(at 244.221 32.4358 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 243.84 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 243.84 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a850ef3a-069a-43fd-b408-72896a468224")
+		)
+		(instances
+			(project "GamePad_I2S_audio"
+				(path "/0dd9b205-0a74-496f-82ec-852763bdf394"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "OLIMEX_Power:+1V8")
 		(at 85.09 55.88 90)
 		(unit 1)
@@ -18019,6 +18259,71 @@
 			(project "GamePad_I2S_audio"
 				(path "/0dd9b205-0a74-496f-82ec-852763bdf394"
 					(reference "LED3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5VA")
+		(at 223.52 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ffe51a7c-e237-4f08-b243-d8e8be419b62")
+		(property "Reference" "#PWR056"
+			(at 223.52 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3A"
+			(at 223.901 32.4358 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 223.52 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "413324b2-8b1d-4ab9-b651-5765b2852401")
+		)
+		(instances
+			(project "GamePad_I2S_audio"
+				(path "/0dd9b205-0a74-496f-82ec-852763bdf394"
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
