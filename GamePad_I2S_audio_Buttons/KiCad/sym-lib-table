@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "jack_trs_6pins")(type "Legacy")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/audio-jack/jack_trs_6pins.lib")(options "")(descr ""))
+  (lib (name "jack_trs_6pins_apple")(type "Legacy")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/audio-jack/jack_trs_6pins_apple.lib")(options "")(descr ""))
+  (lib (name "PAM8908")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/PAM8908/PAM8908.kicad_sym")(options "")(descr ""))
+  (lib (name "PCM5100APW")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/PCM5100APW/PCM5100APW.kicad_sym")(options "")(descr ""))
+  (lib (name "COM-10063")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_COM-10063/KiCad/COM-10063.kicad_sym")(options "")(descr ""))
+  (lib (name "MU-AS90R")(type "Legacy")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_COM-10063/KiCad/MU-AS90R.lib")(options "")(descr ""))
+)

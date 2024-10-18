@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model B3FS-4055P
+#/956549/88823/2.50/4/3/Switch
+DEF B3FS-4055P S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "B3FS-4055P" 1050 200 50 H V L CNN
+F2 "B3FS4055P" 1050 100 50 H I L CNN
+F3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs_4.pdf" 1050 0 50 H I L CNN
+F4 "Switch Tactile N.O. SPST Projected Plunger Gull Wing 0.05A 24VDC 2.55N SMD T/R" 1050 -100 50 H I L CNN "Description"
+F5 "7.3" 1050 -200 50 H I L CNN "Height"
+F6 "653-B3FS-4055P" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3FS-4055P?qs=8Kz9Wu9QwqWEoBxnkyUN7A%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Omron Electronics" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "B3FS-4055P" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X COM_1 1 1200 -100 200 L 50 50 0 0 P
+X COM_2 2 0 -100 200 R 50 50 0 0 P
+X NO_1 3 1200 0 200 L 50 50 0 0 P
+X NO_2 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

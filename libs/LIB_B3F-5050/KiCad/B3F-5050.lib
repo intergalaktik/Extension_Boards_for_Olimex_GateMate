@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model B3F-5050
+#/560883/88823/2.50/4/4/Switch
+DEF B3F-5050 S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "B3F-5050" 1050 200 50 H V L CNN
+F2 "B3F-4055" 1050 100 50 H I L CNN
+F3 "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf" 1050 0 50 H I L CNN
+F4 "Tactile Switches 12x12mm Lg Svc Life Ht 7.3mm" 1050 -100 50 H I L CNN "Description"
+F5 "" 1050 -200 50 H I L CNN "Height"
+F6 "653-B3F-5050" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3F-5050?qs=dOLq8QE0Pqqk%2FO9x2OpTQw%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Omron Electronics" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "B3F-5050" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X COM_1 1 1200 -100 200 L 50 50 0 0 P
+X COM_2 2 0 -100 200 R 50 50 0 0 P
+X NO_1 3 1200 0 200 L 50 50 0 0 P
+X NO_2 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

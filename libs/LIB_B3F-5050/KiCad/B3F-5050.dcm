@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B3F-5050
+D Tactile Switches 12x12mm Lg Svc Life Ht 7.3mm
+K
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf
+$ENDCMP
+#
+#End Doc Library

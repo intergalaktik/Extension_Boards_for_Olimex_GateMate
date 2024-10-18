@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MU-AS90R
+#/18953300/88823/2.50/6/3/Switch
+DEF MU-AS90R S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "MU-AS90R" 1050 200 50 H V L CNN
+F2 "MUAS90R" 1050 100 50 H I L CNN
+F3 "https://www.apem.com/idec-apem/en_US/medias/PCB-MU-serie.pdf?context=bWFzdGVyfGRvY3VtZW50c3w0MTk2OTF8YXBwbGljYXRpb24vcGRmfGg2ZC9oMGEvOTQ2NDU3NTQyNjU5MC9QQ0JfTVVfc2VyaWUucGRmfDhmZDg0OWQ5ZjViYWFlZjljODY5ZmI3YmMzY2U3MzBjNmNiMzE0MzZkY2ZmMjQ4ZGRjNTJjOWQ0ZTc0NG" 1050 0 50 H I L CNN
+F4 "Multi-Directional Switches 5-way Switch, SMD, Height 9mm" 1050 -100 50 H I L CNN "Description"
+F5 "9.2" 1050 -200 50 H I L CNN "Height"
+F6 "642-MU-AS90R" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Apem/MU-AS90R?qs=mELouGlnn3cGEpjh4y0%2F8w%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Apem" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "MU-AS90R" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X NO_1 A1 0 0 200 R 50 50 0 0 P
+X NO_2 B1 0 -100 200 R 50 50 0 0 P
+X NO_3 C1 0 -200 200 R 50 50 0 0 P
+X COM D1 1200 -200 200 L 50 50 0 0 P
+X NO_4 E1 1200 -100 200 L 50 50 0 0 P
+X CENTER F1 1200 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
