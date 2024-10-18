@@ -117,7 +117,7 @@
 				(type "copper")
 				(thickness 0.035)
 			)
-			(layer "dielectric 1"
+			(layer "dielectric 4"
 				(type "prepreg")
 				(thickness 0.1)
 				(material "FR4")
@@ -128,7 +128,7 @@
 				(type "copper")
 				(thickness 0.035)
 			)
-			(layer "dielectric 2"
+			(layer "dielectric 5"
 				(type "core")
 				(thickness 1.24)
 				(material "FR4")
@@ -139,7 +139,7 @@
 				(type "copper")
 				(thickness 0.035)
 			)
-			(layer "dielectric 3"
+			(layer "dielectric 6"
 				(type "prepreg")
 				(thickness 0.1)
 				(material "FR4")
@@ -174,7 +174,7 @@
 				(type "copper")
 				(thickness 0.035)
 			)
-			(layer "dielectric 1"
+			(layer "dielectric 7"
 				(type "prepreg")
 				(thickness 0.1)
 				(material "FR4")
@@ -185,7 +185,7 @@
 				(type "copper")
 				(thickness 0.035)
 			)
-			(layer "dielectric 2"
+			(layer "dielectric 8"
 				(type "core")
 				(thickness 1.24)
 				(material "FR4")
@@ -196,7 +196,7 @@
 				(type "copper")
 				(thickness 0.035)
 			)
-			(layer "dielectric 3"
+			(layer "dielectric 9"
 				(type "prepreg")
 				(thickness 0.1)
 				(material "FR4")
@@ -14519,7 +14519,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R111"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "B.SilkS")
 			(uuid "7a8062d9-6ec9-429e-9db9-98f94ce9b660")
 			(effects
@@ -14531,7 +14531,7 @@
 			)
 		)
 		(property "Value" "100R/R0402"
-			(at 0.93 0 360)
+			(at 0.93 0 0)
 			(layer "B.Fab")
 			(uuid "b47961b9-599a-4d1c-860a-b7ea1f40a6e9")
 			(effects
@@ -14690,7 +14690,7 @@
 			(uuid "b7c9f927-16f7-49e4-9e47-b82b738b93eb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "8f4e6b4f-66c9-4098-ab3a-b128aa43c320")
 			(effects
@@ -23853,7 +23853,7 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 85.15 39.74 90)
+		(at 161.44 65.09 90)
 		(layer "B.Fab")
 		(uuid "5260d036-cc1c-4110-9526-5799b40c3099")
 		(effects
