@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB-rescue")(type "KiCad")(uri "/home/goran/Projects/ulx3s-extensions/USB/USB-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "jack_trs_6pins_apple")(type "Legacy")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/audio-jack/jack_trs_6pins_apple.lib")(options "")(descr ""))
+)
