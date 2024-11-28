@@ -7495,7 +7495,7 @@
 	(footprint "Cologne:open_cologne"
 		(layer "F.Cu")
 		(uuid "ec783682-ebd6-4518-b123-44e39d1a131e")
-		(at 115.633146 83.705736)
+		(at 104.143146 85.825736)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
