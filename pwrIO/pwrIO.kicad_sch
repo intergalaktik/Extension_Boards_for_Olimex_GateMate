@@ -1938,6 +1938,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 69.85) (xy 129.54 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "630f39fe-2b9c-4996-9472-43a0f1742e18")
+	)
+	(wire
+		(pts
 			(xy 124.46 76.2) (xy 129.54 76.2)
 		)
 		(stroke
@@ -2028,16 +2038,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 69.85) (xy 129.54 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "982365b5-4958-4026-b25f-ff96569da372")
-	)
-	(wire
-		(pts
 			(xy 124.46 80.01) (xy 129.54 80.01)
 		)
 		(stroke
@@ -2075,6 +2075,16 @@
 			(type default)
 		)
 		(uuid "a343c91c-e31b-4d10-a5ec-76437c2b4829")
+	)
+	(wire
+		(pts
+			(xy 120.65 82.55) (xy 129.54 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab87e75f-0a2a-44a7-8124-6956d7e0514b")
 	)
 	(wire
 		(pts
@@ -2145,16 +2155,6 @@
 			(type default)
 		)
 		(uuid "e49ab019-3bad-477c-8e92-79dbb2da55cb")
-	)
-	(wire
-		(pts
-			(xy 124.46 82.55) (xy 129.54 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec1aa66b-9afd-470d-afdc-b34d292d1574")
 	)
 	(wire
 		(pts
@@ -2591,7 +2591,7 @@
 		(uuid "9688496c-bc26-4aec-be4b-03045b95a2a1")
 	)
 	(label "NB_A8"
-		(at 96.52 24.13 0)
+		(at 119.38 69.85 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2747,7 +2747,7 @@
 		(uuid "f414c5ef-e238-4164-a975-47574912a13d")
 	)
 	(label "NB_A7"
-		(at 96.52 26.67 0)
+		(at 120.65 82.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2759,7 +2759,7 @@
 		(uuid "f4ef30d6-cbe6-4dc6-bfce-6de4dbe4e19f")
 	)
 	(label "NB_A1"
-		(at 82.55 22.86 180)
+		(at 82.55 67.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
