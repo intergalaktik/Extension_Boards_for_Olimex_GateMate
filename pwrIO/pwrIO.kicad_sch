@@ -2915,73 +2915,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+2V5")
-		(at 102.87 33.02 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "117843eb-8701-4a75-a29d-bb4952995daf")
-		(property "Reference" "#PWR021"
-			(at 106.68 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 99.06 33.0199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 102.87 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 102.87 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7101ce3f-dce2-4df5-98dc-8c11e7570bb8")
-		)
-		(instances
-			(project "pwrIO"
-				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
-					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 168.91 62.23 0)
 		(unit 1)
@@ -3495,6 +3428,207 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+2V5")
+		(at 144.78 33.02 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d4cb48d-d128-4b56-b132-1e52aa6f0d83")
+		(property "Reference" "#PWR040"
+			(at 148.59 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+2V5"
+			(at 140.97 33.0199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+2V5\""
+			(at 144.78 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "157b8d95-82cd-4663-ad6f-af10b4ac004c")
+		)
+		(instances
+			(project "pwrIO"
+				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+2V5")
+		(at 85.09 38.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "51e68fb9-c49a-4cfc-b033-850bfc95ab8b")
+		(property "Reference" "#PWR038"
+			(at 88.9 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+2V5"
+			(at 81.28 38.0999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+2V5\""
+			(at 85.09 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "76cf9d62-8493-42b5-8531-c78b75e4ab9b")
+		)
+		(instances
+			(project "pwrIO"
+				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+2V5")
+		(at 127 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57664644-ea2f-48b4-a3db-dc71653ce22a")
+		(property "Reference" "#PWR041"
+			(at 130.81 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+2V5"
+			(at 123.19 35.5599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+2V5\""
+			(at 127 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "98612b1d-ce70-41af-82fb-088495aa03b4")
+		)
+		(instances
+			(project "pwrIO"
+				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 144.78 40.64 270)
 		(unit 1)
@@ -3628,15 +3762,16 @@
 	)
 	(symbol
 		(lib_id "power:+2V5")
-		(at 127 38.1 90)
+		(at 102.87 33.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "75d3f9d7-262b-4cc6-93b4-5cc15e5b8fee")
-		(property "Reference" "#PWR036"
-			(at 130.81 38.1 0)
+		(fields_autoplaced yes)
+		(uuid "681c04ae-1348-4b69-8692-4e179324737c")
+		(property "Reference" "#PWR039"
+			(at 106.68 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3644,8 +3779,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 124.46 38.1 90)
+		(property "Value" "+2V5"
+			(at 99.06 33.0199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3654,7 +3789,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 38.1 0)
+			(at 102.87 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3663,7 +3798,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 38.1 0)
+			(at 102.87 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3672,7 +3807,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 127 38.1 0)
+			(at 102.87 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3681,12 +3816,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "5be32dda-7fc4-4787-9b76-04d2860cc5cc")
+			(uuid "93d05f9f-374a-4067-b134-c8f963650cfd")
 		)
 		(instances
 			(project "pwrIO"
 				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
-					(reference "#PWR036")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -3826,72 +3961,6 @@
 	)
 	(symbol
 		(lib_id "power:+2V5")
-		(at 85.09 38.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "84aca6aa-6309-45ce-bbd6-a09e4101a8bb")
-		(property "Reference" "#PWR034"
-			(at 88.9 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 82.55 38.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 85.09 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 85.09 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 85.09 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0a22a986-c15f-4017-983a-8f6a78af42f2")
-		)
-		(instances
-			(project "pwrIO"
-				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
-					(reference "#PWR034")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+2V5")
 		(at 143.51 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4023,72 +4092,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+2V5")
-		(at 127 35.56 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "896e4513-ba3b-4200-a07b-571d27f33a8c")
-		(property "Reference" "#PWR035"
-			(at 130.81 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 124.46 35.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 127 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 127 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 127 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5f940aac-9496-49ce-9d5c-43f8ef02b8dd")
-		)
-		(instances
-			(project "pwrIO"
-				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
-					(reference "#PWR035")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 91.44 35.56 90)
 		(unit 1)
@@ -4157,16 +4160,16 @@
 	)
 	(symbol
 		(lib_id "power:+2V5")
-		(at 144.78 33.02 90)
+		(at 127 38.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "94bf9c27-bf3f-41de-94a6-c1b9b399a4e8")
-		(property "Reference" "#PWR023"
-			(at 148.59 33.02 0)
+		(uuid "a62fa9cf-a6ea-4334-a642-205f8c0c0c16")
+		(property "Reference" "#PWR042"
+			(at 130.81 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4174,8 +4177,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 140.97 33.0199 90)
+		(property "Value" "+2V5"
+			(at 123.19 38.0999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4184,7 +4187,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 144.78 33.02 0)
+			(at 127 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4193,7 +4196,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 33.02 0)
+			(at 127 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4202,7 +4205,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 144.78 33.02 0)
+			(at 127 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4211,78 +4214,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "c02371dd-3c2d-41e9-bae7-9a909c80c662")
+			(uuid "7a6ebe94-d1f2-4a28-bda9-0ba0dfbe515d")
 		)
 		(instances
 			(project "pwrIO"
 				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
-					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+2V5")
-		(at 85.09 35.56 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9c225eab-af4b-4454-a59c-8fa1ca7384e0")
-		(property "Reference" "#PWR030"
-			(at 88.9 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 82.55 35.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 85.09 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 85.09 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 85.09 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d01664f8-a8de-4dd4-8fe2-b4be69ededaa")
-		)
-		(instances
-			(project "pwrIO"
-				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
-					(reference "#PWR030")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -4823,6 +4760,73 @@
 			(project "pwrIO"
 				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
 					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+2V5")
+		(at 85.09 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9f429a4-91d1-4aec-a81e-07b2497a58cf")
+		(property "Reference" "#PWR037"
+			(at 88.9 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+2V5"
+			(at 81.28 35.5599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+2V5\""
+			(at 85.09 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6a8f6fac-4c93-45c1-956e-bdffa229e580")
+		)
+		(instances
+			(project "pwrIO"
+				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
