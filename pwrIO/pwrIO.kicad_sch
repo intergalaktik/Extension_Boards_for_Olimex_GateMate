@@ -2399,7 +2399,7 @@
 		(uuid "122aafed-75c4-4138-9796-a9c58ed1f14e")
 	)
 	(label "NB_B5"
-		(at 124.46 80.01 180)
+		(at 124.46 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2411,7 +2411,7 @@
 		(uuid "128d9478-6d4d-472f-bede-44b6da4ac0e9")
 	)
 	(label "NB_B2"
-		(at 124.46 69.85 180)
+		(at 82.55 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2423,7 +2423,7 @@
 		(uuid "1f03bb29-bd6b-4095-b666-8b92b82805eb")
 	)
 	(label "NB_B3"
-		(at 124.46 73.66 180)
+		(at 82.55 82.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2471,7 +2471,7 @@
 		(uuid "3f275625-e0bb-4e53-8a32-e0e55a99c13c")
 	)
 	(label "NB_B4"
-		(at 124.46 76.2 180)
+		(at 124.46 67.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2519,7 +2519,7 @@
 		(uuid "5b191d30-fe3e-4eec-904e-b1ef7cb6cd45")
 	)
 	(label "NB_A4"
-		(at 82.55 76.2 180)
+		(at 82.55 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2543,7 +2543,7 @@
 		(uuid "5fd7016b-d633-480a-a155-161af8aceb68")
 	)
 	(label "NB_B1"
-		(at 124.46 67.31 180)
+		(at 82.55 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2555,7 +2555,7 @@
 		(uuid "6718ba20-4bcb-4494-a147-58ac7a6713b0")
 	)
 	(label "NB_A3"
-		(at 82.55 73.66 180)
+		(at 82.55 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2579,7 +2579,7 @@
 		(uuid "88fc4360-74ff-4cbe-adcb-9a61fb8a480d")
 	)
 	(label "NB_A6"
-		(at 82.55 82.55 180)
+		(at 124.46 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2627,7 +2627,7 @@
 		(uuid "b36e186c-353d-4318-851e-4471549edf17")
 	)
 	(label "NB_A2"
-		(at 82.55 69.85 180)
+		(at 82.55 73.66 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2639,7 +2639,7 @@
 		(uuid "b999974b-8ec1-44d5-9c76-ffac306a44a7")
 	)
 	(label "NB_B6"
-		(at 124.46 82.55 180)
+		(at 124.46 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2663,7 +2663,7 @@
 		(uuid "d97e7eca-15ae-47c2-aa4d-f1f59c12a668")
 	)
 	(label "NB_A5"
-		(at 82.55 80.01 180)
+		(at 124.46 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2759,7 +2759,7 @@
 		(uuid "f4ef30d6-cbe6-4dc6-bfce-6de4dbe4e19f")
 	)
 	(label "NB_A1"
-		(at 82.55 67.31 180)
+		(at 82.55 22.86 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
