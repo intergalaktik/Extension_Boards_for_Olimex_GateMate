@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP7940NT-I_SN
+D Microchip Technology MCP7940NT-I/SN, Real Time Clock (RTC), 64B RAM Serial-2 Wire, Serial-I2C, 8-Pin SOIC
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en553487
+$ENDCMP
+#
+#End Doc Library
