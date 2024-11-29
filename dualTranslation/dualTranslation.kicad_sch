@@ -9850,7 +9850,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 135.89 93.98 0)
 			(effects
 				(font
@@ -10748,7 +10748,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 224.79 95.25 0)
 			(effects
 				(font
