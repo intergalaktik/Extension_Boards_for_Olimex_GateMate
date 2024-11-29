@@ -2500,10 +2500,46 @@
 		(uuid "08a013ad-c395-4f24-9bb8-3cb724f9524e")
 	)
 	(junction
+		(at 158.75 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "16c01859-93ca-4780-a621-00c1ad7ee182")
+	)
+	(junction
 		(at 101.6 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1bda3386-f31c-4011-a2e2-c5b5cbb218c7")
+	)
+	(junction
+		(at 163.83 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "28a9f79e-04f0-4d2e-a67b-2396a2507566")
+	)
+	(junction
+		(at 161.29 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30b820fd-842f-4dd1-84ba-482558db6ad2")
+	)
+	(junction
+		(at 182.88 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3afa54cb-a404-46e0-acb6-e735400aac61")
+	)
+	(junction
+		(at 160.02 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c7d432a-fa30-46cf-a12c-8d78614f4934")
+	)
+	(junction
+		(at 184.15 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49cd6201-9b1a-4094-b25f-3904768daa5e")
 	)
 	(junction
 		(at 91.44 67.31)
@@ -2518,16 +2554,46 @@
 		(uuid "6fc3ea4d-377b-4272-9471-e9a11c61eec1")
 	)
 	(junction
+		(at 177.8 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7139e746-5b4b-4774-975e-de997094c681")
+	)
+	(junction
 		(at 234.95 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "72589e73-3bd0-4f4a-b1f3-20fd1debc9fe")
 	)
 	(junction
+		(at 166.37 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74d50a8a-c46a-44fa-a473-fb9d5b4e7773")
+	)
+	(junction
+		(at 180.34 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "776dca6f-688c-4346-adc4-b16969d08d51")
+	)
+	(junction
+		(at 187.96 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "787168a3-8f51-4ea9-ad09-f0a3a79ab8be")
+	)
+	(junction
 		(at 128.27 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "87fe1d79-924f-40b5-ad95-dd4bd7fd2980")
+	)
+	(junction
+		(at 185.42 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b165540-6230-4154-8df2-90833efd793c")
 	)
 	(junction
 		(at 115.57 67.31)
@@ -2540,6 +2606,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9e8cb6d4-8481-4eb1-a4be-77d7eb1f51be")
+	)
+	(junction
+		(at 153.67 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a23d8293-c681-40c9-87a1-5f449e474e41")
 	)
 	(junction
 		(at 142.24 104.14)
@@ -2572,6 +2644,12 @@
 		(uuid "d95e5b4e-8db3-4881-a20f-01ae63db9a73")
 	)
 	(junction
+		(at 156.21 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc007f9e-f734-4386-8075-860f4c4b963a")
+	)
+	(junction
 		(at 229.87 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2588,6 +2666,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e986bbdc-9628-479c-99bf-94ed8fe58fd5")
+	)
+	(junction
+		(at 190.5 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1468179-f90b-4362-b073-46762f91d932")
 	)
 	(junction
 		(at 146.05 104.14)
@@ -2783,6 +2867,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 67.31) (xy 158.75 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b0f6ddb-f726-4e98-8578-dbe0f1808ad1")
+	)
+	(wire
+		(pts
 			(xy 52.07 72.39) (xy 59.69 72.39)
 		)
 		(stroke
@@ -2790,6 +2884,26 @@
 			(type default)
 		)
 		(uuid "2cf4f886-bd6c-48e0-9837-3f3bdfd37dcf")
+	)
+	(wire
+		(pts
+			(xy 184.15 67.31) (xy 184.15 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "307ac46c-0ad8-49b1-9a3a-1d957b4fc2c9")
+	)
+	(wire
+		(pts
+			(xy 156.21 67.31) (xy 156.21 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "312d403f-9146-4359-9912-299d0adda86d")
 	)
 	(wire
 		(pts
@@ -2810,6 +2924,16 @@
 			(type default)
 		)
 		(uuid "3920857d-9199-4bb0-b95e-cbbc77092958")
+	)
+	(wire
+		(pts
+			(xy 160.02 67.31) (xy 161.29 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "393d9b7c-b3ff-4c02-ab89-21f72d26fa8d")
 	)
 	(wire
 		(pts
@@ -2923,6 +3047,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 67.31) (xy 156.21 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47cfd99f-9910-45b1-a52f-2b4e90c0c6eb")
+	)
+	(wire
+		(pts
 			(xy 229.87 95.25) (xy 229.87 107.95)
 		)
 		(stroke
@@ -2940,6 +3074,16 @@
 			(type default)
 		)
 		(uuid "4ca73964-95db-46d4-a32f-e176e0de1e03")
+	)
+	(wire
+		(pts
+			(xy 187.96 67.31) (xy 190.5 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dd68cb2-18fe-45fe-9548-954b9b8ba39b")
 	)
 	(wire
 		(pts
@@ -3010,6 +3154,26 @@
 			(type default)
 		)
 		(uuid "543c232a-6d8f-4d12-ac71-fc2e6767ecb5")
+	)
+	(wire
+		(pts
+			(xy 161.29 67.31) (xy 163.83 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55e7d0fc-079d-4009-9605-56a61fdda5a4")
+	)
+	(wire
+		(pts
+			(xy 187.96 67.31) (xy 187.96 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5704547e-dcd2-47b0-83ca-8812fd05ba47")
 	)
 	(wire
 		(pts
@@ -3153,6 +3317,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 67.31) (xy 161.29 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6edeed3d-b18e-44bc-9c02-109967860925")
+	)
+	(wire
+		(pts
 			(xy 234.95 107.95) (xy 241.3 107.95)
 		)
 		(stroke
@@ -3160,6 +3334,36 @@
 			(type default)
 		)
 		(uuid "71ad9dae-60eb-4f03-8607-18ef7d17f40c")
+	)
+	(wire
+		(pts
+			(xy 184.15 67.31) (xy 185.42 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71cb01ba-703a-4758-b4c4-0d01a27ee17e")
+	)
+	(wire
+		(pts
+			(xy 180.34 67.31) (xy 180.34 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73d518a5-0c1b-49c9-b84b-50387ef261b1")
+	)
+	(wire
+		(pts
+			(xy 153.67 67.31) (xy 153.67 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7538753c-0055-4444-a705-01694c90b312")
 	)
 	(wire
 		(pts
@@ -3213,6 +3417,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 67.31) (xy 177.8 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8203fecd-84c3-4b96-a867-742e8fa1f660")
+	)
+	(wire
+		(pts
 			(xy 88.9 71.12) (xy 88.9 67.31)
 		)
 		(stroke
@@ -3230,6 +3444,16 @@
 			(type default)
 		)
 		(uuid "86007208-9f0c-4fc2-a836-1471ef14f1c3")
+	)
+	(wire
+		(pts
+			(xy 156.21 67.31) (xy 158.75 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "865bdd00-f384-4e1c-874c-3aa8d8f3701f")
 	)
 	(wire
 		(pts
@@ -3260,6 +3484,26 @@
 			(type default)
 		)
 		(uuid "8bcf0445-dca4-4f4a-84c6-6fc5f4455cb6")
+	)
+	(wire
+		(pts
+			(xy 160.02 67.31) (xy 160.02 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d247396-ae5a-4f3e-812e-afdf6fe4c149")
+	)
+	(wire
+		(pts
+			(xy 190.5 67.31) (xy 193.04 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d576451-30bc-4f9d-98f1-cdd9d65660e6")
 	)
 	(wire
 		(pts
@@ -3333,6 +3577,16 @@
 	)
 	(wire
 		(pts
+			(xy 190.5 67.31) (xy 190.5 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a6b5872-17ef-4013-9a12-6cbaa48b33a3")
+	)
+	(wire
+		(pts
 			(xy 139.7 116.84) (xy 143.51 116.84)
 		)
 		(stroke
@@ -3340,6 +3594,16 @@
 			(type default)
 		)
 		(uuid "9ae5b706-592a-4435-914b-1e4fd415fdbd")
+	)
+	(wire
+		(pts
+			(xy 182.88 67.31) (xy 184.15 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b04b210-f112-4bfe-a573-0908ea826c29")
 	)
 	(wire
 		(pts
@@ -3393,6 +3657,16 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 67.31) (xy 187.96 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4f50fcf-c214-4610-b09a-1fc5bc62c695")
+	)
+	(wire
+		(pts
 			(xy 91.44 116.84) (xy 91.44 119.38)
 		)
 		(stroke
@@ -3403,6 +3677,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 67.31) (xy 153.67 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6ce101f-79a3-4006-a88d-4768514e2d20")
+	)
+	(wire
+		(pts
 			(xy 118.11 67.31) (xy 120.65 67.31)
 		)
 		(stroke
@@ -3410,6 +3694,16 @@
 			(type default)
 		)
 		(uuid "a74d8087-85b3-45d4-b668-0a4b88237de4")
+	)
+	(wire
+		(pts
+			(xy 193.04 67.31) (xy 193.04 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab940c90-4869-4ac1-bc15-c1a7c1cfce2d")
 	)
 	(wire
 		(pts
@@ -3443,6 +3737,26 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 67.31) (xy 168.91 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b09a9be8-b198-401f-b23d-4ef054e62f6b")
+	)
+	(wire
+		(pts
+			(xy 175.26 67.31) (xy 177.8 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2d8f724-7d7f-4719-a178-3124b8f18033")
+	)
+	(wire
+		(pts
 			(xy 227.33 107.95) (xy 229.87 107.95)
 		)
 		(stroke
@@ -3460,6 +3774,16 @@
 			(type default)
 		)
 		(uuid "b546d591-f26e-43b0-a27f-a4f8f372ca33")
+	)
+	(wire
+		(pts
+			(xy 185.42 67.31) (xy 185.42 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b631f1d3-0d2f-48bf-b7fd-4546ed5302a0")
 	)
 	(wire
 		(pts
@@ -3553,6 +3877,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 67.31) (xy 168.91 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4cf0c1f-8dd4-49d7-b427-db69f2835fd6")
+	)
+	(wire
+		(pts
 			(xy 55.88 99.06) (xy 59.69 99.06)
 		)
 		(stroke
@@ -3573,6 +3907,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 67.31) (xy 182.88 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7341e46-452e-4460-a9b0-4dca00e72dea")
+	)
+	(wire
+		(pts
 			(xy 72.39 106.68) (xy 76.2 106.68)
 		)
 		(stroke
@@ -3590,6 +3934,16 @@
 			(type default)
 		)
 		(uuid "c82ed203-d53d-47ce-bef8-1ffdd6d492b0")
+	)
+	(wire
+		(pts
+			(xy 180.34 67.31) (xy 182.88 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf3041bb-137e-422d-81ef-a3f5fb33a229")
 	)
 	(wire
 		(pts
@@ -3693,6 +4047,36 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 71.12) (xy 175.26 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcc1fefe-e49d-494f-b79a-ee2bc6ad0f15")
+	)
+	(wire
+		(pts
+			(xy 177.8 67.31) (xy 180.34 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de6c044c-35a9-4a06-a58b-34b6a7ea9fad")
+	)
+	(wire
+		(pts
+			(xy 151.13 71.12) (xy 151.13 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df9dd66a-4234-44fb-b563-4f08abc07299")
+	)
+	(wire
+		(pts
 			(xy 55.88 101.6) (xy 59.69 101.6)
 		)
 		(stroke
@@ -3710,6 +4094,16 @@
 			(type default)
 		)
 		(uuid "e02da899-5dc6-4b18-b1be-fda03676b70a")
+	)
+	(wire
+		(pts
+			(xy 158.75 67.31) (xy 160.02 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e052e754-41c8-4b28-9a2c-7947e6b3c7af")
 	)
 	(wire
 		(pts
@@ -3833,6 +4227,16 @@
 	)
 	(wire
 		(pts
+			(xy 163.83 67.31) (xy 166.37 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef016c5a-27df-4300-97ce-9cf948e72623")
+	)
+	(wire
+		(pts
 			(xy 99.06 67.31) (xy 99.06 71.12)
 		)
 		(stroke
@@ -3900,6 +4304,26 @@
 			(type default)
 		)
 		(uuid "f7c55707-44b5-4c2f-a30e-9576de5f4c37")
+	)
+	(wire
+		(pts
+			(xy 166.37 67.31) (xy 166.37 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f958b3f9-fecc-4468-9b60-22d538c38977")
+	)
+	(wire
+		(pts
+			(xy 163.83 67.31) (xy 163.83 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faa38906-4e85-4dae-9f48-6a2672bd2999")
 	)
 	(wire
 		(pts
@@ -3988,6 +4412,19 @@
 		(uuid 4f6adfea-491c-449f-b560-e18dbea1d8f6)
 	)
 	(rectangle
+		(start 148.59 62.23)
+		(end 195.58 83.82)
+		(stroke
+			(width 0.127)
+			(type dash)
+		)
+		(fill
+			(type color)
+			(color 2 255 0 0.48)
+		)
+		(uuid 8d9532bc-2119-4785-bc7d-e6d0270571ac)
+	)
+	(rectangle
 		(start 86.36 85.09)
 		(end 173.99 135.89)
 		(stroke
@@ -4071,6 +4508,18 @@
 			)
 		)
 		(uuid "ccd2eeec-3be6-4f84-a162-dfe26bc4482c")
+	)
+	(label "A3"
+		(at 158.75 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "033bb481-942c-4732-8314-7c6ad00a2bd5")
 	)
 	(label "NB_B2"
 		(at 101.6 76.2 270)
@@ -4180,6 +4629,18 @@
 		)
 		(uuid "1bad24b8-ed5f-4410-ad77-7771b6464745")
 	)
+	(label "A5"
+		(at 163.83 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "1f278ae8-af03-4e2a-97a3-08ca5d6edfba")
+	)
 	(label "B3"
 		(at 76.2 99.06 0)
 		(fields_autoplaced yes)
@@ -4227,6 +4688,18 @@
 			(justify left bottom)
 		)
 		(uuid "309379ba-ca58-4574-9fc8-a5a343648fd3")
+	)
+	(label "B2"
+		(at 180.34 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "32eec2ff-4ec3-4b14-93c7-1344ff7f0286")
 	)
 	(label "NB_A4"
 		(at 52.07 69.85 0)
@@ -4287,6 +4760,18 @@
 			(justify left bottom)
 		)
 		(uuid "45b91aee-2460-4f98-9fa9-75ce6bc1c7b3")
+	)
+	(label "B5"
+		(at 187.96 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "48b22df1-0868-4bcb-ac15-06a92366cd81")
 	)
 	(label "A0"
 		(at 55.88 106.68 0)
@@ -4444,6 +4929,18 @@
 		)
 		(uuid "614ae69e-006b-4bbf-93f3-c9d40878e6ee")
 	)
+	(label "B1"
+		(at 177.8 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "6186849a-4b3f-40e7-b759-485e9700f581")
+	)
 	(label "A1"
 		(at 55.88 104.14 0)
 		(fields_autoplaced yes)
@@ -4479,6 +4976,30 @@
 			(justify left bottom)
 		)
 		(uuid "693be9bc-8eeb-4117-b171-e8a26dc43840")
+	)
+	(label "A1"
+		(at 153.67 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "6f6ca563-169d-46d3-8a93-dd7ccab46464")
+	)
+	(label "A2"
+		(at 156.21 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "6f6f5547-474c-4fb0-b15e-13be6d4d1936")
 	)
 	(label "A4"
 		(at 231.14 113.03 0)
@@ -4624,6 +5145,18 @@
 		)
 		(uuid "8fd696da-11fc-4eb9-9edf-05301b5910eb")
 	)
+	(label "B7"
+		(at 193.04 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "90349c0d-b51b-4b6c-aab7-e993685ea1c4")
+	)
 	(label "NB_A3"
 		(at 104.14 76.2 270)
 		(fields_autoplaced yes)
@@ -4707,6 +5240,18 @@
 			(justify left bottom)
 		)
 		(uuid "a131cdc0-5799-4cf8-a152-fcea61599e87")
+	)
+	(label "B6"
+		(at 190.5 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "a282b819-1b08-48b5-9d7d-be4df63e3c69")
 	)
 	(label "A2"
 		(at 143.51 119.38 0)
@@ -4792,6 +5337,30 @@
 		)
 		(uuid "b51723bb-49bf-4e50-b742-1883b7627209")
 	)
+	(label "A4"
+		(at 161.29 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "b5aed603-efc9-49ee-ac25-a7118b16d87b")
+	)
+	(label "B0"
+		(at 175.26 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "b5b5c887-5d43-4d44-b6a5-1ad7c813abe5")
+	)
 	(label "A7"
 		(at 57.15 123.19 0)
 		(fields_autoplaced yes)
@@ -4863,6 +5432,18 @@
 			(justify left bottom)
 		)
 		(uuid "c9b8908e-6ee4-4f49-81cf-8388a2b68698")
+	)
+	(label "A6"
+		(at 166.37 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "c9fad1e5-6254-4332-b921-27430a871da1")
 	)
 	(label "NB_B3"
 		(at 97.79 127 0)
@@ -4948,6 +5529,18 @@
 		)
 		(uuid "d89df7bf-21bf-469a-a4d0-f9ba1a42a71a")
 	)
+	(label "B4"
+		(at 185.42 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "d8f452d4-69a1-4f8b-9b6a-ea877cd3aa67")
+	)
 	(label "NB_A7"
 		(at 52.07 77.47 0)
 		(fields_autoplaced yes)
@@ -4996,6 +5589,18 @@
 		)
 		(uuid "de74362d-eb4d-4a50-866d-e17598ba5c6b")
 	)
+	(label "A7"
+		(at 168.91 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "e177deaf-68ce-4177-a072-a81e0f153c10")
+	)
 	(label "NB_A8"
 		(at 52.07 80.01 0)
 		(fields_autoplaced yes)
@@ -5019,6 +5624,18 @@
 			(justify left bottom)
 		)
 		(uuid "e5abefaa-b43c-47da-98eb-17fb67414154")
+	)
+	(label "A0"
+		(at 151.13 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "ea40d3e0-ddc1-4ca2-8ca1-ce645944d41d")
 	)
 	(label "NB_B8"
 		(at 80.01 80.01 180)
@@ -5055,6 +5672,18 @@
 			(justify left bottom)
 		)
 		(uuid "ee8d1f70-78ac-4cf0-ab93-2a83a755d8d3")
+	)
+	(label "B3"
+		(at 182.88 76.2 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+				(color 0 6 255 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "ef708ca4-3cae-4d7d-acc6-8b83f1907b30")
 	)
 	(label "NB_B0"
 		(at 91.44 76.2 270)
@@ -5154,6 +5783,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 161.29 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "09c9af36-32e6-4ede-a19c-25a0f0327258")
+		(property "Reference" "R24"
+			(at 160.528 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 161.29 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 161.29 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 161.29 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 161.29 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 161.29 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1d5179f1-f492-4612-b458-9204eb5de0e4")
+		)
+		(pin "2"
+			(uuid "9b3fec90-9c3f-4c7b-83b4-ec2cb10d2825")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 104.14 104.14 270)
 		(unit 1)
@@ -5213,6 +5929,93 @@
 			(project "dualTranslation"
 				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 185.42 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0d66691d-faa3-47b8-a4ee-f2107cf8e5af")
+		(property "Reference" "R32"
+			(at 184.658 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 185.42 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 185.42 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "38708247-adf7-4ad2-8259-63cd4e398bb5")
+		)
+		(pin "2"
+			(uuid "3a0c4a6f-e06a-4e6c-b633-9191b8028682")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -5311,6 +6114,72 @@
 			(project ""
 				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+2V5")
+		(at 184.15 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "10dd0158-335a-4d63-b054-455efb2e2f12")
+		(property "Reference" "#PWR016"
+			(at 184.15 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 185.42 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 184.15 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 184.15 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+2V5\""
+			(at 184.15 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d8641e21-27d9-4d01-8ae3-2ed08981481a")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -5637,6 +6506,93 @@
 			(project "dualTranslation"
 				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
 					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 180.34 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "17919cc2-eeac-474e-b364-8968595cefba")
+		(property "Reference" "R30"
+			(at 179.578 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 180.34 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 180.34 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "be1a12bd-0956-4242-89fa-f6cbf6fb8232")
+		)
+		(pin "2"
+			(uuid "b735ca0b-f147-46dc-b60b-6f413ac4e2b9")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -6121,6 +7077,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 163.83 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "25e6879c-3402-49d0-b0bf-7f5e4d9bdc07")
+		(property "Reference" "R25"
+			(at 163.068 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 163.83 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 163.83 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 163.83 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 163.83 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 163.83 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb108bb2-c112-4f19-877e-76d6fe40c7e9")
+		)
+		(pin "2"
+			(uuid "99660226-7d1c-40db-94f3-bb2bbb862214")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 157.48 104.14 90)
 		(unit 1)
@@ -6247,6 +7290,93 @@
 			(project "dualTranslation"
 				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 193.04 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2d3d37ba-e523-49ae-9a26-4101554fe789")
+		(property "Reference" "R35"
+			(at 192.278 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 193.04 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 193.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 193.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 193.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 193.04 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ef2df85d-9f19-40eb-863b-2eb3306088bf")
+		)
+		(pin "2"
+			(uuid "af845539-7c6f-4d5d-b776-362683ca52e7")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -7170,6 +8300,93 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
+		(at 177.8 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5aebc2d7-572a-453e-ade6-42222505f905")
+		(property "Reference" "R29"
+			(at 177.038 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 177.8 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 177.8 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.8 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 177.8 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 177.8 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 177.8 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "344329a8-ba47-4495-becf-2bf952042ad3")
+		)
+		(pin "2"
+			(uuid "2b32e366-d608-40e9-b7d7-8b63b11c3202")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
 		(at 234.95 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7430,6 +8647,180 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 151.13 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "63db12c2-d350-42b2-89d2-60a05f3c71db")
+		(property "Reference" "R20"
+			(at 150.368 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 151.13 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 151.13 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 151.13 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 151.13 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 151.13 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ef051b23-1464-4ba2-b27d-5d7c7f21fbf6")
+		)
+		(pin "2"
+			(uuid "6eee27f3-5819-410b-baeb-265a078b219a")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 187.96 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "67f3251b-baa1-428d-be7b-6dce8171b614")
+		(property "Reference" "R33"
+			(at 187.198 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 187.96 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 187.96 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 187.96 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 187.96 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 187.96 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 187.96 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e52e25c-e871-4f16-9711-aa056be0d57a")
+		)
+		(pin "2"
+			(uuid "9221ac22-9689-4e5c-b373-fb8d6aec0ca1")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 167.64 119.38 0)
 		(unit 1)
@@ -7582,6 +8973,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 168.91 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6bd485f5-600e-4381-bd31-ca787945c9d1")
+		(property "Reference" "R27"
+			(at 168.148 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 168.91 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 168.91 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 168.91 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 168.91 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 168.91 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 168.91 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6b88f38e-ef16-46dd-bdfc-2d6e5b01f84b")
+		)
+		(pin "2"
+			(uuid "7fd8fc6e-4007-4775-9fc0-3e86f90a5b1f")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 59.69 120.65 270)
 		(unit 1)
@@ -7643,6 +9121,93 @@
 			(project "dualTranslation"
 				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 153.67 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6d99b537-38b3-462c-8405-1cd112ff261c")
+		(property "Reference" "R21"
+			(at 152.908 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 153.67 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 153.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 153.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 153.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 153.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a726b9e7-5970-4aa9-9110-9ed1e7b598a4")
+		)
+		(pin "2"
+			(uuid "94b35f4a-2a1f-4b83-985d-452eb855fedd")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -8329,6 +9894,72 @@
 	)
 	(symbol
 		(lib_id "power:+2V5")
+		(at 160.02 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "98a84829-ca46-4da1-be37-5545efc1b608")
+		(property "Reference" "#PWR012"
+			(at 160.02 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 161.29 64.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 160.02 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+2V5\""
+			(at 160.02 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "53bc2cef-5c18-46dc-a4f8-9470ab33f174")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+2V5")
 		(at 121.92 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8932,6 +10563,93 @@
 			(project "dualTranslation"
 				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
 					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 166.37 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b09c7ede-e784-4dee-8de6-6528e4972b26")
+		(property "Reference" "R26"
+			(at 165.608 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 166.37 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 166.37 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 166.37 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 166.37 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 166.37 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 166.37 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d85d6476-d058-4544-b52f-7d3c59ea9c1e")
+		)
+		(pin "2"
+			(uuid "c9ebad69-05e0-4e2c-a8a9-ff5978469c15")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -9688,6 +11406,180 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
+		(at 182.88 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cb78094b-7d40-4068-b4f0-f5f428f75df9")
+		(property "Reference" "R31"
+			(at 182.118 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 182.88 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 182.88 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 182.88 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 182.88 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 182.88 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 182.88 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "18707026-d532-47a6-9bcd-e978a8d8ac9a")
+		)
+		(pin "2"
+			(uuid "7aae4b0c-1be6-4f9f-a211-48a1e1ce6975")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 175.26 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ceaf0266-562b-4c4c-a885-e3aba3f1f7d1")
+		(property "Reference" "R28"
+			(at 174.498 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 175.26 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 175.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 175.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 175.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 175.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "191b685f-0f86-430a-b659-53951ffb08d4")
+		)
+		(pin "2"
+			(uuid "8e633a22-0cfc-483c-9038-2bbe31950bdc")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
 		(at 146.05 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10125,6 +12017,93 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 190.5 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ea235c7e-a6c0-4242-98ef-3ac073bef45f")
+		(property "Reference" "R34"
+			(at 189.738 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 190.5 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 190.5 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 190.5 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 190.5 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 190.5 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 190.5 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ea677cc2-3fa3-45a8-9f10-5e4de3d13a0c")
+		)
+		(pin "2"
+			(uuid "2494cd70-b811-42ce-bd39-ed012fe11b3f")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+2V5")
 		(at 167.64 109.22 0)
 		(unit 1)
@@ -10339,6 +12318,180 @@
 			(project ""
 				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 158.75 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f56a0909-2c9a-4604-ba97-7906082885cb")
+		(property "Reference" "R23"
+			(at 157.988 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 158.75 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 158.75 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 158.75 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 158.75 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 158.75 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84678464-6a86-4441-a1ff-9b67315fb1b0")
+		)
+		(pin "2"
+			(uuid "dd8534ab-5f1b-453c-971b-01f40a387996")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 156.21 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f6a84729-ba89-4e20-a216-55016f899292")
+		(property "Reference" "R22"
+			(at 155.448 71.882 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 156.21 75.692 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 156.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 156.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 156.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " RC0603FR-071K1L"
+			(at 156.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" "603-RC0603FR-071K1L"
+			(at 156.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84095d89-a6df-4e09-b9b1-b8594416b167")
+		)
+		(pin "2"
+			(uuid "fdeb9d00-6d16-4eea-aa1e-f5c9d5b270d3")
+		)
+		(instances
+			(project "dualTranslation"
+				(path "/06e5190f-0d78-4294-ae66-2b86e551ce58"
+					(reference "R22")
 					(unit 1)
 				)
 			)
