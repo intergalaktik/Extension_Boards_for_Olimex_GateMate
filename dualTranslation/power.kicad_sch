@@ -5,8 +5,8 @@
 	(uuid "a6491329-6d2c-4e19-8914-3fdcd7bfb4ef")
 	(paper "A5")
 	(title_block
-		(title "Motor driver board")
-		(date "2024-11-26")
+		(title "Dual Translation")
+		(date "2024-11-29")
 		(rev "v0.1")
 		(company "Intergalaktik d.o.o.")
 	)
