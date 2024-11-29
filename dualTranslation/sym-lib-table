@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LSF0108PWR")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LSF0108PWR/KiCad/LSF0108PWR.kicad_sym")(options "")(descr ""))
+)
