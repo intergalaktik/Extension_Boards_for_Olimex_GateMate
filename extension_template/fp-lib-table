@@ -4,4 +4,5 @@
   (lib (name "radiona")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/radiona.pretty")(options "")(descr ""))
   (lib (name "nlnet")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/nlnet.pretty")(options "")(descr ""))
   (lib (name "intergalaktik")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/intergalaktik")(options "")(descr ""))
+  (lib (name "BZB84-C2V4-QR")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_BZB84-C2V4-QR/KiCad")(options "")(descr ""))
 )
