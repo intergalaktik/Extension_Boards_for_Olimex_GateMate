@@ -212,7 +212,7 @@
 		(uuid be37f340-8335-4ef7-be07-02842c7249cf)
 	)
 	(image
-		(at 38.608 170.942)
+		(at 43.18 169.418)
 		(scale 0.850552)
 		(uuid "8fafef07-3e90-444f-8ac7-90626f7caaf4")
 		(data "iVBORw0KGgoAAAANSUhEUgAAAsoAAALECAYAAAARnBYwAAAABHNCSVQICAgIfAhkiAAAABl0RVh0"
@@ -4927,7 +4927,7 @@
 		)
 	)
 	(image
-		(at 94.996 170.942)
+		(at 99.568 169.418)
 		(scale 0.85561)
 		(uuid "c6f4fdb3-e10a-47a1-b7c2-0785c2dd1650")
 		(data "iVBORw0KGgoAAAANSUhEUgAAAsoAAALECAYAAAARnBYwAAAABHNCSVQICAgIfAhkiAAAABl0RVh0"
@@ -9495,7 +9495,7 @@
 	)
 	(text "BOTTOM VIEW"
 		(exclude_from_sim no)
-		(at 94.742 141.478 0)
+		(at 99.314 139.954 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -9518,7 +9518,7 @@
 	)
 	(text "Replace bottom 3D images with your PCB"
 		(exclude_from_sim no)
-		(at 66.548 135.128 0)
+		(at 71.12 133.604 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9720,7 +9720,7 @@
 	)
 	(text "TOP VIEW"
 		(exclude_from_sim no)
-		(at 37.338 141.478 0)
+		(at 41.91 139.954 0)
 		(effects
 			(font
 				(size 5.08 5.08)
