@@ -3855,6 +3855,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3866,6 +3867,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4438,7 +4440,7 @@
 		(descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "inductor")
 		(property "Reference" "L1"
-			(at -2.215 -0.58 360)
+			(at -2.215 -0.58 0)
 			(layer "B.SilkS")
 			(uuid "8b835922-709f-464b-abe5-32ad20b9160c")
 			(effects
@@ -4450,7 +4452,7 @@
 			)
 		)
 		(property "Value" "4.7uH"
-			(at -0.8775 -1.67 360)
+			(at -0.8775 -1.67 0)
 			(layer "B.Fab")
 			(uuid "04717f00-1d23-48a6-bfa3-fc9c2e291d41")
 			(effects
@@ -4609,7 +4611,7 @@
 			(uuid "357f0ffb-feec-4e81-9ca9-d0bf40156217")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "2f4f6139-79e7-4053-b3ac-89dc8037e515")
 			(effects
@@ -4657,7 +4659,7 @@
 		(descr "SOT-363, SC-70-6")
 		(tags "SOT-363 SC-70-6")
 		(property "Reference" "IC3"
-			(at -2.515 2.12 360)
+			(at -2.515 2.12 0)
 			(layer "B.SilkS")
 			(uuid "ee7e448f-c5df-4b23-a430-3baca61bdcfb")
 			(effects
@@ -4669,7 +4671,7 @@
 			)
 		)
 		(property "Value" "TLV61225DC"
-			(at 0 -2 360)
+			(at 0 -2 0)
 			(layer "B.Fab")
 			(uuid "8a75c98f-4145-41f6-b970-b561ded3c2a1")
 			(effects
@@ -6621,7 +6623,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C14"
-			(at -2.645 -0.28 360)
+			(at -2.645 -0.28 0)
 			(layer "B.SilkS")
 			(uuid "d3814a18-91b1-4f9c-8593-e20fa1779457")
 			(effects
@@ -6633,7 +6635,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 0 -1.43 360)
+			(at 0 -1.43 0)
 			(layer "B.Fab")
 			(uuid "a8bd7056-b7b9-4cb9-809e-e452e6cc67b9")
 			(effects
@@ -6792,7 +6794,7 @@
 			(uuid "a910d25c-6a2f-4179-9d4d-43966d98b9e9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "69203566-b87e-487a-891f-6b8029d79d81")
 			(effects
@@ -7310,16 +7312,89 @@
 		(layer "B.SilkS")
 		(uuid "1f574501-7a58-40a9-a87b-e08626d8fb30")
 	)
-	(gr_rect
-		(start 78.24 59.98)
-		(end 108.24 89.98)
+	(gr_arc
+		(start 79.24 89.98)
+		(mid 78.532893 89.687107)
+		(end 78.24 88.98)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
-		(fill none)
 		(layer "Edge.Cuts")
-		(uuid "3e7686b4-b17b-43b0-a3f1-2d49959084f9")
+		(uuid "3a4873ac-f746-405c-a52b-fa87a2869a73")
+	)
+	(gr_arc
+		(start 108.24 88.98)
+		(mid 107.947107 89.687107)
+		(end 107.24 89.98)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3d408988-922f-4915-90e7-64180d4cb8a1")
+	)
+	(gr_line
+		(start 79.24 59.98)
+		(end 107.24 59.98)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5c4af853-bd27-45f2-b4ca-6e87ac8e0d11")
+	)
+	(gr_line
+		(start 78.24 88.98)
+		(end 78.24 60.98)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "63f70d2d-f1b1-4507-81c8-50b2cc62d3dd")
+	)
+	(gr_arc
+		(start 107.24 59.98)
+		(mid 107.947107 60.272893)
+		(end 108.24 60.98)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9ed3131b-9d5a-4faf-a513-f99d640a0f65")
+	)
+	(gr_line
+		(start 108.24 60.98)
+		(end 108.24 88.98)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a43ae54a-adfb-4b6c-85df-bebc87257156")
+	)
+	(gr_arc
+		(start 78.24 60.98)
+		(mid 78.532893 60.272893)
+		(end 79.24 59.98)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a83a11c8-908c-4baf-a57c-a26b135b1a8c")
+	)
+	(gr_line
+		(start 107.24 89.98)
+		(end 79.24 89.98)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c37e3014-6477-43f4-ad74-12d5e9aeeae8")
 	)
 	(gr_text "2V5>>3V3"
 		(at 88.4875 80.386666 0)
