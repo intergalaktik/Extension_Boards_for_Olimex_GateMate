@@ -441,7 +441,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.16 270)
+			(at 0 1.16 -90)
 			(layer "F.Fab")
 			(uuid "ded2cdc5-8845-400e-b952-acd2157116d1")
 			(effects
@@ -596,7 +596,7 @@
 			(uuid "368ca3f8-5eca-4921-9ac0-9e0cc99d837c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "f82ac308-0e69-4426-8c5c-1997083e57b3")
 			(effects
@@ -2005,7 +2005,7 @@
 		(descr "Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor tantalum")
 		(property "Reference" "C8"
-			(at 3.072501 0.05 270)
+			(at 3.072501 0.05 -90)
 			(layer "F.SilkS")
 			(uuid "81527979-da8a-48f8-a6af-0995a136b227")
 			(effects
@@ -2016,7 +2016,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 0 1.75 270)
+			(at 0 1.75 -90)
 			(layer "F.Fab")
 			(uuid "325f241a-42a1-441f-96e0-5da3c813f3ad")
 			(effects
@@ -2191,7 +2191,7 @@
 			(uuid "1ac8f46b-daba-4ad6-a489-51d7f1ac3101")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "7fb628c5-113b-4523-86be-c354d67bba07")
 			(effects
@@ -2983,7 +2983,7 @@
 	(footprint "Cologne:open_cologne"
 		(layer "F.Cu")
 		(uuid "556803ba-f42e-407b-8d13-3d722d1b3fc8")
-		(at 104.02 85.94)
+		(at 104.02 85.675736)
 		(property "Reference" "H3"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -3962,7 +3962,7 @@
 		(descr "Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor tantalum")
 		(property "Reference" "C9"
-			(at 3.082501 -0.02 270)
+			(at 3.082501 -0.02 -90)
 			(layer "F.SilkS")
 			(uuid "27107eab-c799-44b8-b4cf-1dafd32c7117")
 			(effects
@@ -3973,7 +3973,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 0 1.75 270)
+			(at 0 1.75 -90)
 			(layer "F.Fab")
 			(uuid "b6f8cb9b-3a7b-42d5-be38-7d7e4cda6e84")
 			(effects
@@ -4148,7 +4148,7 @@
 			(uuid "01e325e5-785d-4993-a22d-f5d5d43f60a2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "deb6ef7c-2048-43c1-aca6-3cc053e8257d")
 			(effects
@@ -4195,7 +4195,7 @@
 		(descr "Terminal Block Phoenix MPT-0,5-2-2.54, 2 pins, pitch 2.54mm, size 5.54x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725656-920552.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
 		(tags "THT Terminal Block Phoenix MPT-0,5-2-2.54 pitch 2.54mm size 5.54x6.2mm^2 drill 1.1mm pad 2.2mm")
 		(property "Reference" "J4"
-			(at 1.319999 -1.93 360)
+			(at 1.319999 -1.93 0)
 			(layer "F.SilkS")
 			(uuid "f1795f6b-c134-407b-b4c4-8b285137c4bf")
 			(effects
@@ -4554,7 +4554,7 @@
 			(uuid "dfc221ac-b6cc-4cee-a034-ee48d556a372")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 1.999999 360)
+			(at 1.27 1.999999 0)
 			(layer "F.Fab")
 			(uuid "12cb316e-a732-4ee8-83a4-e1eb52c0616d")
 			(effects
@@ -7998,7 +7998,7 @@
 		(descr "Terminal Block Phoenix MPT-0,5-2-2.54, 2 pins, pitch 2.54mm, size 5.54x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725656-920552.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix")
 		(tags "THT Terminal Block Phoenix MPT-0,5-2-2.54 pitch 2.54mm size 5.54x6.2mm^2 drill 1.1mm pad 2.2mm")
 		(property "Reference" "J5"
-			(at 1.409999 -2.05 360)
+			(at 1.409999 -2.05 0)
 			(layer "F.SilkS")
 			(uuid "165220d9-3e39-4918-b102-8348036811bb")
 			(effects
@@ -8357,7 +8357,7 @@
 			(uuid "7a95289e-0bf1-426a-91a5-f2beefe31b26")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 1.999999 360)
+			(at 1.27 1.999999 0)
 			(layer "F.Fab")
 			(uuid "17a84d6b-e711-4a5b-ac4b-899d8f594552")
 			(effects
@@ -9841,7 +9841,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 48.84 -12.709999 270)
+			(at 48.84 -12.709999 -90)
 			(layer "F.Fab")
 			(uuid "3ad15450-323a-463d-8055-5fc34f952333")
 			(effects
@@ -10016,7 +10016,7 @@
 			(uuid "f09f69e7-2947-4c1b-ae91-73c06f0a9073")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -1.43 1.529999 270)
+			(at -1.43 1.529999 -90)
 			(layer "F.Fab")
 			(uuid "deae4267-a0bc-44fe-baae-1c4e513e09d6")
 			(effects

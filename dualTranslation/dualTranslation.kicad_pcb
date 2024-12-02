@@ -194,7 +194,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R27"
-			(at -0.05 1.02 360)
+			(at -0.05 1.02 0)
 			(layer "F.SilkS")
 			(uuid "65455bd9-ea86-4080-b4a4-c21ebaded01e")
 			(effects
@@ -205,7 +205,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "a178e688-4ee3-498a-b4ef-d8e6df175c51")
 			(effects
@@ -386,7 +386,7 @@
 			(uuid "3b1e75ca-1d78-47ac-9066-8af021c7cd44")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "1e41df7d-b692-42f4-b9cd-cd1fdf288010")
 			(effects
@@ -885,7 +885,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R13"
-			(at 0 1 360)
+			(at 0 1 0)
 			(layer "F.SilkS")
 			(uuid "43b9b5af-429e-4443-862d-ecb952c9d5ec")
 			(effects
@@ -896,7 +896,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "1fe779b5-d5b6-4eb8-8c9b-2c7a8fcc552c")
 			(effects
@@ -1077,7 +1077,7 @@
 			(uuid "215b15bd-3407-4a6e-99b8-9cd463bede4e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8d5fa0ee-39e5-4f48-83f2-8613f8b106c6")
 			(effects
@@ -1124,7 +1124,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at -1.71 0.08 360)
+			(at -1.71 0.08 0)
 			(layer "F.SilkS")
 			(uuid "3a20a840-5671-4846-b014-9270114516ba")
 			(effects
@@ -1135,7 +1135,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.16 360)
+			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "b4096520-2b02-46e1-a2e5-b95eece5152d")
 			(effects
@@ -1290,7 +1290,7 @@
 			(uuid "5f0acf12-faa0-4970-a43c-a11f4f49852c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "73649e3a-5dc3-4c81-bddf-634735c28e43")
 			(effects
@@ -1763,7 +1763,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R12"
-			(at -2.1 0.03 360)
+			(at -2.1 0.03 0)
 			(layer "F.SilkS")
 			(uuid "80fed409-a54c-400e-b81e-b26424c1e8cb")
 			(effects
@@ -1774,7 +1774,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "bff78412-effc-4124-8f31-52f6e46d3473")
 			(effects
@@ -1955,7 +1955,7 @@
 			(uuid "61e08137-6e84-406c-8da2-a850d3394533")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "bc89f89f-0923-45fb-b098-01c8fb802996")
 			(effects
@@ -2002,7 +2002,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R24"
-			(at -2.12 0.02 360)
+			(at -2.12 0.02 0)
 			(layer "F.SilkS")
 			(uuid "04ef6ca8-9ea6-4b20-89d8-bec5f82ae14c")
 			(effects
@@ -2013,7 +2013,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "02522a8e-5acc-4fd0-a550-b539bcff7b97")
 			(effects
@@ -2194,7 +2194,7 @@
 			(uuid "b4cfcfcf-7e8f-4acd-a8c9-bbe8d634341a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "bcca4976-f29c-4b0f-99a6-4dfee4cad81d")
 			(effects
@@ -2765,7 +2765,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at -1.78 0.05 360)
+			(at -1.78 0.05 0)
 			(layer "F.SilkS")
 			(uuid "2b8890ca-8f9e-4e79-84f2-d33c2c0dce50")
 			(effects
@@ -2776,7 +2776,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "8b5a8df4-e2f1-423e-a966-dfbe86084d6e")
 			(effects
@@ -2957,7 +2957,7 @@
 			(uuid "0a6dde31-1619-4109-83df-011c900a88bf")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4ed20c25-d444-4a6b-add7-5774e6d252f9")
 			(effects
@@ -4274,7 +4274,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R14"
-			(at 2.04 -0.66 360)
+			(at 2.04 -0.66 0)
 			(layer "F.SilkS")
 			(uuid "733375f0-bd16-4b54-a275-e5738351882a")
 			(effects
@@ -4285,7 +4285,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "11110b13-a548-4088-9f47-1d662722ba07")
 			(effects
@@ -4466,7 +4466,7 @@
 			(uuid "a9be2439-629a-435b-aa2a-c780b19d6ea4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "91c245c9-e9ef-4986-a9a0-d9924de4ce57")
 			(effects
@@ -4513,7 +4513,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R20"
-			(at 0.08 1.06 360)
+			(at 0.08 1.06 0)
 			(layer "F.SilkS")
 			(uuid "a71f73cd-eaeb-4b51-a770-4be370e3fac4")
 			(effects
@@ -4524,7 +4524,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "531ee331-63c8-48e7-aa60-5c74ce0c0df1")
 			(effects
@@ -4705,7 +4705,7 @@
 			(uuid "900e3b28-8eca-4328-91b7-646b18b5b296")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "22266cb0-dd85-4c1d-b638-8bcf3963d66f")
 			(effects
@@ -6152,7 +6152,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R11"
-			(at -2.13 0.01 360)
+			(at -2.13 0.01 0)
 			(layer "F.SilkS")
 			(uuid "a1bed627-f3bd-4890-ad07-8b00aaab93c7")
 			(effects
@@ -6163,7 +6163,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "19d770c4-5828-43f8-99d9-c63d71e83066")
 			(effects
@@ -6344,7 +6344,7 @@
 			(uuid "48a86cac-a7b4-4d63-8006-6e16734f7c7c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "2341ac18-b845-4110-a20a-4accc9a11d53")
 			(effects
@@ -7751,6 +7751,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7762,6 +7763,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8276,7 +8278,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R35"
-			(at -0.15 -1.08 360)
+			(at -0.15 -1.08 0)
 			(layer "F.SilkS")
 			(uuid "582929f5-85de-4c93-96ec-f4943e994945")
 			(effects
@@ -8287,7 +8289,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "d0869aef-600a-4a23-a8d6-a5d779cc7a08")
 			(effects
@@ -8468,7 +8470,7 @@
 			(uuid "b66028f5-7e5c-4b17-9d26-0527db95dfd0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b4b41b01-dc78-485f-b173-d771a91c5771")
 			(effects
@@ -9487,7 +9489,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R28"
-			(at 2.1 0.04 360)
+			(at 2.1 0.04 0)
 			(layer "F.SilkS")
 			(uuid "43e3a82a-8c6a-4f14-8c39-4a1bf7c7c151")
 			(effects
@@ -9498,7 +9500,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "0eca4b41-bcd6-451c-8d64-a18e7dabcbc4")
 			(effects
@@ -9679,7 +9681,7 @@
 			(uuid "b96bad0e-f5e6-4b96-a5b7-4f2526498909")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "31dffcaf-c804-436a-84ce-fca6cc5f0114")
 			(effects
@@ -9966,7 +9968,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R8"
-			(at -1.66 -0.01 360)
+			(at -1.66 -0.01 0)
 			(layer "F.SilkS")
 			(uuid "2e8cfc07-7f5c-4be8-b04f-cf1a03286154")
 			(effects
@@ -9977,7 +9979,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "9fe6c786-17a4-4e7d-9eba-cdd101c7dab3")
 			(effects
@@ -10158,7 +10160,7 @@
 			(uuid "d2b598ff-ac88-4eb9-80ef-f7b57eb7a069")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "1bc1e741-acc9-4e24-882f-a10f8d6ad3f4")
 			(effects
@@ -10444,7 +10446,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R19"
-			(at 2.02 0.01 360)
+			(at 2.02 0.01 0)
 			(layer "F.SilkS")
 			(uuid "36f40be4-134a-4c33-a3dd-d9ea47d32ed3")
 			(effects
@@ -10455,7 +10457,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "ae64b6f4-4781-4be8-80e7-5434bbaf850b")
 			(effects
@@ -10636,7 +10638,7 @@
 			(uuid "9c4738f4-4a02-4a49-8f75-e7fcd0df75e5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "d29a6857-1255-4a7d-8e09-20527078a35d")
 			(effects
@@ -11160,7 +11162,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R29"
-			(at 2.06 -0.01 360)
+			(at 2.06 -0.01 0)
 			(layer "F.SilkS")
 			(uuid "281619b7-da10-460b-bb30-b3b2803e8bfc")
 			(effects
@@ -11171,7 +11173,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "70601331-84e6-4452-9f54-9dd18c75c2f2")
 			(effects
@@ -11352,7 +11354,7 @@
 			(uuid "3cdc5616-4461-4ec1-8618-b3e6c1886131")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e1054078-b903-4706-9525-dc14f8ddf08b")
 			(effects
@@ -11399,7 +11401,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R16"
-			(at 0.06 0.99 360)
+			(at 0.06 0.99 0)
 			(layer "F.SilkS")
 			(uuid "5b652f9b-13f1-4b72-a9d5-3f1fd1e14b8b")
 			(effects
@@ -11410,7 +11412,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "9e024d32-e305-416e-8621-e18f13a2311a")
 			(effects
@@ -11591,7 +11593,7 @@
 			(uuid "6485e9cb-a31b-4058-aa13-7f6afefeb6c5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "aa211953-2cf6-4305-a26c-ed5b8a241c96")
 			(effects
@@ -14102,7 +14104,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R22"
-			(at -2.03 -0.02 360)
+			(at -2.03 -0.02 0)
 			(layer "F.SilkS")
 			(uuid "a8e18342-df47-4e73-9b9a-8c3c7812ce25")
 			(effects
@@ -14113,7 +14115,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "68ed5d05-27b5-468b-85f1-a6e143776e70")
 			(effects
@@ -14294,7 +14296,7 @@
 			(uuid "a3c04d5a-f51c-40c6-9981-da7de5b4f38e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "79df63e0-9c38-41f0-b0c8-9098d517d0fb")
 			(effects
@@ -16246,7 +16248,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R17"
-			(at -2.02 -0.04 360)
+			(at -2.02 -0.04 0)
 			(layer "F.SilkS")
 			(uuid "a9a86670-a4b2-4253-9fb8-5bc7d2f2a0ab")
 			(effects
@@ -16257,7 +16259,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "279892de-f18c-4050-b259-04f5635670e7")
 			(effects
@@ -16438,7 +16440,7 @@
 			(uuid "0ca7883d-31ed-46c7-afbe-b28e37f1a716")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "3133a1bc-7a67-4fd1-a7b4-ca3b71277f02")
 			(effects
@@ -16485,7 +16487,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R30"
-			(at 2.08 -0.08 360)
+			(at 2.08 -0.08 0)
 			(layer "F.SilkS")
 			(uuid "3f980fca-1710-4f5e-ab86-2cea9ff2865a")
 			(effects
@@ -16496,7 +16498,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "20799bca-f18b-4e22-9930-2be565069950")
 			(effects
@@ -16677,7 +16679,7 @@
 			(uuid "ba556595-37f6-437a-a77a-f5e38dbfafe9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "44b123d0-0ac1-4d9b-a9dc-7694d9c4b961")
 			(effects
@@ -16964,7 +16966,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R9"
-			(at -1.67 -0.02 360)
+			(at -1.67 -0.02 0)
 			(layer "F.SilkS")
 			(uuid "5f5d1fbd-7c46-4387-b69b-13f97312f63c")
 			(effects
@@ -16975,7 +16977,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "6369cb28-1e97-41f3-84fd-05a1613e3b13")
 			(effects
@@ -17156,7 +17158,7 @@
 			(uuid "6399964d-fa25-4635-978c-6a80135b2281")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "99b43e5f-22fb-4000-98b5-9700c0582dce")
 			(effects
@@ -17203,7 +17205,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R18"
-			(at -2.04 -0.04 360)
+			(at -2.04 -0.04 0)
 			(layer "F.SilkS")
 			(uuid "b096adca-feb2-470c-97e0-b81c4471cde2")
 			(effects
@@ -17214,7 +17216,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "c037b503-7a7b-461a-bfe3-60002bdb453e")
 			(effects
@@ -17395,7 +17397,7 @@
 			(uuid "75f87641-adf1-432b-b4fe-af3db90704bf")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "e3f82e0b-e13e-4e01-bc96-665a5dd70548")
 			(effects

@@ -1455,7 +1455,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4c69322-3605-43f4-97b0-54c09242a8c9")
-		(property "Reference" "L2"
+		(property "Reference" "L1"
 			(at 96.266 51.562 90)
 			(effects
 				(font
