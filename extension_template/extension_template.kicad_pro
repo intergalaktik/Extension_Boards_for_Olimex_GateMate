@@ -491,7 +491,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "tmp/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "3D/pwrIO.step",
@@ -605,7 +605,11 @@
       "Root"
     ],
     [
-      "b131a5a1-d509-4da2-85ac-d063107d8915",
+      "f0eb6774-d49a-4b74-88fc-55da30cd877c",
+      "Main Sheet"
+    ],
+    [
+      "cc4b169f-4dc5-49c3-9327-bc1152f2123a",
       "Power"
     ]
   ],
