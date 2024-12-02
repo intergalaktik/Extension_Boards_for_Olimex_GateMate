@@ -211,19 +211,6 @@
 		)
 		(uuid be37f340-8335-4ef7-be07-02842c7249cf)
 	)
-	(rectangle
-		(start 16.764 137.922)
-		(end 125.222 196.088)
-		(stroke
-			(width 0.127)
-			(type dash)
-		)
-		(fill
-			(type color)
-			(color 34 1 255 0.52)
-		)
-		(uuid e3dbb7af-880f-491f-b227-58048a487fb8)
-	)
 	(image
 		(at 42.672 169.926)
 		(scale 0.13639)
