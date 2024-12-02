@@ -1,8 +1,9 @@
 (fp_lib_table
   (version 7)
-  (lib (name "intergalaktik")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/intergalaktik")(options "")(descr ""))
+  (lib (name "Cologne")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/Cologne")(options "")(descr ""))
   (lib (name "radiona")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/radiona.pretty")(options "")(descr ""))
   (lib (name "nlnet")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/nlnet.pretty")(options "")(descr ""))
-  (lib (name "Cologne")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/Cologne")(options "")(descr ""))
-  (lib (name "MCP7940")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_MCP7940NT-I_SN/MCP7940NT-I_SN/KiCad")(options "")(descr ""))
+  (lib (name "intergalaktik")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/intergalaktik")(options "")(descr ""))
+  (lib (name "MCP7940NT-I_SN")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_MCP7940NT-I_SN/MCP7940NT-I_SN/KiCad")(options "")(descr ""))
+  (lib (name "LFXTAL016178")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_LFXTAL016178REEL/LFXTAL016178REEL/KiCad")(options "")(descr ""))
 )

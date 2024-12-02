@@ -1,4 +1,7 @@
 (sym_lib_table
   (version 7)
+  (lib (name "USB-rescue")(type "KiCad")(uri "/home/goran/Projects/ulx3s-extensions/USB/USB-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "jack_trs_6pins_apple")(type "Legacy")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/audio-jack/jack_trs_6pins_apple.lib")(options "")(descr ""))
   (lib (name "MCP7940NT-I_SN")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_MCP7940NT-I_SN/MCP7940NT-I_SN/KiCad/MCP7940NT-I_SN.kicad_sym")(options "")(descr ""))
+  (lib (name "LFXTAL016178REEL")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_LFXTAL016178REEL/LFXTAL016178REEL/KiCad/LFXTAL016178REEL.kicad_sym")(options "")(descr ""))
 )

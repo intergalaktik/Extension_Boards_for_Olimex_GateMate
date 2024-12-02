@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LFXTAL016178REEL
+D Crystal 0.032768MHz +/-20ppm (Tol) 6pF FUND 50000Ohm 4-Pin Case 85SMX SMD T/R
+K
+F https://componentsearchengine.com/Datasheets/2/LFXTAL016178REEL.pdf
+$ENDCMP
+#
+#End Doc Library
