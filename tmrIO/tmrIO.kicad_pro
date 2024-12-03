@@ -603,7 +603,33 @@
     [
       "771d591f-f69b-4219-83f3-922c3a7e343e",
       "Root"
+    ],
+    [
+      "77d8e75c-2e8c-446a-be80-d29f6ebb5b5e",
+      "Main Sheet"
+    ],
+    [
+      "115dd140-2975-47d3-925d-61f273fd45b5",
+      "Power Sheet"
+    ],
+    [
+      "3bf92866-67a9-448a-b590-76ae22b9981c",
+      "relay"
+    ],
+    [
+      "b5e8df41-e674-42df-87a1-6e9c7410e50c",
+      "relay1"
+    ],
+    [
+      "2fc2f573-434e-47a7-8bd3-b42c252245e8",
+      "Dimensions sheet"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "project_creator": "Intergalaktik d.o.o.",
+    "project_license": "CERN-OHL-S v2",
+    "project_name": "Extension for Olimex EVB - tmrIO",
+    "project_version": "v0.1",
+    "project_year": "2024."
+  }
 }
