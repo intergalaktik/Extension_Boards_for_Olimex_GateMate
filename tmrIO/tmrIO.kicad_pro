@@ -182,7 +182,9 @@
         0.2,
         0.3,
         0.5,
-        1.0
+        1.0,
+        2.0,
+        3.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -495,7 +497,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "3D/pwrIO.step",
-      "svg": "",
+      "svg": "../../../../../tmp/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -617,7 +619,7 @@
       "relay"
     ],
     [
-      "b5e8df41-e674-42df-87a1-6e9c7410e50c",
+      "7b81d137-77cc-4800-9eee-faf9358c688b",
       "relay1"
     ],
     [

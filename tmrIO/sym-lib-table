@@ -4,4 +4,5 @@
   (lib (name "jack_trs_6pins_apple")(type "Legacy")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/audio-jack/jack_trs_6pins_apple.lib")(options "")(descr ""))
   (lib (name "MCP7940NT-I_SN")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_MCP7940NT-I_SN/MCP7940NT-I_SN/KiCad/MCP7940NT-I_SN.kicad_sym")(options "")(descr ""))
   (lib (name "LFXTAL016178REEL")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_LFXTAL016178REEL/LFXTAL016178REEL/KiCad/LFXTAL016178REEL.kicad_sym")(options "")(descr ""))
+  (lib (name "G5NB-1A-HA_DC5")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/G5NB-1A-HA/KiCad/G5NB-1A-HA_DC5.kicad_sym")(options "")(descr ""))
 )

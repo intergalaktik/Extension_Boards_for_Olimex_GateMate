@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BZB84-C2V4-QR
+D BZB84-Q series - Dual voltage regulator diodes@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/BZB84-Q_SER.pdf
+$ENDCMP
+#
+#End Doc Library
