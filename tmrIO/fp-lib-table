@@ -6,4 +6,5 @@
   (lib (name "intergalaktik")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/intergalaktik")(options "")(descr ""))
   (lib (name "MCP7940NT-I_SN")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_MCP7940NT-I_SN/MCP7940NT-I_SN/KiCad")(options "")(descr ""))
   (lib (name "LFXTAL016178")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_LFXTAL016178REEL/LFXTAL016178REEL/KiCad")(options "")(descr ""))
+  (lib (name "G5NB-1A-HA")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/G5NB-1A-HA/KiCad")(options "")(descr ""))
 )
