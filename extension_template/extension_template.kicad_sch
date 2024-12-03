@@ -16507,7 +16507,7 @@
 			"PddzPddzPddz/fnX/weV6nUnhiU4dgAAAABJRU5ErkJggg=="
 		)
 	)
-	(text_box "Project creator: ${project_creator}\nProject License: ${project_license}\nYear: ${project_year}"
+	(text_box "${project_creator}\nLicense: ${project_license}\nYear: ${project_year}"
 		(exclude_from_sim no)
 		(at 16.51 22.098 0)
 		(size 58.42 13.97)
@@ -16739,6 +16739,18 @@
 			(href "#2")
 		)
 		(uuid "dd060500-2275-48f1-a617-825bc85b2efa")
+	)
+	(text "${CURRENT_DATE}"
+		(exclude_from_sim no)
+		(at 257.556 17.526 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "dde68244-e974-443c-b850-17743e63d4b4")
 	)
 	(text "${project_name} ${project_version} "
 		(exclude_from_sim no)

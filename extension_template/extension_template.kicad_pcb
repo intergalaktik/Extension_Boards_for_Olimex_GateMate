@@ -111,6 +111,8 @@
 		)
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
+		(aux_axis_origin 85.25 81.835)
+		(grid_origin 85.25 81.835)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -199,6 +201,7 @@
 		(property "Value" "GND"
 			(at 0 1.55 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a0a86c90-bbe1-4fe0-9770-ab12cbbec370")
 			(effects
 				(font
@@ -274,7 +277,7 @@
 			(uuid "2fd18722-35fd-4f6a-87bc-e7df07e208d9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -1.45 0)
+			(at 0.14 -1.455 0)
 			(layer "F.Fab")
 			(uuid "3b762990-7d53-42d6-bf56-f501c6e31adb")
 			(effects
@@ -315,6 +318,7 @@
 		(property "Value" "Fiducial_F_BL"
 			(at 0 1.5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ba4d87e4-ffdb-4fe2-960e-5b3d5d9bbbbb")
 			(effects
 				(font
@@ -1407,6 +1411,7 @@
 		(property "Value" "Fiducial_F_TL"
 			(at 0 1.5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "6e42679c-870e-49f2-bbf5-dc9ca3717c9d")
 			(effects
 				(font
@@ -1521,6 +1526,7 @@
 		(property "Value" "Fiducial_F_TR"
 			(at 0 1.5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2e65afb9-36aa-4084-92af-0c0268966607")
 			(effects
 				(font
@@ -1636,6 +1642,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a350df0b-803e-4d24-be45-0f19f7d311e2")
 			(effects
 				(font
@@ -1750,6 +1757,7 @@
 		(property "Value" "MountingHole"
 			(at 0 3.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0f0b3181-ed03-49b8-9458-fff616781112")
 			(effects
 				(font
@@ -2718,6 +2726,7 @@
 		(property "Value" "2V5"
 			(at 0 1.55 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f6cd3c29-fbc2-444f-a07a-d0c62ce0a3bc")
 			(effects
 				(font
@@ -2793,7 +2802,7 @@
 			(uuid "beaf5f9c-2225-4ff5-b4aa-4ad358ad4b85")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -1.45 0)
+			(at 0.16 -1.465 0)
 			(layer "F.Fab")
 			(uuid "0fe7377a-6967-4509-85a5-23e7ee48a7a3")
 			(effects
@@ -2833,6 +2842,7 @@
 		(property "Value" "3V3"
 			(at 0 1.55 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "1daf99de-eef6-4547-b4db-631275a09432")
 			(effects
 				(font
@@ -2908,7 +2918,7 @@
 			(uuid "f75ab3a6-6aef-484d-9956-ff13d14f14a5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -1.45 0)
+			(at 0.17 -1.47 0)
 			(layer "F.Fab")
 			(uuid "3a95f8af-7b2a-4caa-a8bd-b0f2f9f71cda")
 			(effects
@@ -4346,6 +4356,7 @@
 		(property "Value" "Fiducial_B_TL"
 			(at 0 -1.5 0)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "e9c08132-d414-4c66-85b3-ab9fd7627af3")
 			(effects
 				(font
@@ -4466,6 +4477,7 @@
 		(property "Value" "4.7uH"
 			(at -0.8775 -1.67 0)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "04717f00-1d23-48a6-bfa3-fc9c2e291d41")
 			(effects
 				(font
@@ -4685,6 +4697,7 @@
 		(property "Value" "TLV61225DC"
 			(at 0 -2 0)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "8a75c98f-4145-41f6-b970-b561ded3c2a1")
 			(effects
 				(font
@@ -4968,6 +4981,7 @@
 		(property "Value" "MISC"
 			(at 1.12 -1.78 90)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "9b417ce2-670a-400b-9db5-4c634c398359")
 			(effects
 				(font
@@ -6190,6 +6204,7 @@
 		(property "Value" "Fiducial_B_BL"
 			(at 0 -1.5 0)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "68be086d-5c71-4807-abaa-d593dc2b5507")
 			(effects
 				(font
@@ -6310,6 +6325,7 @@
 		(property "Value" "0805L050WR"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "85ac7d39-89b3-498f-928a-9bf33990aaa2")
 			(effects
 				(font
@@ -6529,6 +6545,7 @@
 		(property "Value" "Fiducial_B_TR"
 			(at 0 -1.5 0)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "1d4665b6-6124-41b4-a009-4cd3497ca2b3")
 			(effects
 				(font
@@ -6649,6 +6666,7 @@
 		(property "Value" "10uF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "a8bd7056-b7b9-4cb9-809e-e452e6cc67b9")
 			(effects
 				(font
@@ -6868,6 +6886,7 @@
 		(property "Value" "10K"
 			(at 0 -1.17 90)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "bb1882c4-db18-4ab4-ae60-566bda128680")
 			(effects
 				(font
@@ -7115,6 +7134,7 @@
 		(property "Value" "10uF"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "0d3ded96-04c2-4bf1-9172-bb461c756a27")
 			(effects
 				(font
@@ -7738,6 +7758,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "All units are in milimiters unles otherwiese specified"
+		(at 64.76 92.16 0)
+		(layer "Dwgs.User")
+		(uuid "a33515c2-68cb-4aee-8d94-ff5466474f18")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.3)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "PCB3D_BR_template"
 		(at 115.25 81.835 180)
 		(layer "Cmts.User")
@@ -7770,7 +7802,7 @@
 			(xy 85.25 51.835) (xy 115.25 51.835)
 		)
 		(height -5.04)
-		(gr_text "30.00 mm"
+		(gr_text "30.00"
 			(at 100.25 45.895 0)
 			(layer "Dwgs.User")
 			(uuid "6a1cdb4c-35fb-45ca-8edc-f9fa79686bb3")
@@ -7785,7 +7817,7 @@
 			(prefix "")
 			(suffix "")
 			(units 3)
-			(units_format 1)
+			(units_format 0)
 			(precision 2)
 		)
 		(style
@@ -7803,7 +7835,7 @@
 			(xy 85.25 51.835) (xy 85.25 81.835)
 		)
 		(height 3.18)
-		(gr_text "30.00 mm"
+		(gr_text "30.00"
 			(at 81.17 66.835 90)
 			(layer "Dwgs.User")
 			(uuid "7f5bbbb2-3698-4bee-94b2-9ad153518155")
@@ -7818,7 +7850,7 @@
 			(prefix "")
 			(suffix "")
 			(units 3)
-			(units_format 1)
+			(units_format 0)
 			(precision 2)
 		)
 		(style
@@ -7836,7 +7868,7 @@
 			(xy 112.25 54.835) (xy 115.25 54.835)
 		)
 		(height -4.68)
-		(gr_text "3.00 mm"
+		(gr_text "3.00"
 			(at 108.25 49.965 0)
 			(layer "Dwgs.User")
 			(uuid "ad86da2e-2b10-4e79-919f-edc78850aec1")
@@ -7851,7 +7883,7 @@
 			(prefix "")
 			(suffix "")
 			(units 3)
-			(units_format 1)
+			(units_format 0)
 			(precision 2)
 		)
 		(style
@@ -7869,7 +7901,7 @@
 			(xy 112.8 54.835) (xy 112.8 51.835)
 		)
 		(height 4.58)
-		(gr_text "3.00 mm"
+		(gr_text "3.00"
 			(at 117.46 57.845 270)
 			(layer "Dwgs.User")
 			(uuid "e004711e-59fb-4bf2-a897-dfaf01dacf54")
@@ -7884,7 +7916,7 @@
 			(prefix "")
 			(suffix "")
 			(units 3)
-			(units_format 1)
+			(units_format 0)
 			(precision 2)
 		)
 		(style
