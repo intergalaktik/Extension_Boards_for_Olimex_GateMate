@@ -106,7 +106,7 @@
 			(layer "B.SilkS"
 				(type "Bottom Silk Screen")
 			)
-			(copper_finish "None")
+			(copper_finish "HAL SnPb")
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0)
@@ -7759,7 +7759,7 @@
 		)
 	)
 	(gr_text "All units are in milimiters unles otherwiese specified"
-		(at 64.76 92.16 0)
+		(at 57.44 86.495 0)
 		(layer "Dwgs.User")
 		(uuid "a33515c2-68cb-4aee-8d94-ff5466474f18")
 		(effects
