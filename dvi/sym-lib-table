@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB-rescue")(type "KiCad")(uri "/home/goran/Projects/ulx3s-extensions/USB/USB-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "jack_trs_6pins_apple")(type "Legacy")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/audio-jack/jack_trs_6pins_apple.lib")(options "")(descr ""))
+  (lib (name "BZB84-C2V4-QR")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_BZB84-C2V4-QR/KiCad/BZB84-C2V4-QR.kicad_sym")(options "")(descr ""))
+  (lib (name "GPDI_ULX3S-rescue")(type "KiCad")(uri "/home/goran/Projects/ulx3s-extensions/GPDI_ULX3S/GPDI_ULX3S-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "GPDI")(type "Legacy")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/hdmi-d/hdmi-d.lib")(options "")(descr ""))
+)

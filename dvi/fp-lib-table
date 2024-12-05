@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Cologne")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/Cologne")(options "")(descr ""))
+  (lib (name "radiona")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/radiona.pretty")(options "")(descr ""))
+  (lib (name "nlnet")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/nlnet.pretty")(options "")(descr ""))
+  (lib (name "intergalaktik")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/intergalaktik")(options "")(descr ""))
+  (lib (name "BZB84-C2V4-QR")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_BZB84-C2V4-QR/KiCad")(options "")(descr ""))
+  (lib (name "conn-fci")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/hdmi-d/conn-fci.pretty")(options "")(descr ""))
+  (lib (name "level-translator")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/level-translator")(options "")(descr ""))
+)
