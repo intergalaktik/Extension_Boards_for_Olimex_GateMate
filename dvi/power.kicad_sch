@@ -1061,6 +1061,18 @@
 		)
 		(uuid "9584220c-a76f-4eb3-978d-6c82b3e722f3")
 	)
+	(hierarchical_label "EN_5V"
+		(shape input)
+		(at 87.63 67.31 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "25ccfcc6-5df8-45b5-8c0b-d403ef3c36bc")
+	)
 	(hierarchical_label "2V5"
 		(shape input)
 		(at 78.74 54.61 90)
