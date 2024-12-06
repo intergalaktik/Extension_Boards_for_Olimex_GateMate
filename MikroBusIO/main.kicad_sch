@@ -3367,7 +3367,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 176.53) (xy 135.89 176.53)
+			(xy 125.73 176.53) (xy 128.27 176.53)
 		)
 		(stroke
 			(width 0)
@@ -4147,7 +4147,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 171.45) (xy 135.89 171.45)
+			(xy 125.73 171.45) (xy 128.27 171.45)
 		)
 		(stroke
 			(width 0)
@@ -4616,8 +4616,8 @@
 		(uuid "fef706c2-8bef-4b2e-b485-399e912e5ec8")
 	)
 	(rectangle
-		(start 97.028 166.37)
-		(end 117.602 197.612)
+		(start 89.408 166.37)
+		(end 109.982 197.612)
 		(stroke
 			(width 0.127)
 			(type dash)
@@ -4681,8 +4681,8 @@
 		(uuid 6a4a57c7-3c38-4b7a-91c5-209d3c52ca9b)
 	)
 	(rectangle
-		(start 118.872 185.674)
-		(end 150.368 197.612)
+		(start 111.76 185.674)
+		(end 149.606 197.612)
 		(stroke
 			(width 0.127)
 			(type dash)
@@ -4707,8 +4707,8 @@
 		(uuid 8d9532bc-2119-4785-bc7d-e6d0270571ac)
 	)
 	(rectangle
-		(start 118.872 166.37)
-		(end 150.368 184.912)
+		(start 111.252 166.37)
+		(end 149.606 184.912)
 		(stroke
 			(width 0.127)
 			(type dash)
@@ -4830,7 +4830,7 @@
 	)
 	(text "TEST points"
 		(exclude_from_sim no)
-		(at 135.382 165.354 0)
+		(at 127.762 165.354 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4893,7 +4893,7 @@
 	)
 	(text "Fiducials"
 		(exclude_from_sim no)
-		(at 101.092 165.354 0)
+		(at 93.472 165.354 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6198,7 +6198,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
-		(at 100.33 189.23 0)
+		(at 92.71 189.23 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6207,7 +6207,7 @@
 		(fields_autoplaced yes)
 		(uuid "0460f760-7bc0-48a7-9286-e965504dd2d6")
 		(property "Reference" "FID5"
-			(at 102.87 187.9599 0)
+			(at 95.25 187.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6216,7 +6216,7 @@
 			)
 		)
 		(property "Value" "Fiducial_B_TR"
-			(at 102.87 190.4999 0)
+			(at 95.25 190.4999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6225,7 +6225,7 @@
 			)
 		)
 		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
-			(at 100.33 189.23 0)
+			(at 92.71 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6234,7 +6234,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 189.23 0)
+			(at 92.71 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6243,7 +6243,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 100.33 189.23 0)
+			(at 92.71 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6262,7 +6262,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Probe")
-		(at 135.89 171.45 0)
+		(at 128.27 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6271,7 +6271,7 @@
 		(fields_autoplaced yes)
 		(uuid "0894b885-378b-4069-b941-b583278b76f0")
 		(property "Reference" "TP1"
-			(at 139.7 168.5924 0)
+			(at 132.08 168.5924 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6280,7 +6280,7 @@
 			)
 		)
 		(property "Value" "VCC_HIGH"
-			(at 139.7 171.1324 0)
+			(at 132.08 171.1324 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6289,7 +6289,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 140.97 171.45 0)
+			(at 133.35 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6298,7 +6298,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 171.45 0)
+			(at 133.35 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6307,7 +6307,7 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
-			(at 135.89 171.45 0)
+			(at 128.27 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6422,7 +6422,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Probe")
-		(at 135.89 176.53 0)
+		(at 128.27 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6431,7 +6431,7 @@
 		(fields_autoplaced yes)
 		(uuid "0a0a8082-1fab-42b4-8f77-650e2c06da87")
 		(property "Reference" "TP2"
-			(at 139.7 173.6724 0)
+			(at 132.08 173.6724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6440,7 +6440,7 @@
 			)
 		)
 		(property "Value" "VCC_LOW"
-			(at 139.7 176.2124 0)
+			(at 132.08 176.2124 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6449,7 +6449,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 140.97 176.53 0)
+			(at 133.35 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6458,7 +6458,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 176.53 0)
+			(at 133.35 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6467,7 +6467,7 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
-			(at 135.89 176.53 0)
+			(at 128.27 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8414,7 +8414,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 135.89 181.61 270)
+		(at 128.27 181.61 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8423,7 +8423,7 @@
 		(fields_autoplaced yes)
 		(uuid "371c61c6-d20f-4583-8824-fa241eb1d081")
 		(property "Reference" "#PWR05"
-			(at 129.54 181.61 0)
+			(at 121.92 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8432,7 +8432,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.08 181.6099 90)
+			(at 124.46 181.6099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8441,7 +8441,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 181.61 0)
+			(at 128.27 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8450,7 +8450,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 181.61 0)
+			(at 128.27 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8459,7 +8459,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 181.61 0)
+			(at 128.27 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8872,7 +8872,7 @@
 	)
 	(symbol
 		(lib_id "power:+2V5")
-		(at 133.35 171.45 90)
+		(at 125.73 171.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8880,7 +8880,7 @@
 		(dnp no)
 		(uuid "42173738-f6f4-4f6e-b274-cdcdce630f69")
 		(property "Reference" "#PWR02"
-			(at 137.16 171.45 0)
+			(at 129.54 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8889,7 +8889,7 @@
 			)
 		)
 		(property "Value" "+VCC_HIGH"
-			(at 129.54 171.4501 90)
+			(at 121.92 171.4501 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8898,7 +8898,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 133.35 171.45 0)
+			(at 125.73 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8907,7 +8907,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 171.45 0)
+			(at 125.73 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8916,7 +8916,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 133.35 171.45 0)
+			(at 125.73 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9117,6 +9117,70 @@
 			(project ""
 				(path "/771d591f-f69b-4219-83f3-922c3a7e343e/f0eb6774-d49a-4b74-88fc-55da30cd877c"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 133.35 194.31 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d0abe71-8c60-4cd5-b7e7-2938acb0e396")
+		(property "Reference" "H9"
+			(at 135.89 193.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 135.89 195.5799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 133.35 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 133.35 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 133.35 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "MikroBusIO"
+				(path "/771d591f-f69b-4219-83f3-922c3a7e343e/f0eb6774-d49a-4b74-88fc-55da30cd877c"
+					(reference "H9")
 					(unit 1)
 				)
 			)
@@ -10460,7 +10524,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
-		(at 100.33 168.91 0)
+		(at 92.71 168.91 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10469,7 +10533,7 @@
 		(fields_autoplaced yes)
 		(uuid "6df06f87-c4b0-4521-a7ed-2c14154b9f59")
 		(property "Reference" "FID1"
-			(at 102.87 167.6399 0)
+			(at 95.25 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10478,7 +10542,7 @@
 			)
 		)
 		(property "Value" "Fiducial_F_TL"
-			(at 102.87 170.1799 0)
+			(at 95.25 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10487,7 +10551,7 @@
 			)
 		)
 		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
-			(at 100.33 168.91 0)
+			(at 92.71 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10496,7 +10560,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 168.91 0)
+			(at 92.71 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10505,7 +10569,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 100.33 168.91 0)
+			(at 92.71 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10597,7 +10661,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 121.92 194.31 0)
+		(at 115.57 194.31 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10606,7 +10670,7 @@
 		(fields_autoplaced yes)
 		(uuid "7846dcb7-75b4-452f-b1e1-eb4f41ea41d4")
 		(property "Reference" "H6"
-			(at 124.46 193.0399 0)
+			(at 118.11 193.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10615,7 +10679,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 124.46 195.5799 0)
+			(at 118.11 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10624,7 +10688,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 121.92 194.31 0)
+			(at 115.57 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10633,7 +10697,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 194.31 0)
+			(at 115.57 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10642,7 +10706,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 121.92 194.31 0)
+			(at 115.57 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10817,7 +10881,7 @@
 	)
 	(symbol
 		(lib_id "power:+2V5")
-		(at 133.35 176.53 90)
+		(at 125.73 176.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10825,7 +10889,7 @@
 		(dnp no)
 		(uuid "7e6820ec-8fc1-4035-a365-1e1de0c36905")
 		(property "Reference" "#PWR01"
-			(at 137.16 176.53 0)
+			(at 129.54 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10834,7 +10898,7 @@
 			)
 		)
 		(property "Value" "+VCC_LOW"
-			(at 134.62 178.308 90)
+			(at 127 178.308 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10843,7 +10907,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 133.35 176.53 0)
+			(at 125.73 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10852,7 +10916,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 176.53 0)
+			(at 125.73 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10861,7 +10925,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 133.35 176.53 0)
+			(at 125.73 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10948,7 +11012,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Probe")
-		(at 135.89 181.61 0)
+		(at 128.27 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10957,7 +11021,7 @@
 		(fields_autoplaced yes)
 		(uuid "84cab806-b735-473f-85f1-89558d8e8f79")
 		(property "Reference" "TP3"
-			(at 139.7 178.7524 0)
+			(at 132.08 178.7524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10966,7 +11030,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 139.7 181.2924 0)
+			(at 132.08 181.2924 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10975,7 +11039,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 140.97 181.61 0)
+			(at 133.35 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10984,7 +11048,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 181.61 0)
+			(at 133.35 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10993,7 +11057,7 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
-			(at 135.89 181.61 0)
+			(at 128.27 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11368,7 +11432,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
-		(at 100.33 179.07 0)
+		(at 92.71 179.07 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -11377,7 +11441,7 @@
 		(fields_autoplaced yes)
 		(uuid "92f1f165-438b-4ab4-a5f6-dfa4263491ad")
 		(property "Reference" "FID3"
-			(at 102.87 177.7999 0)
+			(at 95.25 177.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11386,7 +11450,7 @@
 			)
 		)
 		(property "Value" "Fiducial_F_BL"
-			(at 102.87 180.3399 0)
+			(at 95.25 180.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11395,7 +11459,7 @@
 			)
 		)
 		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
-			(at 100.33 179.07 0)
+			(at 92.71 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11404,7 +11468,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 179.07 0)
+			(at 92.71 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11413,7 +11477,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 100.33 179.07 0)
+			(at 92.71 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11901,7 +11965,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 121.92 187.96 0)
+		(at 115.57 187.96 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -11910,7 +11974,7 @@
 		(fields_autoplaced yes)
 		(uuid "a41a94e5-a733-4ce3-bb5f-8ba1b93a8eab")
 		(property "Reference" "H5"
-			(at 124.46 186.6899 0)
+			(at 118.11 186.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11919,7 +11983,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 124.46 189.2299 0)
+			(at 118.11 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11928,7 +11992,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 121.92 187.96 0)
+			(at 115.57 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11937,7 +12001,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 121.92 187.96 0)
+			(at 115.57 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11946,7 +12010,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 121.92 187.96 0)
+			(at 115.57 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12277,17 +12341,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:Fiducial")
-		(at 100.33 173.99 0)
+		(lib_id "Mechanical:MountingHole")
+		(at 133.35 187.96 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b56c9cc3-b70c-4c27-9e6a-041bd566f006")
-		(property "Reference" "FID2"
-			(at 102.87 172.7199 0)
+		(uuid "b27ed19d-f162-4926-aba1-9679582f2e2a")
+		(property "Reference" "H8"
+			(at 135.89 186.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12295,8 +12359,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Fiducial_F_TR"
-			(at 102.87 175.2599 0)
+		(property "Value" "MountingHole"
+			(at 135.89 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12304,8 +12368,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
-			(at 100.33 173.99 0)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 133.35 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12314,7 +12378,71 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 173.99 0)
+			(at 133.35 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 133.35 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "MikroBusIO"
+				(path "/771d591f-f69b-4219-83f3-922c3a7e343e/f0eb6774-d49a-4b74-88fc-55da30cd877c"
+					(reference "H8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Fiducial")
+		(at 92.71 173.99 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b56c9cc3-b70c-4c27-9e6a-041bd566f006")
+		(property "Reference" "FID2"
+			(at 95.25 172.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial_F_TR"
+			(at 95.25 175.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
+			(at 92.71 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 92.71 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12323,7 +12451,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 100.33 173.99 0)
+			(at 92.71 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12342,7 +12470,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
-		(at 100.33 194.31 0)
+		(at 92.71 194.31 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -12351,7 +12479,7 @@
 		(fields_autoplaced yes)
 		(uuid "b5ba947e-bc78-45ed-91f5-a26c959958ff")
 		(property "Reference" "FID6"
-			(at 102.87 193.0399 0)
+			(at 95.25 193.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12360,7 +12488,7 @@
 			)
 		)
 		(property "Value" "Fiducial_B_BL"
-			(at 102.87 195.5799 0)
+			(at 95.25 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12369,7 +12497,7 @@
 			)
 		)
 		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
-			(at 100.33 194.31 0)
+			(at 92.71 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12378,7 +12506,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 194.31 0)
+			(at 92.71 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12387,7 +12515,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 100.33 194.31 0)
+			(at 92.71 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12479,7 +12607,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
-		(at 100.33 184.15 0)
+		(at 92.71 184.15 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -12488,7 +12616,7 @@
 		(fields_autoplaced yes)
 		(uuid "bed3cf7b-467f-4953-9745-c62c1d0a8e19")
 		(property "Reference" "FID4"
-			(at 102.87 182.8799 0)
+			(at 95.25 182.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12497,7 +12625,7 @@
 			)
 		)
 		(property "Value" "Fiducial_B_TL"
-			(at 102.87 185.4199 0)
+			(at 95.25 185.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12506,7 +12634,7 @@
 			)
 		)
 		(property "Footprint" "Fiducial:Fiducial_0.5mm_Mask1mm"
-			(at 100.33 184.15 0)
+			(at 92.71 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12515,7 +12643,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 184.15 0)
+			(at 92.71 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12524,7 +12652,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 100.33 184.15 0)
+			(at 92.71 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13487,6 +13615,69 @@
 			(project "MikroBusIO"
 				(path "/771d591f-f69b-4219-83f3-922c3a7e343e/f0eb6774-d49a-4b74-88fc-55da30cd877c"
 					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 154.94 194.31 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "e28a9371-d0c2-45b7-b9e0-f7556adfbd5a")
+		(property "Reference" "H7"
+			(at 157.48 193.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Logo MikroBus"
+			(at 157.48 195.5799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MikroBus:mikrobus_logo"
+			(at 154.94 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.94 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 154.94 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "MikroBusIO"
+				(path "/771d591f-f69b-4219-83f3-922c3a7e343e/f0eb6774-d49a-4b74-88fc-55da30cd877c"
+					(reference "H7")
 					(unit 1)
 				)
 			)
