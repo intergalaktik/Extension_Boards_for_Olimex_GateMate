@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB-rescue")(type "KiCad")(uri "/home/goran/Projects/ulx3s-extensions/USB/USB-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "jack_trs_6pins_apple")(type "Legacy")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/audio-jack/jack_trs_6pins_apple.lib")(options "")(descr ""))
+  (lib (name "BZB84-C2V4-QR")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_BZB84-C2V4-QR/KiCad/BZB84-C2V4-QR.kicad_sym")(options "")(descr ""))
+  (lib (name "LSF0108PWR")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LSF0108PWR/KiCad/LSF0108PWR.kicad_sym")(options "")(descr ""))
+  (lib (name "MikroBus")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/MikroBus/conn_01x08.kicad_sym")(options "")(descr ""))
+)
