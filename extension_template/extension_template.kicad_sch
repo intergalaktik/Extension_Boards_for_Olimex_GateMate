@@ -149,6 +149,19 @@
 		)
 	)
 	(rectangle
+		(start 227.838 36.83)
+		(end 282.956 68.58)
+		(stroke
+			(width 0.127)
+			(type dash)
+		)
+		(fill
+			(type color)
+			(color 158 196 255 1)
+		)
+		(uuid 8184b125-4c26-4e11-b185-0f8b9198696e)
+	)
+	(rectangle
 		(start 18.034 58.928)
 		(end 120.396 90.424)
 		(stroke
@@ -182,7 +195,7 @@
 		)
 		(fill
 			(type color)
-			(color 255 255 0 1)
+			(color 255 0 0 0.5)
 		)
 		(uuid b9bfa9be-36f4-48d4-be4b-ac006f918607)
 	)
@@ -194,7 +207,8 @@
 			(type default)
 		)
 		(fill
-			(type none)
+			(type color)
+			(color 0 255 0 0.1)
 		)
 		(uuid b9dc70c8-3c48-4533-b5a3-e3aebb615577)
 	)
@@ -207,7 +221,7 @@
 		)
 		(fill
 			(type color)
-			(color 255 255 0 1)
+			(color 0 255 0 0.5)
 		)
 		(uuid be37f340-8335-4ef7-be07-02842c7249cf)
 	)
@@ -16572,13 +16586,13 @@
 		)
 		(uuid "2adc0665-1235-4d38-9dea-b460028125da")
 	)
-	(text "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n2.5V input is connected over 500mA resetable fuse!\nMaximum current for 2.5V is set to 500mA.\nIt may be possible to drain more current but \nyou will need add different FUSE and use it at your own risk!\n3.3V step up is limited to 300mA \nIdea behind limits is that you can use all 3 extensions slots \nat once without any risk od draining to much!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+	(text "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nVCC input is connected over 500mA resetable fuse!\nMaximum current for VCC is set to 500mA.\nIt may be possible to drain more current but \nyou will need add different FUSE and use it at your own risk!\n3.3V step up is limited to 400mA \nIdea behind limits is that you can use all 3 extensions slots \nat once without any risk od draining to much!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 		(exclude_from_sim no)
 		(at 68.58 75.184 0)
 		(effects
 			(font
 				(size 2.032 2.032)
-				(color 132 0 0 1)
+				(color 0 0 0 1)
 			)
 		)
 		(uuid "36b7bfd6-86b1-4b49-8444-a0af45309e93")
@@ -16600,7 +16614,7 @@
 		(effects
 			(font
 				(size 2.032 2.032)
-				(color 132 0 0 1)
+				(color 0 0 0 1)
 			)
 		)
 		(uuid "55a690c9-ee96-4ed0-8e3e-273feb22db22")
@@ -16611,7 +16625,7 @@
 		(effects
 			(font
 				(size 2.032 2.032)
-				(color 132 0 0 1)
+				(color 0 0 0 1)
 			)
 		)
 		(uuid "5d6061c5-d3bc-47f9-ba78-fdd1e81c6d5c")
@@ -16672,6 +16686,17 @@
 			)
 		)
 		(uuid "934c8414-ee28-4c94-9308-26d15ee71bfc")
+	)
+	(text "A1 Dedicated clock input pins are:\n    IO_SB_A8: CLK0\n    IO_SB_A7: CLK1\n    IO_SB_A6: CLK2\n    IO_SB_A5: CLK3\nYou can use them all as differential inputs.\n\nWe are not able to use any on extension boards.\n\nIt is also possible to use any GPIO as a clock input. \nThe only thing to note here is that the signal must be \nrouted via the routing structure to the entry point \nof the global clock mesh. These paths are longer than \nvia the dedicated clock pins, which is why it is \nessential to pay attention to clock skew."
+		(exclude_from_sim no)
+		(at 256.032 52.832 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "9ff17643-9537-40a0-b1f5-c82e9f414c5c")
 	)
 	(text "CoverPage"
 		(exclude_from_sim no)

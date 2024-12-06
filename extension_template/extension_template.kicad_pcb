@@ -7344,6 +7344,16 @@
 		(layer "B.SilkS")
 		(uuid "1f574501-7a58-40a9-a87b-e08626d8fb30")
 	)
+	(gr_line
+		(start 87.44 50.545)
+		(end 80.45 45.175)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "cb8f968b-0a8f-4b10-a7d2-6d6a3ba4e54c")
+	)
 	(gr_arc
 		(start 86.25 81.835)
 		(mid 85.542893 81.542107)
@@ -7766,6 +7776,18 @@
 			(font
 				(size 2 2)
 				(thickness 0.3)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "This is needed for PCB2BLENDER plugin!"
+		(at 55.81 44.315 0)
+		(layer "Cmts.User" knockout)
+		(uuid "109906ed-e3bc-4da6-9fb4-07a3e3e1694e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
