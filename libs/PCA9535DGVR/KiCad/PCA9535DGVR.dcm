@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9535DGVR
+D Remote 16-Bit I2C and SMBus, Low-Power I/O Expander With Interrupt Output and Config Registers
+K
+F http://www.ti.com/lit/gpn/pca9535
+$ENDCMP
+#
+#End Doc Library
