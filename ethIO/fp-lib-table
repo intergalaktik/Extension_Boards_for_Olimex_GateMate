@@ -5,4 +5,7 @@
   (lib (name "nlnet")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/nlnet.pretty")(options "")(descr ""))
   (lib (name "intergalaktik")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/intergalaktik")(options "")(descr ""))
   (lib (name "BZB84-C2V4-QR")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_BZB84-C2V4-QR/KiCad")(options "")(descr ""))
+  (lib (name "TSX-3225")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/TSX-3225_25.0000MF10P-C0")(options "")(descr ""))
+  (lib (name "RTL8211E-VB-CG")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/RTL8211E-VB-CG")(options "")(descr ""))
+  (lib (name "HR911130A1")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/HR911130A1")(options "")(descr ""))
 )
