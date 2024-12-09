@@ -44,7 +44,7 @@ https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/
 
 https://github.com/chili-chips-ba/openCologne/issues/42
 
-![simpleIO](/pic/simpleIO.png)
+![simpleIO](/pic/SimpleIO.png)
 
 https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/GamePad_I2S_audio_Buttons/KiCad/GamePad_I2S_audio.pdf
 
