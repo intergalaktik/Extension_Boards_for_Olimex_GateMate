@@ -1,6 +1,4 @@
-# Olimex Simple Extension Boards
-
-## Simple extension boards for Olimex GateMate A1 EVB FPGA Board
+# Simple extension boards for Olimex GateMate A1 EVB FPGA Board
 
 ### adcIO
 
