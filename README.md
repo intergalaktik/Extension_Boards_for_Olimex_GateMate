@@ -8,6 +8,10 @@ https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/
 
 https://github.com/chili-chips-ba/openCologne/issues/5
 
+![camIO](/pic/camIO.png)
+
+https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/camIO/camIO.pdf
+
 ![dualIO](/pic/dualIO.png)
 
 https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/dualTranslation/dualTranslation.pdf
