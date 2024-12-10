@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCV8730ASN330T1G
+D LDO Regulator Pos 3.3V 0.15A Automotive 5-Pin TSOP T/R
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/2df29e4e0191e431728827d4926d2a47.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -4,4 +4,6 @@
   (lib (name "nlnet")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/nlnet.pretty")(options "")(descr ""))
   (lib (name "radiona")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/radiona.pretty")(options "")(descr ""))
   (lib (name "Cologne")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/Cologne")(options "")(descr ""))
+  (lib (name "TXS0202YZPR")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_TXS0202YZPR/KiCad")(options "")(descr ""))
+  (lib (name "NCV8730ASN330T1G")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_NCV8730ASN330T1G/KiCad")(options "")(descr ""))
 )

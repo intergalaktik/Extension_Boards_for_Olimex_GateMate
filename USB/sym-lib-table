@@ -3,4 +3,6 @@
   (lib (name "USB-rescue")(type "KiCad")(uri "/home/goran/Projects/ulx3s-extensions/USB/USB-rescue.kicad_sym")(options "")(descr ""))
   (lib (name "jack_trs_6pins_apple")(type "Legacy")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/audio-jack/jack_trs_6pins_apple.lib")(options "")(descr ""))
   (lib (name "max40089aua")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/max40089/max40089aua.kicad_sym")(options "")(descr ""))
+  (lib (name "TXS0202YZPR")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_TXS0202YZPR/KiCad/TXS0202YZPR.kicad_sym")(options "")(descr ""))
+  (lib (name "NCV8730ASN330T1G")(type "KiCad")(uri "/home/goran/Projects/Olimex_Simple_Extension_Boards/libs/LIB_NCV8730ASN330T1G/KiCad/NCV8730ASN330T1G.kicad_sym")(options "")(descr ""))
 )

@@ -58,7 +58,18 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_edge_clearance|100470000|84030000|97b0ae23-3b4d-4152-a197-c49155762b73|69effa5f-7119-484c-93cc-1e055466b88b",
+        "silk_edge_clearance|100470000|84030000|97b0ae23-3b4d-4152-a197-c49155762b73|9c69f6ed-b763-4857-8c7b-5b730b63ff01",
+        "silk_edge_clearance|104790000|84087181|97b0ae23-3b4d-4152-a197-c49155762b73|69ac3b58-3499-472c-a237-0492284eff4c",
+        "silk_edge_clearance|104790000|84130000|97b0ae23-3b4d-4152-a197-c49155762b73|5b8e7e53-de41-4427-966e-31db64a3468f",
+        "silk_edge_clearance|105790000|84130000|97b0ae23-3b4d-4152-a197-c49155762b73|c2670366-f822-41e0-8be0-7b5019aaba1c",
+        "silk_edge_clearance|118292543|84090405|0b9e4164-2905-49c9-b9f7-a7ef9833d326|9843c13b-ef15-46b2-8c71-2a9d91baebe6",
+        "silk_edge_clearance|118618365|84130000|0b9e4164-2905-49c9-b9f7-a7ef9833d326|08cfffa5-13de-4bb7-9c1f-2ea340579eec",
+        "silk_edge_clearance|86970000|84089978|a807ff7c-b1c1-437b-b34e-f6e65db784b3|ead918ea-f790-4f78-bb80-99a1b396a76c",
+        "silk_edge_clearance|86970000|84090000|97b0ae23-3b4d-4152-a197-c49155762b73|9564bf10-6cd6-4969-9a8f-ecb9300545bf",
+        "silk_edge_clearance|99470000|84088023|97b0ae23-3b4d-4152-a197-c49155762b73|b51ab51f-e3f0-42f1-a931-4ef11a80d86e"
+      ],
       "meta": {
         "version": 2
       },
@@ -127,7 +138,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.25,
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
@@ -588,7 +599,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
