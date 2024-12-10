@@ -2,75 +2,99 @@
 
 ## Simple extension boards for Olimex GateMate A1 EVB FPGA Board
 
+### adcIO
+
 ![adcIO](/pic/adcIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/adcIO/adcIO.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/adcIO/adcIO.pdf)
 
-https://github.com/chili-chips-ba/openCologne/issues/5
+[adcIO Request](https://github.com/chili-chips-ba/openCologne/issues/5)
+
+### camIO
 
 ![camIO](/pic/camIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/camIO/camIO.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/camIO/camIO.pdf)
+
+### dualIO
 
 ![dualIO](/pic/dualIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/dualTranslation/dualTranslation.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/dualTranslation/dualTranslation.pdf)
 
-https://github.com/chili-chips-ba/openCologne/issues/44
+[dualIO Request](https://github.com/chili-chips-ba/openCologne/issues/44)
+
+### dviIO
 
 ![dviIO](/pic/dviIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/dvi/dvi.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/dvi/dvi.pdf)
 
-https://github.com/chili-chips-ba/openCologne/issues/46
+[dviIO Request](https://github.com/chili-chips-ba/openCologne/issues/46)
+
+### ethIO
 
 ![ethIO](/pic/ethIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/ethIO/ethIO.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/ethIO/ethIO.pdf)
 
-https://github.com/chili-chips-ba/openCologne/issues/40
+[ethIO Request](https://github.com/chili-chips-ba/openCologne/issues/40)
+
+### eduIO
 
 ![eduIO](/pic/eduIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/eduIO/eduIO.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/eduIO/eduIO.pdf)
 
-https://github.com/chili-chips-ba/openCologne/issues/6
+[eduIO Request](https://github.com/chili-chips-ba/openCologne/issues/6)
+
+### MikroBusIO
 
 ![MikroBusIO](/pic/MikroBusIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/MikroBusIO/MikroBusIO.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/MikroBusIO/MikroBusIO.pdf)
 
-https://github.com/chili-chips-ba/openCologne/issues/48
+[MikroBusIO Request](https://github.com/chili-chips-ba/openCologne/issues/48)
+
+### pwrIO
 
 ![pwrIO](/pic/pwrIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/pwrIO/pwrIO.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/pwrIO/pwrIO.pdf)
 
-https://github.com/chili-chips-ba/openCologne/issues/42
+[pwrIO Request](https://github.com/chili-chips-ba/openCologne/issues/42)
+
+### simpleIO
 
 ![simpleIO](/pic/SimpleIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/GamePad_I2S_audio_Buttons/KiCad/GamePad_I2S_audio.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/GamePad_I2S_audio_Buttons/KiCad/GamePad_I2S_audio.pdf)
 
-https://github.com/chili-chips-ba/openCologne/issues/9
+[simpleIO Request](https://github.com/chili-chips-ba/openCologne/issues/9)
+
+### tmrIO
 
 ![tmrIO](/pic/tmrIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/tmrIO/tmrIO.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/tmrIO/tmrIO.pdf)
 
-https://github.com/chili-chips-ba/openCologne/issues/40
+[tmrIO Request](https://github.com/chili-chips-ba/openCologne/issues/40)
+
+### usbIO
 
 ![usbIO](/pic/usbIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/USB/USB.pdf
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/USB/USB.pdf)
 
-https://github.com/chili-chips-ba/openCologne/issues/43
+[usbIO Request](https://github.com/chili-chips-ba/openCologne/issues/43)
 
 ### Olimex Extension template
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/tree/main/extension_template
+![templateIO](/pic/templateIO.png)
 
-https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/extension_template/extension_template.pdf
+[templateIO folder](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/tree/main/extension_template)
+
+[Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/extension_template/extension_template.pdf)
 
 ## Work on this boards is financed by NLnet foundation
 
