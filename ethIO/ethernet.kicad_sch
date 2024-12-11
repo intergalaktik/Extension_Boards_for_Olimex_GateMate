@@ -4653,6 +4653,16 @@
 		)
 		(uuid "ab04cefb-3528-4a53-a6d6-5242060fe248")
 	)
+	(text "Original - project that is using this schematic is here:\n\nhttps://github.com/rishivg/IO-SDR"
+		(exclude_from_sim no)
+		(at 52.07 17.526 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ab13afcd-4bd6-48d1-bfc3-d8500e6c6b7e")
+	)
 	(text "Config for all capability"
 		(exclude_from_sim no)
 		(at 77.47 153.67 0)

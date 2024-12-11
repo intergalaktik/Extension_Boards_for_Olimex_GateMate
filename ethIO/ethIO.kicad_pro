@@ -656,7 +656,7 @@
   ],
   "text_variables": {
     "project_creator": "Intergalaktik d.o.o.",
-    "project_license": "CERN-OHL-S v2",
+    "project_license": "GPL-3.0",
     "project_name": "Olimex Extension ethIO",
     "project_version": "v0.1",
     "project_year": "2024."

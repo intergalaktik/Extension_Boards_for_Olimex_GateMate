@@ -38,6 +38,12 @@
 
 [ethIO Request](https://github.com/chili-chips-ba/openCologne/issues/40)
 
+This project schematic is from this repository
+
+https://github.com/rishivg/IO-SDR
+
+Board routing is also partially copied
+
 ### eduIO
 
 ![eduIO](/pic/eduIO.png)

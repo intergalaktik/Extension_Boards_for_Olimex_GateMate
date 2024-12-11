@@ -153,7 +153,7 @@
 		)
 	)
 	(property "project_creator" "Intergalaktik d.o.o.")
-	(property "project_license" "CERN-OHL-S v2")
+	(property "project_license" "GPL-3.0")
 	(property "project_name" "Olimex Extension ethIO")
 	(property "project_version" "v0.1")
 	(property "project_year" "2024.")
@@ -19337,6 +19337,18 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Partial routing is taken from this repository\nhttps://github.com/rishivg/IO-SDR"
+		(at 53.85 23.365 0)
+		(layer "Cmts.User")
+		(uuid "6dc03d4f-eeb3-40f3-bd87-3a75b5bf5315")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
 			)
 			(justify left bottom)
 		)
