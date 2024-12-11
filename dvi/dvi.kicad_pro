@@ -496,7 +496,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "tmp/",
+      "plot": "production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "3D/pwrIO.step",
