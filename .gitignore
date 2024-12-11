@@ -4,8 +4,8 @@
 *.bck
 *.kicad_pcb-bak
 *.kicad_sch-bak
-ULX4M_tester_mainPCB/*-backups
-ULX4M_tester_ctrlPCB/*-backups
+*-backups
+*-backups
 *.kicad_prl
 *.sch-bak
 *~
@@ -13,8 +13,8 @@ _autosave-*
 *.tmp
 *-save.pro
 *-save.kicad_pcb
-ULX4M_tester_mainPCB/fp-info-cache
-ULX4M_tester_ctrlPCB/fp-info-cache
+fp-info-cache
+fp-info-cache
 *.lck
 
 # Netlist files (exported from Eeschema)
