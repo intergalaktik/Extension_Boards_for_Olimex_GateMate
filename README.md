@@ -2,17 +2,55 @@
 
 ### adcIO
 
+#### Simple ADC input
+
+```
+MAX40079 are wide band, low-noise, low-input bias
+current operational amplifiers that offer rail-to-rail outputs
+and single-supply operation from 2.7V to 5.5V. These low-
+noise amps draw 2.2mA of quiescent supply current per
+amplifier. This family of amplifiers offers ultra-low distortion
+(0.0002% THD+N), as well as low input voltage-noise
+density (4.2nV/√Hz) and low input current-noise density
+(0.5fA/√Hz). The low input bias current of 0.3pA (typ) and
+low noise(4.5nV/√Hz), together with the wide bandwidth,
+provides excellent performance for transimpedance (TIA)
+and imaging applications
+```
+
 ![adcIO](/pic/adcIO.png)
 
 [Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/adcIO/adcIO.pdf)
 
 [adcIO Request](https://github.com/chili-chips-ba/openCologne/issues/5)
 
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [ ] assemble PCB
+- [ ] design confirmed working
+
 ### camIO
+
+#### CSI input/ DSI output
+
+```
+Raspberry Pi compatible pinout for CSI or DSI.
+4 data lines connected.
+Two data lines have P and N LP pin connected.
+Clock has P LP pin connected.
+There are placeholders for on board termination with 100 ohm resistors.
+```
 
 ![camIO](/pic/camIO.png)
 
 [Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/camIO/camIO.pdf)
+
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [ ] assemble PCB
+- [ ] design confirmed working
 
 ### dualIO
 
@@ -22,6 +60,12 @@
 
 [dualIO Request](https://github.com/chili-chips-ba/openCologne/issues/44)
 
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [ ] assemble PCB
+- [ ] design confirmed working
+
 ### dviIO
 
 ![dviIO](/pic/dviIO.png)
@@ -29,6 +73,12 @@
 [Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/dvi/dvi.pdf)
 
 [dviIO Request](https://github.com/chili-chips-ba/openCologne/issues/46)
+
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [ ] assemble PCB
+- [ ] design confirmed working
 
 ### ethIO
 
@@ -44,6 +94,12 @@ https://github.com/rishivg/IO-SDR
 
 Board routing is also partially copied
 
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [ ] assemble PCB
+- [ ] design confirmed working
+
 ### eduIO
 
 ![eduIO](/pic/eduIO.png)
@@ -51,6 +107,12 @@ Board routing is also partially copied
 [Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/eduIO/eduIO.pdf)
 
 [eduIO Request](https://github.com/chili-chips-ba/openCologne/issues/6)
+
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [ ] assemble PCB
+- [ ] design confirmed working
 
 ### MikroBusIO
 
@@ -60,6 +122,12 @@ Board routing is also partially copied
 
 [MikroBusIO Request](https://github.com/chili-chips-ba/openCologne/issues/48)
 
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [ ] assemble PCB
+- [ ] design confirmed working
+
 ### pwrIO
 
 ![pwrIO](/pic/pwrIO.png)
@@ -67,6 +135,12 @@ Board routing is also partially copied
 [Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/pwrIO/pwrIO.pdf)
 
 [pwrIO Request](https://github.com/chili-chips-ba/openCologne/issues/42)
+
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [ ] assemble PCB
+- [ ] design confirmed working
 
 ### simpleIO
 
@@ -76,6 +150,12 @@ Board routing is also partially copied
 
 [simpleIO Request](https://github.com/chili-chips-ba/openCologne/issues/9)
 
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [x] assemble PCB
+- [x] design confirmed working
+
 ### tmrIO
 
 ![tmrIO](/pic/tmrIO.png)
@@ -84,6 +164,12 @@ Board routing is also partially copied
 
 [tmrIO Request](https://github.com/chili-chips-ba/openCologne/issues/40)
 
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [ ] assemble PCB
+- [ ] design confirmed working
+
 ### usbIO
 
 ![usbIO](/pic/usbIO.png)
@@ -91,6 +177,12 @@ Board routing is also partially copied
 [Schematic](https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate/blob/main/USB/USB.pdf)
 
 [usbIO Request](https://github.com/chili-chips-ba/openCologne/issues/43)
+
+- [x] Schematic
+- [x] PCB
+- [x] order PCB
+- [ ] assemble PCB
+- [ ] design confirmed working
 
 ### Olimex Extension template
 
