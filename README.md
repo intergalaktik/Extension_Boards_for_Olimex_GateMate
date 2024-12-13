@@ -6,6 +6,8 @@ Limit for each extension is set by 500mA resetable fuse on the extension board.
 This limit of StepUP is currently 400mA if board is using 3V3 or 5V.
 ```
 
+![Extensions](/pic/OlimexAll.png)
+
 ### adcIO
 
 #### Simple ADC input
