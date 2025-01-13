@@ -57,7 +57,7 @@ There are placeholders for on board termination with 100 ohm resistors.
 - [x] Schematic
 - [x] PCB
 - [x] order PCB
-- [ ] assemble PCB
+- [x] assemble PCB
 - [ ] design confirmed working
 
 ### dualIO
@@ -77,8 +77,10 @@ You can two single or one dual PMOD board that works with 3V3.
 - [x] Schematic
 - [x] PCB
 - [x] order PCB
-- [ ] assemble PCB
-- [ ] design confirmed working
+- [x] assemble PCB
+- [x] design confirmed working *
+
+* 3V3 volt is not connected on PMOD side - wire can fix that. Once PINS A8 and B8 are set to 0 - PMOD side does the blinks on all pins
 
 ### dviIO
 
@@ -95,8 +97,10 @@ As on ULX3S we have DVI in/out extension we decided to try if it will work on Ga
 - [x] Schematic
 - [x] PCB
 - [x] order PCB
-- [ ] assemble PCB
-- [ ] design confirmed working
+- [x] assemble PCB
+- [x] design confirmed working *
+
+* DVI output is now working great on NA na bank, but losing sync on NB and EB bank
 
 ### ethIO
 
@@ -132,8 +136,10 @@ Board routing is also partially copied
 - [x] Schematic
 - [x] PCB
 - [x] order PCB
-- [ ] assemble PCB
-- [ ] design confirmed working
+- [x] assemble PCB
+- [x] design confirmed working *
+
+* Patrick has done some test with Litex and he can communicate with ethernet CHIP
 
 ### eduIO
 
@@ -158,7 +164,7 @@ PCA9535 is very popular and also available on LCSC and this is just simple exten
 - [x] Schematic
 - [x] PCB
 - [x] order PCB
-- [ ] assemble PCB
+- [x] assemble PCB
 - [ ] design confirmed working
 
 ### MikroBusIO
@@ -184,7 +190,7 @@ https://download.mikroe.com/documents/standards/mikrobus/mikrobus-standard-speci
 - [x] Schematic
 - [x] PCB
 - [x] order PCB
-- [ ] assemble PCB
+- [x] assemble PCB
 - [ ] design confirmed working
 
 ### pwrIO
@@ -215,7 +221,7 @@ We have also added placeholder for 2 Encoder input's
 - [x] Schematic
 - [x] PCB
 - [x] order PCB
-- [ ] assemble PCB
+- [x] assemble PCB
 - [ ] design confirmed working
 
 ### simpleIO
@@ -260,8 +266,10 @@ On this board we have I2C RTC chip and two relays that can handle 250V/3A
 - [x] Schematic
 - [x] PCB
 - [x] order PCB
-- [ ] assemble PCB
-- [ ] design confirmed working
+- [x] assemble PCB
+- [x] design confirmed working *
+
+* Relays are working I did not test I2C RTC
 
 ### usbIO
 
@@ -290,7 +298,7 @@ Granted, there are chips that convert USB to SPI, but they are limited to 12Mbps
 - [x] Schematic
 - [x] PCB
 - [x] order PCB
-- [ ] assemble PCB
+- [x] assemble PCB
 - [ ] design confirmed working
 
 ### Olimex Extension template
