@@ -81,6 +81,8 @@ You can two single or one dual PMOD board that works with 3V3.
 - [x] design confirmed working *
 
 * 3V3 volt is not connected on PMOD side - wire can fix that. Once PINS A8 and B8 are set to 0 - PMOD side does the blinks on all pins
+* Checked with 64x64 LED panel and it works
+* LEvel shifting for aoutput may not be needed - and for input could be done cheaper - https://www.colognechip.com/docs/ug1003-gatemate1-level-shifting-latest.pdf
 
 ### dviIO
 
