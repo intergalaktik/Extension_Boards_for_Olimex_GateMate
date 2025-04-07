@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "f5e455cc-ff02-4ab1-828d-b2117f239f26")
 	(paper "A5")
 	(title_block
@@ -13,9 +13,13 @@
 	)
 	(lib_symbols
 		(symbol "Device:C_Polarized_Small"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0.254) hide)
+				(offset 0.254)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -84,17 +88,6 @@
 			)
 			(symbol "C_Polarized_Small_0_1"
 				(rectangle
-					(start -1.524 -0.3048)
-					(end 1.524 -0.6858)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
 					(start -1.524 0.6858)
 					(end 1.524 0.3048)
 					(stroke
@@ -103,6 +96,17 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(rectangle
+					(start -1.524 -0.3048)
+					(end 1.524 -0.6858)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -168,11 +172,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:L_Small"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0.254) hide)
+				(offset 0.254)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -241,32 +250,8 @@
 			)
 			(symbol "L_Small_0_1"
 				(arc
-					(start 0 -2.032)
-					(mid 0.5058 -1.524)
-					(end 0 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 -1.016)
-					(mid 0.5058 -0.508)
-					(end 0 0)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 0)
-					(mid 0.5058 0.508)
+					(start 0 2.032)
+					(mid 0.5058 1.524)
 					(end 0 1.016)
 					(stroke
 						(width 0)
@@ -278,8 +263,32 @@
 				)
 				(arc
 					(start 0 1.016)
-					(mid 0.5058 1.524)
-					(end 0 2.032)
+					(mid 0.5058 0.508)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 0.5058 -0.508)
+					(end 0 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 -1.016)
+					(mid 0.5058 -1.524)
+					(end 0 -2.032)
 					(stroke
 						(width 0)
 						(type default)
@@ -327,11 +336,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:R_Small"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0.254) hide)
+				(offset 0.254)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -449,6 +463,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Regulator_Switching:TLV61225DC"
 			(exclude_from_sim no)
@@ -551,16 +566,16 @@
 					)
 				)
 				(pin input line
-					(at 7.62 -2.54 180)
+					(at -7.62 -2.54 0)
 					(length 2.54)
-					(name "FB"
+					(name "EN"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "2"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -579,6 +594,24 @@
 						)
 					)
 					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name "L"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -605,34 +638,16 @@
 					)
 				)
 				(pin input line
-					(at 7.62 2.54 180)
+					(at 7.62 -2.54 180)
 					(length 2.54)
-					(name "L"
+					(name "FB"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -2.54 0)
-					(length 2.54)
-					(name "EN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -641,12 +656,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:GND"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -737,7 +757,76 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
+	)
+	(rectangle
+		(start 71.12 40.64)
+		(end 124.46 76.2)
+		(stroke
+			(width 0.127)
+			(type dash)
+		)
+		(fill
+			(type color)
+			(color 0 12 255 0.48)
+		)
+		(uuid fd77d5c1-cb99-461f-84cb-e1fced3348f7)
+	)
+	(text "Up to 300-mA Output Current\n1-MHz Fixed-Frequency PWM Operation"
+		(exclude_from_sim no)
+		(at 97.79 43.434 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "1853fd37-d9ed-41a1-b160-3e7d1a5aef27")
+	)
+	(text "Use TPS61222DC for 2.5V>>5V"
+		(exclude_from_sim no)
+		(at 96.266 80.772 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "32eb75aa-4c4d-4fc3-b40c-3923561d397b")
+	)
+	(text "Power Page"
+		(exclude_from_sim no)
+		(at 35.306 17.018 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "39b43c73-586e-4527-9f40-7c7733b34cc1")
+	)
+	(text "StepUp 2V5>>3V3"
+		(exclude_from_sim no)
+		(at 89.154 40.386 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(bold yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "6ec7a7d5-cf55-4981-a3fa-69258a506676")
+	)
+	(text "Use TPS61225DC for 2.5V>>3.3V"
+		(exclude_from_sim no)
+		(at 96.012 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9584220c-a76f-4eb3-978d-6c82b3e722f3")
 	)
 	(junction
 		(at 78.74 55.88)
@@ -993,78 +1082,9 @@
 		)
 		(uuid "f9f8fa9e-db8d-4537-806e-6b84ff871fb5")
 	)
-	(rectangle
-		(start 71.12 40.64)
-		(end 124.46 76.2)
-		(stroke
-			(width 0.127)
-			(type dash)
-		)
-		(fill
-			(type color)
-			(color 0 12 255 0.48)
-		)
-		(uuid fd77d5c1-cb99-461f-84cb-e1fced3348f7)
-	)
-	(text "Up to 300-mA Output Current\n1-MHz Fixed-Frequency PWM Operation"
-		(exclude_from_sim no)
-		(at 97.79 43.434 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "1853fd37-d9ed-41a1-b160-3e7d1a5aef27")
-	)
-	(text "Use TPS61222DC for 2.5V>>5V"
-		(exclude_from_sim no)
-		(at 96.266 80.772 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "32eb75aa-4c4d-4fc3-b40c-3923561d397b")
-	)
-	(text "Power Page"
-		(exclude_from_sim no)
-		(at 35.306 17.018 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "39b43c73-586e-4527-9f40-7c7733b34cc1")
-	)
-	(text "StepUp 2V5>>3V3"
-		(exclude_from_sim no)
-		(at 89.154 40.386 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(bold yes)
-			)
-			(justify right bottom)
-		)
-		(uuid "6ec7a7d5-cf55-4981-a3fa-69258a506676")
-	)
-	(text "Use TPS61225DC for 2.5V>>3.3V"
-		(exclude_from_sim no)
-		(at 96.012 78.74 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "9584220c-a76f-4eb3-978d-6c82b3e722f3")
-	)
 	(hierarchical_label "VCC_IN"
 		(shape input)
 		(at 78.74 54.61 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1076,7 +1096,6 @@
 	(hierarchical_label "VCC_STEP_UP"
 		(shape input)
 		(at 114.3 57.15 90)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

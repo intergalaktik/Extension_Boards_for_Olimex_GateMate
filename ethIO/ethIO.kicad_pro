@@ -59,10 +59,22 @@
         }
       ],
       "drc_exclusions": [
-        "silk_edge_clearance|103498308|31835000|5c4af853-bd27-45f2-b4ca-6e87ac8e0d11|ba684a83-6411-4af2-b9c4-d40742318bbf",
-        "silk_edge_clearance|108300201|31835000|5c4af853-bd27-45f2-b4ca-6e87ac8e0d11|1a5b2cf3-1acf-4983-864c-4253fea6fe60",
-        "silk_edge_clearance|91993401|31835000|5c4af853-bd27-45f2-b4ca-6e87ac8e0d11|cca748cd-b152-44d1-8ef3-4461be1db800",
-        "silk_edge_clearance|96581691|31835000|5c4af853-bd27-45f2-b4ca-6e87ac8e0d11|83229f86-7116-4abf-a1bb-dc5b7ef22bc2"
+        [
+          "silk_edge_clearance|103498308|31835000|5c4af853-bd27-45f2-b4ca-6e87ac8e0d11|ba684a83-6411-4af2-b9c4-d40742318bbf",
+          ""
+        ],
+        [
+          "silk_edge_clearance|108300201|31835000|5c4af853-bd27-45f2-b4ca-6e87ac8e0d11|1a5b2cf3-1acf-4983-864c-4253fea6fe60",
+          ""
+        ],
+        [
+          "silk_edge_clearance|91993401|31835000|5c4af853-bd27-45f2-b4ca-6e87ac8e0d11|cca748cd-b152-44d1-8ef3-4461be1db800",
+          ""
+        ],
+        [
+          "silk_edge_clearance|96581691|31835000|5c4af853-bd27-45f2-b4ca-6e87ac8e0d11|83229f86-7116-4abf-a1bb-dc5b7ef22bc2",
+          ""
+        ]
       ],
       "meta": {
         "version": 2
@@ -74,16 +86,19 @@
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
+        "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
+        "footprint_filters_mismatch": "ignore",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "hole_to_hole": "error",
         "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
@@ -94,9 +109,11 @@
         "lib_footprint_mismatch": "warning",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
+        "mirrored_text_on_front_layer": "warning",
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
         "net_conflict": "warning",
+        "nonmirrored_text_on_back_layer": "warning",
         "npth_inside_courtyard": "ignore",
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
@@ -111,7 +128,9 @@
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
+        "track_angle": "error",
         "track_dangling": "warning",
+        "track_segment_length": "error",
         "track_width": "error",
         "tracks_crossing": "error",
         "unconnected_items": "error",
@@ -124,6 +143,7 @@
         "min_clearance": 0.0,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
+        "min_groove_width": 0.0,
         "min_hole_clearance": 0.2,
         "min_hole_to_hole": 0.2,
         "min_microvia_diameter": 0.2,
@@ -141,10 +161,11 @@
       },
       "teardrop_options": [
         {
-          "td_onpadsmd": true,
+          "td_onpthpad": true,
           "td_onroundshapesonly": false,
+          "td_onsmdpad": true,
           "td_ontrackend": false,
-          "td_onviapad": true
+          "td_onvia": true
         }
       ],
       "teardrop_parameters": [
@@ -242,6 +263,7 @@
       "mfg": "",
       "mpn": ""
     },
+    "layer_pairs": [],
     "layer_presets": [],
     "viewports": []
   },
@@ -436,10 +458,15 @@
       "duplicate_sheet_names": "error",
       "endpoint_off_grid": "warning",
       "extra_units": "error",
+      "footprint_filter": "ignore",
+      "footprint_link_issues": "warning",
+      "four_way_junction": "ignore",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
+      "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
+      "lib_symbol_mismatch": "warning",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
@@ -452,9 +479,14 @@
       "pin_not_driven": "error",
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
+      "same_local_global_label": "warning",
+      "similar_label_and_power": "warning",
       "similar_labels": "warning",
+      "similar_power": "warning",
       "simulation_model_issue": "ignore",
+      "single_global_label": "ignore",
       "unannotated": "error",
+      "unconnected_wire_endpoint": "warning",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -466,7 +498,7 @@
   },
   "meta": {
     "filename": "ethIO.kicad_pro",
-    "version": 1
+    "version": 3
   },
   "net_settings": {
     "classes": [
@@ -481,6 +513,7 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.6,
@@ -489,33 +522,79 @@
       }
     ],
     "meta": {
-      "version": 3
+      "version": 4
     },
     "net_colors": null,
     "netclass_assignments": {
-      "/Main Sheet/Ethernet/MDI0_N": "100R_Differential",
-      "/Main Sheet/Ethernet/MDI0_P": "100R_Differential",
-      "/Main Sheet/Ethernet/MDI1_N": "100R_Differential",
-      "/Main Sheet/Ethernet/MDI1_P": "100R_Differential",
-      "/Main Sheet/Ethernet/MDI2_N": "100R_Differential",
-      "/Main Sheet/Ethernet/MDI2_P": "100R_Differential",
-      "/Main Sheet/Ethernet/MDI3_N": "100R_Differential",
-      "/Main Sheet/Ethernet/MDI3_P": "100R_Differential",
-      "/Main Sheet/NB_A0_0P": "50R_Single",
-      "/Main Sheet/NB_A1_1P": "50R_Single",
-      "/Main Sheet/NB_A2_2P": "50R_Single",
-      "/Main Sheet/NB_A3_3P": "50R_Single",
-      "/Main Sheet/NB_A4_4P": "50R_Single",
-      "/Main Sheet/NB_A5_5P": "50R_Single",
-      "/Main Sheet/NB_A6_6P": "50R_Single",
-      "/Main Sheet/NB_A7_7P": "50R_Single",
-      "/Main Sheet/NB_B0_0N": "50R_Single",
-      "/Main Sheet/NB_B1_1N": "50R_Single",
-      "/Main Sheet/NB_B2_2N": "50R_Single",
-      "/Main Sheet/NB_B3_3N": "50R_Single",
-      "/Main Sheet/NB_B4_4N": "50R_Single",
-      "/Main Sheet/NB_B5_5N": "50R_Single",
-      "/Main Sheet/NB_B6_6N": "50R_Single"
+      "/Main Sheet/Ethernet/MDI0_N": [
+        "100R_Differential"
+      ],
+      "/Main Sheet/Ethernet/MDI0_P": [
+        "100R_Differential"
+      ],
+      "/Main Sheet/Ethernet/MDI1_N": [
+        "100R_Differential"
+      ],
+      "/Main Sheet/Ethernet/MDI1_P": [
+        "100R_Differential"
+      ],
+      "/Main Sheet/Ethernet/MDI2_N": [
+        "100R_Differential"
+      ],
+      "/Main Sheet/Ethernet/MDI2_P": [
+        "100R_Differential"
+      ],
+      "/Main Sheet/Ethernet/MDI3_N": [
+        "100R_Differential"
+      ],
+      "/Main Sheet/Ethernet/MDI3_P": [
+        "100R_Differential"
+      ],
+      "/Main Sheet/NB_A0_0P": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_A1_1P": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_A2_2P": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_A3_3P": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_A4_4P": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_A5_5P": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_A6_6P": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_A7_7P": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_B0_0N": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_B1_1N": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_B2_2N": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_B3_3N": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_B4_4N": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_B5_5N": [
+        "50R_Single"
+      ],
+      "/Main Sheet/NB_B6_6N": [
+        "50R_Single"
+      ]
     },
     "netclass_patterns": []
   },
@@ -589,6 +668,7 @@
       ],
       "filter_string": "",
       "group_symbols": true,
+      "include_excluded_from_bom": false,
       "name": "Grouped By Value",
       "sort_asc": true,
       "sort_field": "Reference"
@@ -623,6 +703,7 @@
     "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "./",
+    "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
