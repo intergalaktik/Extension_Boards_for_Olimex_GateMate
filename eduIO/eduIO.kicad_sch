@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "771d591f-f69b-4219-83f3-922c3a7e343e")
 	(paper "A4")
 	(title_block
@@ -146,6 +146,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 	)
 	(rectangle
@@ -201,7 +202,7 @@
 	)
 	(rectangle
 		(start 123.444 36.83)
-		(end 202.946 81.026)
+		(end 202.946 74.93)
 		(stroke
 			(width 0)
 			(type default)
@@ -224,6 +225,255 @@
 			(color 0 255 0 0.5)
 		)
 		(uuid be37f340-8335-4ef7-be07-02842c7249cf)
+	)
+	(text "         Index"
+		(exclude_from_sim no)
+		(at 176.276 42.164 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "2adc0665-1235-4d38-9dea-b460028125da")
+	)
+	(text "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nVCC input is connected over 500mA resetable fuse!\nMaximum current for VCC is set to 500mA.\nIt may be possible to drain more current but \nyou will need add different FUSE and use it at your own risk!\n3.3V step up is limited to 400mA \nIdea behind limits is that you can use all 3 extensions slots \nat once without any risk od draining to much!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		(exclude_from_sim no)
+		(at 68.58 75.184 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "36b7bfd6-86b1-4b49-8444-a0af45309e93")
+	)
+	(text "2"
+		(exclude_from_sim no)
+		(at 188.722 60.452 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#2")
+		)
+		(uuid "4e2b4f9e-41d8-445e-aded-ec82256c23b8")
+	)
+	(text "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nOlimex board is delivering MAX 2.5V on connector.\nYou can use 2.5V output signals for 3.3V.\nBe carefull FPGA input only tolerate MAX 2.5V!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		(exclude_from_sim no)
+		(at 68.072 47.752 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "55a690c9-ee96-4ed0-8e3e-273feb22db22")
+	)
+	(text "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nThere is same pinout part for 5V step up.\nSo you can have 5V with just one IC change.\nFor more details check Power page.\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		(exclude_from_sim no)
+		(at 70.104 101.854 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "5d6061c5-d3bc-47f9-ba78-fdd1e81c6d5c")
+	)
+	(text "......"
+		(exclude_from_sim no)
+		(at 132.842 70.612 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "651edfc5-9d51-4e4c-be76-372e6e8e8f2a")
+	)
+	(text "Change project informations under.     \nFile>>Schamatic Setup>>Text Variables"
+		(exclude_from_sim no)
+		(at 96.012 33.528 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "68dbb83f-b7d6-4cc6-a8be-76ced47fb863")
+	)
+	(text "......"
+		(exclude_from_sim no)
+		(at 132.842 48.006 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "8c52dba8-a440-46ea-a6e0-7673caf9fee1")
+	)
+	(text "......."
+		(exclude_from_sim no)
+		(at 188.976 70.612 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "934c8414-ee28-4c94-9308-26d15ee71bfc")
+	)
+	(text "A1 Dedicated clock input pins are:\n    IO_SB_A8: CLK0\n    IO_SB_A7: CLK1\n    IO_SB_A6: CLK2\n    IO_SB_A5: CLK3\nYou can use them all as differential inputs.\n\nWe are not able to use any on extension boards.\n\nIt is also possible to use any GPIO as a clock input. \nThe only thing to note here is that the signal must be \nrouted via the routing structure to the entry point \nof the global clock mesh. These paths are longer than \nvia the dedicated clock pins, which is why it is \nessential to pay attention to clock skew."
+		(exclude_from_sim no)
+		(at 256.032 52.832 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "9ff17643-9537-40a0-b1f5-c82e9f414c5c")
+	)
+	(text "CoverPage"
+		(exclude_from_sim no)
+		(at 140.716 54.61 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#1")
+		)
+		(uuid "a09c3ac5-8108-4898-b883-bfb33518acb2")
+	)
+	(text "Board Dimensions"
+		(exclude_from_sim no)
+		(at 151.638 66.548 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#3")
+		)
+		(uuid "a1716a6c-8d6d-4024-888f-8b3b18f87e60")
+	)
+	(text "3"
+		(exclude_from_sim no)
+		(at 188.722 66.802 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#3")
+		)
+		(uuid "a3a494d4-e304-4eab-bc0d-8dcf4ff7226f")
+	)
+	(text "......."
+		(exclude_from_sim no)
+		(at 188.976 48.006 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "a4baa54f-baa8-4417-909c-27c359d4bd9e")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 188.722 54.864 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#1")
+		)
+		(uuid "c4f19a7a-3216-4747-b43b-f5bbfea448cd")
+	)
+	(text "MainPage"
+		(exclude_from_sim no)
+		(at 139.192 60.198 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#2")
+		)
+		(uuid "dd060500-2275-48f1-a617-825bc85b2efa")
+	)
+	(text "${CURRENT_DATE}"
+		(exclude_from_sim no)
+		(at 257.556 17.526 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "dde68244-e974-443c-b850-17743e63d4b4")
+	)
+	(text "${project_name} ${project_version} "
+		(exclude_from_sim no)
+		(at 73.406 17.272 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "f3c2fcfb-61fa-41e7-ae80-f3f1cfe6e7bc")
+	)
+	(text "TOP VIEW"
+		(exclude_from_sim no)
+		(at 55.372 119.634 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "f8185d5d-5493-4314-b98e-ca46935effdc")
+	)
+	(text "Page"
+		(exclude_from_sim no)
+		(at 132.842 42.164 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "fac6550d-f35c-4802-862c-9a2e3e984775")
+	)
+	(text_box "${project_creator}\nLicense: ${project_license}\nYear: ${project_year}"
+		(exclude_from_sim no)
+		(at 16.51 22.098 0)
+		(size 58.42 13.97)
+		(margins 1.524 1.524 1.524 1.524)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type color)
+			(color 158 196 255 1)
+		)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+			(justify left top)
+		)
+		(uuid "f4a9ef77-34c9-45fe-8f4b-8546cf645083")
 	)
 	(image
 		(at 56.388 160.274)
@@ -7368,278 +7618,62 @@
 			"y2PEuyVffQW61yQv7JzYe0JhvyQIwk0PW4K1Bda9i2++JVsrQv0RYp6RhN9jXdUExrYgq2KcKxDn"
 			"cM4CBYo+vl5hCXDiE/lQi48xBlflyCYTci/P65SPlg3DYHN6aZ9VXm0VoJxzqM17aGMQ3Ujt9sOc"
 			"6dIxTDXODJlNxzjnuBwETFY+2hj6ScgiKxlEObPVTgb3/Mw8CCjaWE9azRNd5e37ZVbs9/V1lKv/"
-			"09LfYz85HKYGODMkLzWZ/ozst3f+99j9L6orB4utBcWZAAAAAElFTkSuQmCC"
+			"09LfYz85HKYGODMkLzWZ/ozst3f+99j9L6orB4utBcWZAAAAAElFTkSuQmCCAAAAAAAAAAAAAAAA"
+			"AAAAALUAAAAYAAAAGQAAAAAAAAAAAAAAAAAAALUAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAALYAAAAXAAAAGQAAAAAAAAAAAAAAAAAAALYAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAALcAAAAXAAAAGQAAAAAAAAAAAAAAAAAAALcAAAAQAAAAEAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAALgAAAAXAAAAGQAAAAAAAAAAAAAAAAAAALgAAAAQAAAAEAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAALkAAAAXAAAAGAAAAAAAAAAAAAAAAAAAALkAAAAQAAAAEAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAALoAAAAXAAAAGAAAAAAAAAAAAAAAAAAAALoAAAAQAAAAEAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAALsAAAAXAAAAGAAAAAAAAAAAAAAAAAAAALsAAAAQAAAAEAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALwAAAAXAAAAGAAAAAAAAAAAAAAAAAAAALwAAAAQAAAA"
+			"EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL0AAAAXAAAAGAAAAAAAAAAAAAAAAAAAAL0AAAAQ"
+			"AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL4AAAAWAAAAGAAAAAAAAAAAAAAAAAAAAL4A"
+			"AAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL8AAAAWAAAAGAAAAAAAAAAAAAAAAAAA"
+			"AL8AAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAWAAAAGAAAAAAAAAAAAAAA"
+			"AAAAAMAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMEAAAAWAAAAFwAAAAAAAAAA"
+			"AAAAAAAAAMEAAAAPAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMIAAAAWAAAAFwAAAAAA"
+			"AAAAAAAAAAAAAMIAAAAPAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMMAAAAWAAAAFwAA"
+			"AAAAAAAAAAAAAAAAAMMAAAAPAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMQAAAAWAAAA"
+			"FwAAAAAAAAAAAAAAAAAAAMQAAAAPAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMUAAAAW"
+			"AAAAFwAAAAAAAAAAAAAAAAAAAMUAAAAPAAAADwAAAAAAAAAAAAAAAAAAAFoASgBsAEsARQAxAEcA"
+			"ZABGAFAAVABGAHQAaQBYADYAYgB4AHEAZgBUAFoASgBqAHEAUwAvACsANgBBAHQANgBHAEYAVwBD"
+			"AHoAdABnAGQARQBkAHAAMQBEAHIAeABNADcATABaAFAAOQBhAEUAVABYAEgALwBNAGwARQAxAHIA"
+			"awBVAEsAWQBRAFEAbwBZAFcAVQBaAG8ATAArAGsAaQBxAG0AegBzAEgAawB3AFEAQgBQAFcARAB2"
+			"AEYAZQBqAFcAZgBSADIAaABzAFcANgBtAEwAdwBDAEMANQArAHEAUgBhAGwAWgBVAEcAaABWAEoA"
+			"VABBAHUAUgBaADMAQwA1AFQAZwBEAFUAYQBVAFUASwBWAFgAeQBxAFkAMgAvAGYAOABqAEgAegBn"
+			"ADgAYgBHAGgATABSAFgAagBEAEEAQwBqADYAagBXAHIAagBzAFkAcAA3AGwAbABXAGQAYQAyAEgA"
+			"UgBFAFgAawBYAE4AYQBlAGwAcgA4ADYAWQA0AHkATwByAEQAMgBkAEwAcwBDAFYARgBvAEwARgBi"
+			"AFMAdABQADQASgBEAG4AWABUAEQAWABlAHIASABRAG4ARABvAG8AQQB3AFQAdwAyAFMAMwBOAEMA"
+			"RgB5AHMAOQBMAEgAaAAyAGgAUgBJAGwARQBCAEsANQBFAFcARgArAEoAUQBaADcAQQBkAG8AKwB3"
+			"AE8AeABJAHcAdgBiAHgAVwBFAFgANwBoAFcAaQBmAE0ANgBnADAAdgAxAGYAZwArAHkASwBrADQA"
+			"bwBPAFYAUQBVAGgAeABYAEkAdQBIAGIAUABIAEIAWgBMADAAegBjAHQAQQAvAEUAYQBNAHEANQBh"
+			"ADMAUQA4AE8AcABRAGcATQAwAFUAQwBKAE4AbABBAEMATwBXAHgAZwBDAEoAUgBVAEoAQgAxAGYA"
+			"bgAxAEcATQA4AE0AZgBUAG4ATABQAGkAOQBLAEoATwA5AEoAYwBLAEkAUABlAGoAWgBXAGMAdgB3"
+			"AHYAcAAvADAARQA1AFUAaABKADYAZABQAGgAQgBUAFUAeABMAFgANAA0AEMAUQArADMAeABqAFoA"
+			"QQBNAEcAcQBJAHIATwBQAHQANQBKAHUATwAvAEgAMQAyAEoAbgAvAHUASgBMAHAAQgBtAFoAYgBM"
+			"AEYAVgBEAFEAeQBpAHgAcgBVAFAAbgBHAEMAZgBlAGsAZwBsAFIAdQB2AGMAYwBtAGoARwBuAE4A"
+			"SwBDAGoANABYADgANABXAGwAMABQAGUAQQBDAEwAVgBhAEQAVABzADcAWgAvAFMARABLAEMAbAAx"
+			"AGUAWgBMADIAegB0ADkANABXAHoARwAyAHAAdABNAHAAMwB2AEQAcQBuAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
 		)
-	)
-	(text_box "${project_creator}\nLicense: ${project_license}\nYear: ${project_year}"
-		(exclude_from_sim no)
-		(at 16.51 22.098 0)
-		(size 58.42 13.97)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type color)
-			(color 158 196 255 1)
-		)
-		(effects
-			(font
-				(size 2.032 2.032)
-			)
-			(justify left top)
-		)
-		(uuid "f4a9ef77-34c9-45fe-8f4b-8546cf645083")
-	)
-	(text "3"
-		(exclude_from_sim no)
-		(at 188.722 66.04 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#3")
-		)
-		(uuid "2697da2f-f2b9-4e41-aeb6-1b48d3c647fb")
-	)
-	(text "         Index"
-		(exclude_from_sim no)
-		(at 176.276 42.164 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "2adc0665-1235-4d38-9dea-b460028125da")
-	)
-	(text "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nVCC input is connected over 500mA resetable fuse!\nMaximum current for VCC is set to 500mA.\nIt may be possible to drain more current but \nyou will need add different FUSE and use it at your own risk!\n3.3V step up is limited to 400mA \nIdea behind limits is that you can use all 3 extensions slots \nat once without any risk od draining to much!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-		(exclude_from_sim no)
-		(at 68.58 75.184 0)
-		(effects
-			(font
-				(size 2.032 2.032)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "36b7bfd6-86b1-4b49-8444-a0af45309e93")
-	)
-	(text "2"
-		(exclude_from_sim no)
-		(at 188.722 60.452 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#2")
-		)
-		(uuid "4e2b4f9e-41d8-445e-aded-ec82256c23b8")
-	)
-	(text "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nOlimex board is delivering MAX 2.5V on connector.\nYou can use 2.5V output signals for 3.3V.\nBe carefull FPGA input only tolerate MAX 2.5V!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-		(exclude_from_sim no)
-		(at 68.072 47.752 0)
-		(effects
-			(font
-				(size 2.032 2.032)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "55a690c9-ee96-4ed0-8e3e-273feb22db22")
-	)
-	(text "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nThere is same pinout part for 5V step up.\nSo you can have 5V with just one IC change.\nFor more details check Power page.\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-		(exclude_from_sim no)
-		(at 70.104 101.854 0)
-		(effects
-			(font
-				(size 2.032 2.032)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "5d6061c5-d3bc-47f9-ba78-fdd1e81c6d5c")
-	)
-	(text "......"
-		(exclude_from_sim no)
-		(at 132.842 75.946 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "651edfc5-9d51-4e4c-be76-372e6e8e8f2a")
-	)
-	(text "PowerPage"
-		(exclude_from_sim no)
-		(at 141.224 65.786 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#3")
-		)
-		(uuid "66b9375d-6a8d-4130-aadc-51d1bb3d7eec")
-	)
-	(text "Change project informations under.     \nFile>>Schamatic Setup>>Text Variables"
-		(exclude_from_sim no)
-		(at 96.012 33.528 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "68dbb83f-b7d6-4cc6-a8be-76ced47fb863")
-	)
-	(text "......"
-		(exclude_from_sim no)
-		(at 132.842 48.006 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "8c52dba8-a440-46ea-a6e0-7673caf9fee1")
-	)
-	(text "......."
-		(exclude_from_sim no)
-		(at 188.976 75.946 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "934c8414-ee28-4c94-9308-26d15ee71bfc")
-	)
-	(text "A1 Dedicated clock input pins are:\n    IO_SB_A8: CLK0\n    IO_SB_A7: CLK1\n    IO_SB_A6: CLK2\n    IO_SB_A5: CLK3\nYou can use them all as differential inputs.\n\nWe are not able to use any on extension boards.\n\nIt is also possible to use any GPIO as a clock input. \nThe only thing to note here is that the signal must be \nrouted via the routing structure to the entry point \nof the global clock mesh. These paths are longer than \nvia the dedicated clock pins, which is why it is \nessential to pay attention to clock skew."
-		(exclude_from_sim no)
-		(at 256.032 52.832 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 0 0 0 1)
-			)
-		)
-		(uuid "9ff17643-9537-40a0-b1f5-c82e9f414c5c")
-	)
-	(text "CoverPage"
-		(exclude_from_sim no)
-		(at 140.716 54.61 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#1")
-		)
-		(uuid "a09c3ac5-8108-4898-b883-bfb33518acb2")
-	)
-	(text "Board Dimensions"
-		(exclude_from_sim no)
-		(at 151.638 71.628 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#4")
-		)
-		(uuid "a1716a6c-8d6d-4024-888f-8b3b18f87e60")
-	)
-	(text "4"
-		(exclude_from_sim no)
-		(at 188.722 71.882 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#4")
-		)
-		(uuid "a3a494d4-e304-4eab-bc0d-8dcf4ff7226f")
-	)
-	(text "......."
-		(exclude_from_sim no)
-		(at 188.976 48.006 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "a4baa54f-baa8-4417-909c-27c359d4bd9e")
-	)
-	(text "1"
-		(exclude_from_sim no)
-		(at 188.722 54.864 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#1")
-		)
-		(uuid "c4f19a7a-3216-4747-b43b-f5bbfea448cd")
-	)
-	(text "MainPage"
-		(exclude_from_sim no)
-		(at 139.192 60.198 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#2")
-		)
-		(uuid "dd060500-2275-48f1-a617-825bc85b2efa")
-	)
-	(text "${CURRENT_DATE}"
-		(exclude_from_sim no)
-		(at 257.556 17.526 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "dde68244-e974-443c-b850-17743e63d4b4")
-	)
-	(text "${project_name} ${project_version} "
-		(exclude_from_sim no)
-		(at 73.406 17.272 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "f3c2fcfb-61fa-41e7-ae80-f3f1cfe6e7bc")
-	)
-	(text "TOP VIEW"
-		(exclude_from_sim no)
-		(at 55.372 119.634 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "f8185d5d-5493-4314-b98e-ca46935effdc")
-	)
-	(text "Page"
-		(exclude_from_sim no)
-		(at 132.842 42.164 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "fac6550d-f35c-4802-862c-9a2e3e984775")
 	)
 	(symbol
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
@@ -7708,6 +7742,10 @@
 	(sheet
 		(at 235.458 156.21)
 		(size 22.352 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -7738,7 +7776,7 @@
 		(instances
 			(project "eduIO"
 				(path "/771d591f-f69b-4219-83f3-922c3a7e343e"
-					(page "4")
+					(page "3")
 				)
 			)
 		)
@@ -7746,6 +7784,10 @@
 	(sheet
 		(at 262.128 156.21)
 		(size 19.558 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.254)
@@ -7786,4 +7828,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
