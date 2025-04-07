@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "771d591f-f69b-4219-83f3-922c3a7e343e")
 	(paper "A4")
 	(title_block
@@ -146,6 +146,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 	)
 	(rectangle
@@ -153,12 +154,286 @@
 		(end 162.56 85.344)
 		(stroke
 			(width 0)
+			(type solid)
+		)
+		(fill
+			(type color)
+			(color 38 255 244 1)
+		)
+		(uuid b9dc70c8-3c48-4533-b5a3-e3aebb615577)
+	)
+	(text "BOTTOM VIEW"
+		(exclude_from_sim no)
+		(at 148.844 98.552 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "22d3d1e9-37a9-47c3-942a-0d28dbe53497")
+	)
+	(text "3"
+		(exclude_from_sim no)
+		(at 153.162 59.69 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#3")
+		)
+		(uuid "2697da2f-f2b9-4e41-aeb6-1b48d3c647fb")
+	)
+	(text "         Index"
+		(exclude_from_sim no)
+		(at 140.208 35.814 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "2adc0665-1235-4d38-9dea-b460028125da")
+	)
+	(text "First Relay"
+		(exclude_from_sim no)
+		(at 105.156 65.024 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#4")
+		)
+		(uuid "301af1b1-1ee5-47df-8fb3-0144d2b2c850")
+	)
+	(text "2"
+		(exclude_from_sim no)
+		(at 153.162 54.102 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#2")
+		)
+		(uuid "4e2b4f9e-41d8-445e-aded-ec82256c23b8")
+	)
+	(text "......"
+		(exclude_from_sim no)
+		(at 96.52 80.772 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "651edfc5-9d51-4e4c-be76-372e6e8e8f2a")
+	)
+	(text "PowerPage"
+		(exclude_from_sim no)
+		(at 104.902 59.436 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#3")
+		)
+		(uuid "66b9375d-6a8d-4130-aadc-51d1bb3d7eec")
+	)
+	(text "......"
+		(exclude_from_sim no)
+		(at 96.774 41.656 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "8c52dba8-a440-46ea-a6e0-7673caf9fee1")
+	)
+	(text "......."
+		(exclude_from_sim no)
+		(at 153.162 80.772 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "934c8414-ee28-4c94-9308-26d15ee71bfc")
+	)
+	(text "CoverPage"
+		(exclude_from_sim no)
+		(at 104.648 48.26 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#1")
+		)
+		(uuid "a09c3ac5-8108-4898-b883-bfb33518acb2")
+	)
+	(text "Board Dimensions"
+		(exclude_from_sim no)
+		(at 115.316 76.454 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#6")
+		)
+		(uuid "a1716a6c-8d6d-4024-888f-8b3b18f87e60")
+	)
+	(text "5"
+		(exclude_from_sim no)
+		(at 153.162 71.12 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#5")
+		)
+		(uuid "a33c56b7-41c4-45ca-a291-141577a2dd7f")
+	)
+	(text "6"
+		(exclude_from_sim no)
+		(at 153.162 76.708 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#6")
+		)
+		(uuid "a3a494d4-e304-4eab-bc0d-8dcf4ff7226f")
+	)
+	(text "......."
+		(exclude_from_sim no)
+		(at 153.67 41.656 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "a4baa54f-baa8-4417-909c-27c359d4bd9e")
+	)
+	(text "4"
+		(exclude_from_sim no)
+		(at 153.162 65.532 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#4")
+		)
+		(uuid "b7969661-6049-438f-9587-e29ed73205e0")
+	)
+	(text "Second Relay"
+		(exclude_from_sim no)
+		(at 109.22 70.612 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#5")
+		)
+		(uuid "b920b352-7d30-4215-bd55-f54b12e66c36")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 152.908 48.514 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#1")
+		)
+		(uuid "c4f19a7a-3216-4747-b43b-f5bbfea448cd")
+	)
+	(text "MainPage"
+		(exclude_from_sim no)
+		(at 103.124 53.848 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+			(href "#2")
+		)
+		(uuid "dd060500-2275-48f1-a617-825bc85b2efa")
+	)
+	(text "${CURRENT_DATE}"
+		(exclude_from_sim no)
+		(at 252.984 22.86 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "dde68244-e974-443c-b850-17743e63d4b4")
+	)
+	(text "${project_name} ${project_version} "
+		(exclude_from_sim no)
+		(at 98.044 22.606 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "f3c2fcfb-61fa-41e7-ae80-f3f1cfe6e7bc")
+	)
+	(text "TOP VIEW"
+		(exclude_from_sim no)
+		(at 63.754 99.314 0)
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "f8185d5d-5493-4314-b98e-ca46935effdc")
+	)
+	(text "Page"
+		(exclude_from_sim no)
+		(at 96.774 35.814 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+		)
+		(uuid "fac6550d-f35c-4802-862c-9a2e3e984775")
+	)
+	(text_box "${project_creator}\nLicense: ${project_license}\nYear: ${project_year}"
+		(exclude_from_sim no)
+		(at 20.574 30.734 0)
+		(size 58.42 13.97)
+		(margins 1.524 1.524 1.524 1.524)
+		(stroke
+			(width 0)
 			(type default)
 		)
 		(fill
-			(type none)
+			(type color)
+			(color 158 196 255 1)
 		)
-		(uuid b9dc70c8-3c48-4533-b5a3-e3aebb615577)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+			(justify left top)
+		)
+		(uuid "f4a9ef77-34c9-45fe-8f4b-8546cf645083")
 	)
 	(image
 		(at 148.336 149.098)
@@ -5253,7 +5528,25 @@
 			"b9/ZxUBRmGiTyzkwdmQXHkFkPptI9FRR7LPP/K6gS960t4iJaN1dTz+oFHlki2rbW9Sp95z7d7u8"
 			"bgaRBew5bLZrKz1T6ZkX7S0iIvN8tb/TeyI7Huicfdj1zIY1LArnNHdNw7+zM28f8jN2kTH/Gdnf"
 			"zVlLqeAM/T36We1vTrPXCyVH/BcsP7Wvs3rW0ufv+rvas8w909M8w8PuZ+m+zfnsXc6+JMdCOVVt"
-			"VvcwB7Ea9HGv5Ll0/+68/wk6OHjyobby/wEGhViW+6H0TwAAAABJRU5ErkJggg=="
+			"VvcwB7Ea9HGv5Ll0/+68/wk6OHjyobby/wEGhViW+6H0TwAAAABJRU5ErkJgggBKAFIAeABwAGIA"
+			"dQB4AEEAMgBRAEgAYQB3AHoASQBhAGoAZwBYAG8AeAB1AHIAeQBXAHYASwBNAFkAUQBmADMAVwBV"
+			"AHcARQBzAFgAbwAyAFoAUgB3ADAAUwBQAFcAVgBSAEgARwBiAGoAQwBQAHcATQBNAHkAQwBEAEsA"
+			"YgA1AEcASQBoAFEAcwBrAHgAZABDAHcAVABCAE0AWQBkAGQAOQBoAGYAVgBaAEcAdwBQAHAAQwBH"
+			"AC8ATQBlAEQAMQBVAGQAawByAEwARABsAFkAVgByAEYATgBTAEYARwAyAHIARwBPAHkAOAB5AEUA"
+			"MQBDADkAVwB3AG8AbwAxAGEAawBtAFUAZwBhADQASwBOAGgAbABaAFoAWQBVAFUAUgBHAFUAYwBI"
+			"AE4AcABLACsAbwAzAFYAMABvADcANwBqAEYASwByAHcAMgBJAHQAdQBCAHgAbABFAFQARgBwAEYA"
+			"NgBpAEwARABPAFMASwBvAFAAVwBXAGQAagBDAFoASQBzAFYAZQA1AFkAbAArADIAawBKAHIAYwAv"
+			"AGwAcQBUAGMAcwBZAFcAQwBoADcAVwBJADUAbQBwAEgAbwBTAEMAOAB3AHoANABGAG8ANgB5AG8A"
+			"MAB0AE4AOABqAHYAMQBVAEgAYQB4AHAAdwB0AFoARQBSAFUAVgByAE0AcgBRAEwAdwBXAFQAVgBu"
+			"AGcAVQBMAG8ANABjAEoAVABuAEIAQgBSAFIAUgB2ADgATABNAFYAQwBHAE0AUQBCAGEAaQBaAGEA"
+			"LwA2AHAASQBJADUAbQBjAGkARQBzACsASwBvAHkASABrAEoAUABZAFgAUQBzADYAWQB3AFQATABU"
+			"AHMAbgBPAFEAKwBaAHQASQArAFMARwBaAHkAZQBhAE0AKwB4AEsATgBXAFAASQBaADAANgBLAEgA"
+			"TwB0AHEAbgBXAFkAdAA0ADIAYwBsAEEAcQBTAEYAMAAyAHAANAB3AG8AbgBFAE4AMQBlAG8AaABk"
+			"AGcAVAAxAC8AcgAvAG4AYgA1AGQAaABDAEIAYQBoAHIAcgBzADkAOQBoACsAeQBlADkAeQBvAGQA"
+			"NQBZADcAVgBhAEQAbwBMAFIANgBRAEkAdABxAG8ALwBjAGEAYQBoAFkARABNAFUAZABDAGUARgBR"
+			"AFIAbABVAGwARQBCAGEARgBGADkAQQBlAHMAeQArAFAAaABFAFIAbQBLAEkAYQBiAEgAeQBjAGcA"
+			"cAAxAE4ATwB1AFMAbgBBAFMAcABHAG0ATABrAG8ASwBFADgAMAByAEUAZQBTAFoAQgBZAFkASwBJ"
+			"AHYAbgBVAGUARgB4AEMAUgBOAHEAOABvAGsAVgB1AHQAYwAxAFgAdAB1AG4AYQ=="
 		)
 	)
 	(image
@@ -10902,280 +11195,26 @@
 			"7qN0PD5ubneYpf5tNyhNpQ/lZ2cnfAMBANeOf80FAAC3zt70pU22D+ISsNKvbWal5ztoDuanp1S4"
 			"AQCfB5VuAABw67w9f6zzy6d9uNZ6BZilJwncAABCNwAAwMcG71/iUXON4Vv7VWEpgCuBGwBA6AYA"
 			"APjE4H1UnjDLu7gZmgYAAAAAwDXY2/vLfnr40B48uG+j0T/GdwQAAAAAgGsO3nwXAABf2v/JTGCb"
-			"fEr4sQAAAABJRU5ErkJggg=="
+			"fEr4sQAAAABJRU5ErkJggllWK3E1RDF6YkJmUFNxTjkrdFRJMmp6M20zWGVzK3o2cDN6NmRVajlz"
+			"bmhKTmxqNlpWYURyR3FsWG9GSm1mOVRXcVc0SlpvVzFYSUNyUWRRM2F0blhHa3Azdm9paXhXcDRh"
+			"R2VWemkxM1h1UEYwZmV1Y0JCZEtOWWFrcmMvMHNyb3dRRGdFT2lBVjRCeWcycXJLNXg1N3B0QnBr"
+			"cUFnYTZUR29FRG9aM2RjNEpRR0F4NmFQNDB2Zi9VNnFrSmh1V0k4Y1BrNmp0UmpHc3pVaEE3Y3ZJ"
+			"NXFweW1mUjErMmxHU2xuVFBHRTVRUFBlNFZxSDhJUC9DNllGUlZsSCtJOG4wM2owdDgrYm5MK09r"
+			"ZmZRTEYvR0Y4L3ZuN1E1QURpeTgzbnlkWjRCZDROSEJJU0o4alNoR2xJZUNBaEZkSVFUZ2xSclV5"
+			"WjRBVDV1RGJyMUhNUWpHd1BwQ2R0b0s3Wm9XeXJISGpzQThNQUtVVXVxNURXVlJvMnNZY3lCNTkz"
+			"Mk0ybWFIck9rY0NzRnF0VU5lMXM0NjczbnUzZmRkQkdlSGE5NzFUNG1ERzVXMjR3MEpVNExvWmcx"
+			"WmFwZk5VWjFXUFNWMDVxNU9JY09lMDBPTlJQYXFxd3Q1Y2FhSEE5cG9DdDQ5WkszSWl0SzArNEx2"
+			"VDFsblR0cTFZV1ZWWXJjNk1JQy9SOTk0ektJb0NiYnR5eXN5aUw4a29kejJ2bGZNd0ZIdEYwaXV2"
+			"TEsySDNuZHQ0QjFZcjhaN3cxcXg2WEhvK1plaHlLSzA4NklGUTIrVW9oVzZYcW1TaVJ6MDNsc3Rm"
+			"QS9Tcm11ZDkyYzlKaUw5OTdacFVOWTFWTitqNzFydDBabkQydmV0VThKdDF4cmpSUnNrbGlqYmRw"
+			"VndDa1VvZVhzdlZzcVJjWHZQeVhqYWdmZkdVRXJQcmI2UFI5VTZaU05BR3RaN2RGNFhzeGxiUUg4"
+			"anhxaTg0V0k2bldqalN6a2pFZ0RhWm1XZXRVRGZ0V2hYSytQTkthOEVGYnNJUTFYVzZMckdsQndw"
+			"RjQyd0pVeGEwU2hueUNqRktNc0txK1daTUNaOENZNzBEcVUzYXVzT3JTZkpyRkJWbXN0UzlSMWFv"
+			"d1JkM2FIemdudXYvSTBBYmMwNVY2cDNkSmIyZTVTSkRyQXlhUm9VWmcvN2N5cU5nYUtvY1BPSWNY"
+			"eW1JMWh0MnpsRG9xQUNmYStnRkJzUHFrZFZWaWdMMWxFUFk3aE9wM08zbCsyYWxVWHBvaVNzMk1r"
+			"ekM4b3JqTkhxMndYcTg5aTJLNk53Z2E1dFVGVzFQdGRpenhDSlBMbFVQZ1VocVFNMU9xcXE5R3kw"
+			"ZlZqeTVlWkN5blVic1JDQg=="
 		)
-	)
-	(text_box "${project_creator}\nLicense: ${project_license}\nYear: ${project_year}"
-		(exclude_from_sim no)
-		(at 20.574 30.734 0)
-		(size 58.42 13.97)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type color)
-			(color 158 196 255 1)
-		)
-		(effects
-			(font
-				(size 2.032 2.032)
-			)
-			(justify left top)
-		)
-		(uuid "f4a9ef77-34c9-45fe-8f4b-8546cf645083")
-	)
-	(text "BOTTOM VIEW"
-		(exclude_from_sim no)
-		(at 148.844 98.552 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "22d3d1e9-37a9-47c3-942a-0d28dbe53497")
-	)
-	(text "3"
-		(exclude_from_sim no)
-		(at 153.162 59.69 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#3")
-		)
-		(uuid "2697da2f-f2b9-4e41-aeb6-1b48d3c647fb")
-	)
-	(text "         Index"
-		(exclude_from_sim no)
-		(at 140.208 35.814 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "2adc0665-1235-4d38-9dea-b460028125da")
-	)
-	(text "First Relay"
-		(exclude_from_sim no)
-		(at 105.156 65.024 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#4")
-		)
-		(uuid "301af1b1-1ee5-47df-8fb3-0144d2b2c850")
-	)
-	(text "2"
-		(exclude_from_sim no)
-		(at 153.162 54.102 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#2")
-		)
-		(uuid "4e2b4f9e-41d8-445e-aded-ec82256c23b8")
-	)
-	(text "......"
-		(exclude_from_sim no)
-		(at 96.52 80.772 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "651edfc5-9d51-4e4c-be76-372e6e8e8f2a")
-	)
-	(text "PowerPage"
-		(exclude_from_sim no)
-		(at 104.902 59.436 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#3")
-		)
-		(uuid "66b9375d-6a8d-4130-aadc-51d1bb3d7eec")
-	)
-	(text "......"
-		(exclude_from_sim no)
-		(at 96.774 41.656 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "8c52dba8-a440-46ea-a6e0-7673caf9fee1")
-	)
-	(text "......."
-		(exclude_from_sim no)
-		(at 153.162 80.772 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "934c8414-ee28-4c94-9308-26d15ee71bfc")
-	)
-	(text "CoverPage"
-		(exclude_from_sim no)
-		(at 104.648 48.26 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#1")
-		)
-		(uuid "a09c3ac5-8108-4898-b883-bfb33518acb2")
-	)
-	(text "Board Dimensions"
-		(exclude_from_sim no)
-		(at 115.316 76.454 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#6")
-		)
-		(uuid "a1716a6c-8d6d-4024-888f-8b3b18f87e60")
-	)
-	(text "5"
-		(exclude_from_sim no)
-		(at 153.162 71.12 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#5")
-		)
-		(uuid "a33c56b7-41c4-45ca-a291-141577a2dd7f")
-	)
-	(text "6"
-		(exclude_from_sim no)
-		(at 153.162 76.708 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#6")
-		)
-		(uuid "a3a494d4-e304-4eab-bc0d-8dcf4ff7226f")
-	)
-	(text "......."
-		(exclude_from_sim no)
-		(at 153.67 41.656 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "a4baa54f-baa8-4417-909c-27c359d4bd9e")
-	)
-	(text "4"
-		(exclude_from_sim no)
-		(at 153.162 65.532 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#4")
-		)
-		(uuid "b7969661-6049-438f-9587-e29ed73205e0")
-	)
-	(text "Second Relay"
-		(exclude_from_sim no)
-		(at 109.22 70.612 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#5")
-		)
-		(uuid "b920b352-7d30-4215-bd55-f54b12e66c36")
-	)
-	(text "1"
-		(exclude_from_sim no)
-		(at 152.908 48.514 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#1")
-		)
-		(uuid "c4f19a7a-3216-4747-b43b-f5bbfea448cd")
-	)
-	(text "MainPage"
-		(exclude_from_sim no)
-		(at 103.124 53.848 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-			)
-			(href "#2")
-		)
-		(uuid "dd060500-2275-48f1-a617-825bc85b2efa")
-	)
-	(text "${CURRENT_DATE}"
-		(exclude_from_sim no)
-		(at 252.984 22.86 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "dde68244-e974-443c-b850-17743e63d4b4")
-	)
-	(text "${project_name} ${project_version} "
-		(exclude_from_sim no)
-		(at 98.044 22.606 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "f3c2fcfb-61fa-41e7-ae80-f3f1cfe6e7bc")
-	)
-	(text "TOP VIEW"
-		(exclude_from_sim no)
-		(at 63.754 99.314 0)
-		(effects
-			(font
-				(size 5.08 5.08)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "f8185d5d-5493-4314-b98e-ca46935effdc")
-	)
-	(text "Page"
-		(exclude_from_sim no)
-		(at 96.774 35.814 0)
-		(effects
-			(font
-				(size 3.81 3.81)
-				(thickness 0.762)
-				(bold yes)
-			)
-		)
-		(uuid "fac6550d-f35c-4802-862c-9a2e3e984775")
 	)
 	(symbol
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
@@ -11244,6 +11283,10 @@
 	(sheet
 		(at 257.81 158.75)
 		(size 19.05 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -11282,6 +11325,10 @@
 	(sheet
 		(at 238.252 158.75)
 		(size 19.05 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -11322,4 +11369,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
