@@ -637,7 +637,7 @@
   "text_variables": {
     "project_creator": "Intergalaktik d.o.o.",
     "project_license": "CERN-OHL-S v2",
-    "project_name": "GamePadI2S_audio",
+    "project_name": "GamePad_I2S_audio",
     "project_version": "v0.1",
     "project_year": "2025."
   }
