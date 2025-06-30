@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -58,12 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "lib_footprint_mismatch|123950000|102810000|e2e66e13-5a8e-4cf0-bac7-f53d21088cb5|00000000-0000-0000-0000-000000000000",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -113,6 +108,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -604,7 +600,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "production",
+      "plot": "../../../../../tmp/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -728,7 +724,7 @@
     "project_creator": "Intergalaktik d.o.o.",
     "project_license": "CERN-OHL-S v2",
     "project_name": "dualTranslation",
-    "project_version": "v0.1",
+    "project_version": "v0.2",
     "project_year": "2025."
   }
 }
